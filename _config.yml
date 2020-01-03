@@ -1,6 +1,6 @@
 # Site settings
-title: WikiJekyll 
-description: "A test website to see if I can write in markdown in VimWiki and have it autoupdate"
+title: Semester 6 
+description: "My Academic Work. Most of it anyway."
 url: ""
 ogimage: "img/default-ogimage.png"
 author:
@@ -8,7 +8,7 @@ author:
 
 
 # Build settings
-baseurl: /wikisite_experiment # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /Semester6 # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
