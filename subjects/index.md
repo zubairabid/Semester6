@@ -15,3 +15,5 @@ layout: default
 [Principles of Information Security](POIS/index)
 
 [Computer Vision](CV/index)
+
+[Software Engineering](SE/index)
