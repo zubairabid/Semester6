@@ -1,6 +1,6 @@
+cifar*.gz
+mnist*.gz
+cifar*
+mnist*
 _site/
-.sass-cache/
 .jekyll-cache/
-.jekyll-metadata
-
-
