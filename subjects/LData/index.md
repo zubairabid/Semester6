@@ -23,6 +23,6 @@ layout: default
 
 ## Written Notes
 
-[Downloadable xopp file]()
+[Downloadable xopp file](./ldnotes.xopp)
 
-[Downloadable PDF]()
+[Downloadable PDF](./ldnotes.pdf)
