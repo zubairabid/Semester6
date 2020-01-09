@@ -23,6 +23,7 @@ layout: default
 ## Lecture Slides
 
 - [L2](L2)
+- [L3](L3)
 
 
 ## Written Notes
