@@ -1,9 +1,3 @@
-cifar*.gz
-mnist*.gz
-cifar*
-mnist*
-_site/
-.jekyll-cache/
 _site/
 *.gem
 .sass-cache/

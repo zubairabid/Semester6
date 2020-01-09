@@ -1,38 +1,45 @@
-# Site settings
-title: Semester 6 
-description: "My Academic Work. Most of it anyway."
-url: ""
-ogimage: "img/default-ogimage.png"
-author:
-  name: "Zubair Abid"
+# Site Info
+title:              "Semester 6"
+description:        "Semester Folder"
+author_name:        "Zubair Abid" # change this to your name
+logo_url:           https://avatars0.githubusercontent.com/u/26400677?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+
+# Site Settings
+url:                https://zubairabid.github.io # main url
+baseurl:            /Semster6 
+permalink:          /:title # Post permalink
+timezone:           Asia/Kolkata # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true  # enables support for mathjax - set to 'false' to disable
+
+# Site Build
+highlighter:        rouge
+markdown:           kramdown
+kramdown:
+    input:          GFM
+sass:
+    style:          :compressed
+
+# Other Params
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script" ]
+plugins:
+  - jekyll-sitemap
 
 
-# Build settings
-baseurl: /Semester6 # Change this to your relative path (ex: /blog/), or leave just a /
-markdown: kramdown
-source: .
-destination: ./_site
-paginate: 8
-paginate_path: /page:num/
 
-# Default values
 defaults:
   -
     scope:
-      path: ""
-      type: "posts"
+      path:         ""
     values:
-      layout: "post"
-
-# Plugins
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
-
-# Custom variables
-version: "1.0.0"
-
-# Options
-custom_header: false
-custom_nav_footer: false
-reverse: false
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"
