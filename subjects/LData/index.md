@@ -1,7 +1,7 @@
 ---
 title: Linguistic Data
 author: Zubair Abid
-layout: default
+layout: page
 ---
 
 

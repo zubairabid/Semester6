@@ -1,7 +1,7 @@
 ---
 title: The State in Colonial India 
 author: Zubair Abid
-layout: default
+layout: page
 ---
 
 ## Logistics

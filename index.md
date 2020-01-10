@@ -1,7 +1,7 @@
 ---
 title: Semester 6
 author: Zubair Abid
-layout: default
+layout: page 
 ---
 
 [Subjects](subjects/index)

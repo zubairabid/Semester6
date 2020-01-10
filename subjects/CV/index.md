@@ -1,7 +1,7 @@
 ---
 title: Computer Vision
 author: Zubair Abid
-layout: default
+layout: page
 ---
 
 

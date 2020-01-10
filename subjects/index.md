@@ -1,7 +1,7 @@
 ---
 title: Subjects 
 author: Zubair Abid
-layout: default
+layout: page
 ---
 
 # Courses Taken

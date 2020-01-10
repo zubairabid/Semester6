@@ -1,7 +1,7 @@
 ---
 title: Natural Language Applications 
 author: Zubair Abid
-layout: default
+layout: page
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Environment and Politics 
 author: Zubair Abid
-layout: default
+layout: page
 ---
 
 ## Logistics

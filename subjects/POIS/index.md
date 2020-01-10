@@ -1,7 +1,7 @@
 ---
 title: Principles of Information Security
 author: Zubair Abid
-layout: default
+layout: page
 ---
 
 

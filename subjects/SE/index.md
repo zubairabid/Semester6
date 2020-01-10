@@ -1,7 +1,7 @@
 ---
 title: Software Engineering 
 author: Zubair Abid
-layout: default
+layout: page
 ---
 
 
