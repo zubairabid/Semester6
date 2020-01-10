@@ -17,9 +17,13 @@ layout: page
 |           | %         |
 |           | %         |
 
+## Book
 
-## Lecture Slides
+[Introduction to Modern Cryptography](./Introduction to Modern Cryptography.pdf)
 
+## Typed Revision
+
+[poisrevision](poisrevision)
 
 ## Written Notes
 
