@@ -6,7 +6,9 @@ layout: default
 
 # Courses Taken
 
-[The State in Colonial India](Colonial/index)
+[The State in Colonial India](Colonial/index) (Cancelled)
+
+[Environment and Politics](./EandP/index)
 
 [Natural Language Applications](NLA/index)
 
@@ -14,6 +16,6 @@ layout: default
 
 [Principles of Information Security](POIS/index)
 
-[Computer Vision](CV/index)
+[Computer Vision](CV/index) (Dropped)
 
 [Software Engineering](SE/index)
