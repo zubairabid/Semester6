@@ -17,13 +17,14 @@ layout: page
 | PRFAQ              | 10%       |
 | Design Review      | 10%       |
 | Final Project Demo | 40%       |
-| Class Interaction  | 20%       |
+| Assignments        | 20%       |
 
 
 ## Lecture Slides
 
 - [L2](L2)
 - [L3](L3)
+- [L4](L4)
 
 
 ## Written Notes
