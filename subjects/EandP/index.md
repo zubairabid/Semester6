@@ -17,11 +17,13 @@ layout: page
 | Project       | 20%       |
 
 
-## Lecture Slides
-
-
 ## Written Notes
 
 [Downloadable xopp file](./epnotes.xopp)
 
 [Downloadable PDF](./epnotes.pdf)
+
+## Lecture Slides
+
+- [Lecture 1: Introduction](./Slides/Lecture 1 - Environment and Politics in India.pdf)
+- [Lecture 2: Global Environmentalism](./Slides/Lecture 2 - Global environmentalism.pdf)

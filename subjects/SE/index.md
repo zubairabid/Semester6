@@ -20,15 +20,21 @@ layout: page
 | Assignments        | 20%       |
 
 
-## Lecture Slides
+## Lecture Notes 
 
 - [L2](L2)
 - [L3](L3)
 - [L4](L4)
+- [L5](L5)
 
 
-## Written Notes
+## Lecture Slides
 
-[Downloadable xopp file]()
 
-[Downloadable PDF]()
+- [Course Description](./Slides/Class-1-Course-Description.pdf)
+- [Introduction](./Slides/Class-2-Introduction.pdf)
+- [Clean Code Fundamentals](./Slides/Class-3-The-Art-of-Clean-Code-Fundamentals.pdf)
+- [Clean Code Fundamentals 2](./Slides/Class-4-The-Art-of-Clean-Code-Fundamentals-Continued.pdf)
+    - [Clean Code Fundamental:tips](./Slides/Class-4-The-Art-of-Clean-Code-Fundamentals-Tips.pdf)
+- Slides
+
