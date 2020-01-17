@@ -14,7 +14,7 @@ layout: page
 |---------------|-----------|
 | End Sem Exam  | 40%       |
 | 4 Assignments | 40%       |
-| Project       | 20%       |
+| Midsem        | 20%       |
 
 
 ## Written Notes
