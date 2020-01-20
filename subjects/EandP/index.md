@@ -27,3 +27,9 @@ layout: page
 
 - [Lecture 1: Introduction](./Slides/Lecture 1 - Environment and Politics in India.pdf)
 - [Lecture 2: Global Environmentalism](./Slides/Lecture 2 - Global environmentalism.pdf)
+- [Lecture 3: Global Environmentalism II](./Slides/Lecture 3 - Global environmentalism II.pdf)
+- [Lecture 4: Themes in Indian Environmentalism I](./Slides/Lecture 4 - Themes in Indian Environmentalism I.pdf)
+
+## Readings
+
+- [ ] [Forest, timber use in Western Himalayas](./Readings/Forest, timber use in Western Himalayas 3-8.pdf)
