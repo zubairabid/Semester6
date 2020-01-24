@@ -27,6 +27,7 @@ layout: page
 - [L4](L4)
 - [L5](L5)
 - [L6](L6)
+- [L7](L7)
 
 
 ## Lecture Slides
