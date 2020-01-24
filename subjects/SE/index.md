@@ -40,3 +40,6 @@ layout: page
     - [Clean Code Fundamental:tips](./Slides/Class-4-The-Art-of-Clean-Code-Fundamentals-Tips.pdf)
 - Slides
 
+## Assignments
+
+[Assignment 1](Assignment 1)
