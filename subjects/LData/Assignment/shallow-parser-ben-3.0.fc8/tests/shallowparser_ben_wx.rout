@@ -1,0 +1,36 @@
+<Sentence id="1">
+1	((	NP	<fs af='kotirao,unk,,,,,,' poslcat="NM" head="kotirao">
+1.1	ekaSa	QC	<fs af='ekaSa,num,,,,,,'>
+1.2	kotirao	NN	<fs af='kotirao,unk,,,,,,' poslcat="NM" name="kotirao">
+	))		
+2	((	NP	<fs af='bahuBARI,adj,,,,,,' poslcat="NM" head="bahuBARI">
+2.1	beSi	JJ	<fs af='beSi,adj,,,,,,'>
+2.2	bahuBARI	NN	<fs af='bahuBARI,adj,,,,,,' poslcat="NM" name="bahuBARI">
+	))		
+3	((	NP	<fs af='kACAkACi,adj,,,,,,' poslcat="NM" head="kACAkACi">
+3.1	BArawabAsIke	NN	<fs af='BArawabAsI,n,,sg,,d,ke,ke'>
+3.2	kACAkACi	NST	<fs af='kACAkACi,adj,,,,,,' poslcat="NM" name="kACAkACi">
+	))		
+4	((	VGNF	<fs af='An,v,,,2,,wa,wa' head="Anawe">
+4.1	Anawe	VM	<fs af='An,v,,,2,,wa,wa' name="Anawe">
+	))		
+5	((	NP	<fs af='waWyaprayukwira,unk,,,,,,' poslcat="NM" head="waWyaprayukwira">
+5.1	waWyaprayukwira	NN	<fs af='waWyaprayukwira,unk,,,,,,' poslcat="NM" name="waWyaprayukwira">
+	))		
+6	((	NP	<fs af='BARAprayukwi,unk,,,,,,' poslcat="NM" head="BARAprayukwi">
+6.1	anwargawa	JJ	<fs af='anwargawa,adj,,,,,,'>
+6.2	BARAprayukwi	NN	<fs af='BARAprayukwi,unk,,,,,,' poslcat="NM" name="BARAprayukwi">
+	))		
+7	((	NP	<fs af='BUmikA,n,,sg,,d,0,0' head="BUmikA">
+7.1	eka	QC	<fs af='eka,num,,,,,,'>
+7.2	biSeRa	JJ	<fs af='biSeRa,adj,,,,,,'>
+7.3	BUmikA	NN	<fs af='BUmikA,n,,sg,,d,0,0' name="BUmikA">
+	))		
+8	((	NP	<fs af='pAlana,n,,sg,,d,0,0' head="pAlana">
+8.1	pAlana	NN	<fs af='pAlana,n,,sg,,d,0,0' name="pAlana">
+	))		
+9	((	VGF	<fs af='kar,v,,,3,,ne,ne' head="kare">
+9.1	kare	VM	<fs af='kar,v,,,3,,ne,ne' name="kare">
+9.2	.	SYM	<fs af='.,punc,,,,,,' poslcat="NM">
+	))		
+</Sentence>

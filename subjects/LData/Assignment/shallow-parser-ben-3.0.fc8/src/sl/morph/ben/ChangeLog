@@ -1,0 +1,23 @@
+06-11-2009 "Biswanath Barik" <bn.barik@gmail.com> 
+
+	
+	* Version 2.4
+	1. Morph root dictionary is enriched 
+	2. Paradyme files are modified
+
+	* Version 2.3
+
+	1. Include person 3 as default for nouns.
+	2. able to handle pronouns and able to produce their suffix. 
+
+	* Version 2.2
+
+	1. Include Makefile for copying and installation.
+	2. improve the directory structure as per ilmt_guideline_0.3 except application logging and code review.
+	3. able to handle pronouns (07-nov-2008)
+	
+	* Version 2.1
+
+	1. Include Makefile for copying and installation.
+	2. improve the directory structure as per ilmt_guideline_0.3 except application logging and code review.
+

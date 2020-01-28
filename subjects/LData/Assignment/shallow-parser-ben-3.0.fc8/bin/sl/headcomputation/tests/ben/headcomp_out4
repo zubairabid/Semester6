@@ -1,0 +1,25 @@
+<Sentence id="1">
+1	((	NP	<fs af='paWa,n,,sg,,d,0,0' head="paWati">
+1.1	xbiwIyZa	QO	<fs af='xbiwIyZa,num,,,,,,'>
+1.2	paWati	NN	<fs af='paWa,n,,sg,,d,0,0' name="paWati">
+	))		
+2	((	VGF	<fs af='ha,v,,,5,,la,la' head="hala">
+2.1	hala	VM	<fs af='ha,v,,,5,,la,la' name="hala">
+	))		
+3	((	NP	<fs af='candigadZa,n,,sg,,d,0,0' head="candigadZa">
+3.1	candigadZa	NN	<fs af='candigadZa,n,,sg,,d,0,0' name="candigadZa">
+	))		
+4	((	VGNF	<fs af='ha,v,,,any,,e,e' head="hayZe">
+4.1	hayZe	VM	<fs af='ha,v,,,any,,e,e' name="hayZe">
+	))		
+5	((	NP	<fs af='mAnA,v,,,4,,la,la' poslcat="NM" head="mAnAli">
+5.1	mAnAli	NN	<fs af='mAnA,v,,,4,,la,la' poslcat="NM" name="mAnAli">
+	))		
+6	((	RBP	<fs af='wArapara,adv,,,,,,' head="wArapara">
+6.1	wArapara	RB	<fs af='wArapara,adv,,,,,,' name="wArapara">
+	))		
+7	((	NP	<fs af='le,unk,,,,,,' poslcat="NM" head="le">
+7.1	le	NN	<fs af='le,unk,,,,,,' poslcat="NM" name="le">
+7.2	.	SYM	<fs af='.,punc,,,,,,' poslcat="NM">
+	))		
+</Sentence>

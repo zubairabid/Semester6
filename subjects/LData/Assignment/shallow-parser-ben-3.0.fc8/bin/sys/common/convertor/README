@@ -1,0 +1,94 @@
+						Convertor-3.3.2
+						--------------
+Convertor-3.3.2
+-------------
+
+
+Requirements:
+------------
+Operating System		:    LINUX/UNIX system
+
+Compiler/Interpreter/Librarie(s):    Perl and SSF API's
+
+Description:	
+------------
+Convertor is used for converting the input file into utf format or in wx format.The fields which are converting is TKN,lex,vib,name and head in SSF. If the input file is in wx format the program converts only the words which are in wx format irrespective of them starting with or without "@" symbol and if the inputfile is in utf format the program converts only the words which are in the source language mentioned by the user irrespective of them starting with or without "@" symbol. The converter will not touch any  third language( other than source language) Unicode character .( i.e) while processing.The input file must be in SSF or TEXT .
+
+For installation on Linux, please refer to the file INSTALL.
+
+
+Directory Structure:
+--------------------
+
+convertor
+     |
+     |---bin (functional source code of the convertor)
+     |
+     |---API (SSF API's)
+     |
+     |---tests (contains the referenece input and output)
+     |
+     |---doc (documentaion files of the translitration)
+     |
+     |---README (How to run/use the module)
+     |
+     |---INSTALL (How to install in sampark directory structure)
+     |
+     |---ChangeLog (version information)
+     |
+     |---Makefile (first level make file for copying the module source in sampark system)
+     |
+     |---Makefile.stage2 (2nd level make file for actual installation/copying in the bin and data_bin directory)
+     |
+     |---convertor_wx2utf_ssf_hin_run.sh (to run the convertor module ie.wx-utf conversion for Hindi language in SSF)
+     |
+     |---convertor_wx2utf_text_hin_run.sh (to run the convertor module ie.wx-utf conversion for Hindi language in TEXT Format)
+     |
+     |---convertor_utf2wx_ssf_hin_run.sh (to run the convertor module ie.utf-wx conversion for Hindi language in SSF)
+     |
+     |---convertor_utf2wx_text_hin_run.sh (to run the convertor module ie.utf-wx conversion for Hindi language in TEXT Format)
+     |
+     |---convertor_wx2utf_ssf_hin.sh (for the use of dashboard spec file ie.wx-utf conversion for Hindi language in SSF)
+     |
+     |---convertor_wx2utf_text_hin.sh (for the use of dashboard spec file ie.wx-utf conversion for Hindi language in TEXT format)
+     |
+     |---convertor_utf2wx_ssf_hin.sh (for the use of dashboard spec file ie.utf-wx conversion for Hindi language in SSF)
+     |
+     |---convertor_utf2wx_text_hin.sh (for the use of dashboard spec file ie.utf-wx conversion for Hindi language in TEXT format)
+     |
+     |---convertor.spec (individual convertor module run with dashboard)
+     |
+     |---convertor.pl (main file of convertor)
+
+
+
+How to Use?
+------------
+
+1a. WX-UTF Conversion: 
+
+    perl $SHALLOW_PARSER_BEN/bin/sys/common/convertor/convertor.pl --path=$SHALLOW_PARSER_BEN/bin/sys/common/convertor --stype=ssf --tlang=hin -s wx -t utf < tests/hin/hin_sent_6.rin
+	OR
+    perl $SHALLOW_PARSER_BEN/bin/sys/common/convertor/convertor.pl --path=$SHALLOW_PARSER_BEN/bin/sys/common/convertor --stype=text --tlang=hin -s wx -t utf < tests/hin/hin_text_4.rin
+
+1b. UTF-WX Conversion: 
+
+    perl $SHALLOW_PARSER_BEN/bin/sys/common/convertor/convertor.pl --path=$SHALLOW_PARSER_BEN/bin/sys/common/convertor --stype=ssf --slang=hin -s utf -t wx < tests/hin/hin_sent_6.rin
+	OR
+    perl $SHALLOW_PARSER_BEN/bin/sys/common/convertor/convertor.pl --path=$SHALLOW_PARSER_BEN/bin/sys/common/convertor --stype=text --slang=hin -s utf -t wx < tests/hin/hin_text_4.rin
+
+   * --stype=ssf or SSF similarly --stype=text or TEXT
+   *sample input and output files are provided in the tests dir namely convertor.rin convertor.rout
+
+2. perl $SHALLOW_PARSER_BEN/bin/sys/common/convertor/convertor.pl --help
+   for display the help
+
+   * convertor_wx2utf_ssf_hin_run.sh,convertor_wx2utf_text_hin_run.sh,convertor_utf2wx_ssf_hin_run.sh,convertor_utf2wx_text_hin_run.sh,convertor_utf2wx_ssf_hin.sh,convertor_utf2wx_text_hin.sh,convertor_wx2utf_ssf_hin.sh and convertor_wx2utf_text_hin.sh are working for Hindi language .For using other languages please edit those files for that particular language. 
+
+
+Author: Litha
+	LTRC
+	IIIT Hyderabad	
+Any Quries or suggestions mail to
+lithathampan@gmail.com
+

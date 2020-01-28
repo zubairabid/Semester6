@@ -1,0 +1,49 @@
+
+17-11-2008  Litha  <lithathampan@gmail.com>
+
+	* Version 3.3.2
+
+	1. Working in both SSF and TEXT format input file
+	2. Punctuation problem solved
+
+13-11-2008  Litha  <lithathampan@gmail.com>
+
+	* Version 3.3.1
+
+	1. Include Marthi as one source language.
+	2. Remove the problem of all.sh. 
+
+08-11-2008  Litha  <lithathampan@gmail.com>
+
+	* Version 3.3
+
+	1. It will handle  the input file with  more than one language
+	2a. For  UTF-WX: : It will convert only the words which are in the
+	    source language mentioned by the user irrespective of them starting
+	    with or without "@" symbol.
+	2b.For  WX-UTF:. It will convert only the words which are in wx format
+	   irrespective of them starting with or without "@" symbol.
+	3. The converter will not touch any  third language( other than source
+	   language) Unicode character .( i.e) while processing.
+
+01-11-2008  Litha  <lithathampan@gmail.com>
+
+	* Version 2.2
+
+	1. Include Makefile for copying and installation in sampark directory.
+	2. improve the directory structure as per ilmt_guideline_0.3 except application logging and code review.
+
+08-10-2008  Litha  <lithathampan@gmail.com>
+
+	* Version 2.1
+
+	1. 
+	2. 
+
+14-08-2008  Litha  <lithathampan@gmail.com>
+
+	* Version .91
+
+	1. Basic version. .
+
+

@@ -1,0 +1,9 @@
+1	praWama	QO	<fs af='praWama,adj,,,,,,'>|<fs af='praWama,num,,,,,,'>|<fs af='praWama,adv,,,,,,'>
+2	paWati	NN	<fs af='paWa,n,,sg,,d,SUnya,SUnya'>
+3	hala	VM	<fs af='ha,v,,,5,,la,la'>
+4	jammu	VAUX	<fs af='jammu,n,,sg,,d,SUnya,SUnya'>
+5	hayZe	VM	<fs af='hayZe,psp,,,,,,'>|<fs af='hayZe,avy,,,,,,'>|<fs af='ha,v,,,any,,me,me'>|<fs af='ha,v,,,any,,yZe,yZe'>
+6	kAragila	VAUX	<fs af='kAragila,n,,sg,,d,SUnya,SUnya'>
+7	wArapara	RB	<fs af='wArapara,adj,,,,,,'>|<fs af='wArapara,avy,,,,,,'>|<fs af='wArapara,adv,,,,,,'>
+8	le	NN	<fs af='le,n,,sg,,d,SUnya,SUnya'>
+9	.	SYM	<fs af='.,punc,,,,,,'>

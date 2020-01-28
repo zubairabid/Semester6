@@ -1,0 +1,87 @@
+						CRF CHUNKING 1.2 (CHUNKING)
+						--------------------------
+Hindi CRF Chunker : Chunking involves identifying simple noun phrases, verb groups, adjectival
+phrases,and adverbial phrases in a sentence. This involves identifying the boundary
+of chunks and marking the label.
+
+There is two part in chunker one is training(training mode) and other is testing
+(perform or run mode).
+
+In training mode, we train the chunker using the manually chunked annotated data and
+generate trained model (e.g. model_chunker).
+
+In perform/run mode, we use above parameter to tag the input sentence.Both training
+and testing pos tagger internally use the BIO format.
+
+Requirements:
+------------
+Operating System		:    LINUX/UNIX system
+
+Compiler/Interpreter/Librarie(s):    Perl, SSF API's and C++ compiler (gcc 3.0 or higher)
+
+we assumed that CRF Tool kit is installed at your system.
+if CRF Tool Kit is not installed at your system then you download
+and instaaled from http://crfpp.sourceforge.net/ site.
+
+version of CRF should be 0.42 or higher.
+
+For installation on Linux, please refer to the file INSTALL.
+
+Directory Structure:
+--------------------
+
+chunker
+     |
+     |    
+     |---data_bin (data bin files)
+     |     |
+     |     |---ben/model_chunker
+     |	  
+     |---data_src
+     |	    |
+     |      |---ben/ben_train_data
+     |
+     |---API (SSF API's)
+     |
+     |---tests (contains the referenece input and output)
+     |     |
+     |     |--ben (contains the referenece input and output of bengali as source langauge)
+     |
+     |---doc (documentaion files of the chunker)
+     |
+     |---README (How to run/use the module)
+     |
+     |---INSTALL (How to install in sampark directory structure)
+     |
+     |---ChangeLog (version inforamation)
+     |
+     |---Makefile (first level make file for copying the module source in sampark system)
+     |
+     |---Makefile.stage2 (2nd level make file for actual installation/copying in the bin and data_bin directory)
+     |
+     |---chunker_run.sh (to run the chunker module)
+     |
+     |---chunker_train.sh (to train the chunker module)
+     |
+     |---chunker.sh (for the use of dashboard spec file)
+     |
+     |---chunker.spec (individual chunker module run with dashboard)
+     |
+     |---ssf2tnt_pos.pl (convert ssf to tnt format)
+     |
+     |---convert_biotossf.pl (convert bio to ssf format)
+
+
+
+
+How to Use??
+------------
+
+
+1. perl $SHALLOW_PARSER_BEN/bin/sl/chunker/common/ssf2tnt_pos.pl $1 > chunkinput_pos.tnt
+
+2. crf_test -m $SHALLOW_PARSER_BEN/data_bin/sl/chunker/ben/model_chunker chunkinput_pos.tnt > chunker_out.tnt
+
+3. perl $SHALLOW_PARSER_BEN/bin/sl/chunker/common/convert_biotossf.pl < chunker_out.tnt
+
+

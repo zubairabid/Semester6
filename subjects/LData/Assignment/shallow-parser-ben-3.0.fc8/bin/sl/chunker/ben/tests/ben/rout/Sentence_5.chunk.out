@@ -1,0 +1,19 @@
+<Sentence id="1">
+1	((	NP	
+1.1	praWama	QO	<fs af='praWama,adj,,,,,,'>|<fs af='praWama,num,,,,,,'>|<fs af='praWama,adv,,,,,,'>
+1.2	paWati	NN	<fs af='paWa,n,,,,nom,,'>
+	))		
+2	((	JJP	
+2.1	apekRAkqwa	INTF	<fs af='apekRAkqwa,adj,,,,nom,,'>
+2.2	subiXAjanaka	JJ	<fs af='subiXAjanaka,adj,,,,nom,,'>|<fs af='subiXAjanaka,adj,,,,nom,,'>|<fs af='subiXAjanaka,adv,,,,nom,,'>
+	))		
+3	((	CCP	
+3.1	ebaM	CC	<fs af='ebaM,avy,,,,nom,,'>
+	))		
+4	((	NP	
+4.1	kama	QF	<fs af='kama,adj,,,,nom,,'>|<fs af='kam,v,,,2,nom,,ka'>|<fs af='kam,v,,,2,nom,,e'>
+4.2	kaRtakara	NN	<fs af='kaRtakara,adj,,,2,nom,,e'>
+4.3	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>
+

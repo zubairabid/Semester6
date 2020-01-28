@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	((	NP	<fs af='gAdZi,n,,sg,,o,era,era' head="gAdZira">
+1.1	gAdZira	NN	<fs af='gAdZi,n,,sg,,o,era,era' name="gAdZira">
+	))		
+2	((	NP	<fs af='BAdZA,n,,sg,,d,0,0' head="BAdZA">
+2.1	BAdZA	NN	<fs af='BAdZA,n,,sg,,d,0,0' name="BAdZA">
+	))		
+3	((	VGNN	<fs af='nA,v,,,1,,yZa_Weke,yZa' head="nayZa">
+3.1	nayZa	VM	<fs af='nA,v,,,1,,yZa,yZa' name="nayZa">
+	))		
+4	((	NP	<fs af='maXye,psp,,,,,,' poslcat="NM" head="maXye">
+4.1	xaSa	QC	<fs af='xaSa,num,,,,,,'>
+4.2	hAjAra	QC	<fs af='hAjAra,adj,,,,,,' poslcat="NM">
+4.3	tAkAra	NN	<fs af='tAkA,n,,sg,,o,era,era'>
+4.4	maXye	NST	<fs af='maXye,psp,,,,,,' poslcat="NM" name="maXye">
+4.5	.	SYM	<fs af='.,punc,,,,,,' poslcat="NM">
+	))		
+</Sentence>

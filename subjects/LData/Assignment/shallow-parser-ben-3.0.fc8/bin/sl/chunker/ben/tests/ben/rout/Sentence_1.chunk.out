@@ -1,0 +1,22 @@
+<Sentence id="1">
+1	((	NP	
+1.1	lAxAKa	NNP	<fs af='lAxAKa,unk,,,,,,'>
+	))		
+2	((	NP	
+2.1	BramaNera	NN	<fs af='BramaNa,n,,,,gen,,'>|<fs af='BramaNa,n,,,,gen,,'>
+	))		
+3	((	NP	
+3.1	AxarSa	JJ	<fs af='AxarSa,adj,,,,gen,,'>|<fs af='AxarSa,adj,,,,gen,,'>|<fs af='AxarSa,n,,,,nom,,'>
+3.2	samayZa	NN	<fs af='samayZa,n,,,,nom,,'>
+	))		
+4	((	NP	
+4.1	juna	NNP	<fs af='juna,n,,,,nom,,'>
+4.2	Weke	PSP	<fs af='Weke,psp,,,,nom,,'>|<fs af='Weke,avy,,,,nom,,'>|<fs af='WAk,vn,,,any,nom,,e'>
+	))		
+5	((	NP	
+5.1	septembarera	NNP	<fs af='septembarera,unk,,,,,,'>
+5.2	mAJAmAJi	NST	<fs af='mAJAmAJi,adj,,,any,nom,,e'>|<fs af='mAJAmAJi,n,,,any,nom,,e'>
+5.3	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>
+

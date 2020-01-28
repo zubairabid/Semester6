@@ -1,0 +1,9 @@
+<Sentence id="1">
+1	((	VGF	<fs af='lAxAKa,n,,sg,5,d,0_yA+A_yA+e,0' head="lAxAKa" poslcat="NM">
+1.1	lAxAKa	VM	<fs af='lAxAKa,n,,sg,,d,0,0' poslcat="NM" name="lAxAKa">
+	))		
+2	((	RBP	<fs af='xuBAbe,unk,,,,,,' poslcat="NM" head="xuBAbe">
+2.1	xuBAbe	RB	<fs af='xuBAbe,unk,,,,,,' poslcat="NM" name="xuBAbe">
+2.2	.	SYM	<fs af='.,punc,,,,,,' poslcat="NM">
+	))		
+</Sentence>

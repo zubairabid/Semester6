@@ -1,0 +1,20 @@
+<Sentence id="1">
+1	((	CCP	
+1.1	kinwu	CC	<fs af='kinwu,avy,,,,,,'>|<fs af='kinwu,avy,,,,,,'>
+	))		
+2	((	NP	
+2.1	xbiwIyZa	QO	<fs af='xbiwIyZa,num,,,,,,'>
+2.2	paWatii	NN	<fs af='paWatii,unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	
+3.1	eKana	PRP	<fs af='eKana,pn,,,,d,e,e'>
+	))		
+4	((	NP	
+4.1	paryatakamahale	NN	<fs af='paryatakamahala,n,,sg,,d,e,e'>
+	))		
+5	((	JJP	
+5.1	beSi	JJ	<fs af='beSi,adj,,,,,,'>|<fs af='beSi,adj,,,,,,'>
+5.2	janapriyZa	JJ	<fs af='janapriyZa,adj,,,,,,'>
+5.3	.	SYM	<fs af='.,punc,,,,,,' poslcat="NM">
+	))		
+</Sentence>

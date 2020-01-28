@@ -1,0 +1,40 @@
+Basic Installation
+==================
+
+Follow the below Steps : 
+
+  1) untar the binary package of shallow-parser-ben-3.0.tgz
+	
+        tar -xvzf shallow-parser-ben-3.0.tgz
+
+  2) `cd' to the directory containing the package binary.
+
+	cd shallow-parser-ben-3.0
+
+  3.1) Export the Variable `SHALLOW_PARSER_BEN'.
+ 
+       echo "export SHALLOW_PARSER_BEN=~/sampark/shallow_parser_ben" >> ~/.bashrc
+
+  3.2) Set the PATH to the SHALLOW_PARSER_BEN/bin/sl/sys/ben
+
+       echo "export PATH=\$PATH:\$SHALLOW_PARSER_BEN/bin/sys/ben/" >> ~/.bashrc
+
+  3.3) Compile the ~/.bashrc
+  
+       source ~/.bashrc
+
+  4)   To Install 
+       Type `make install' to install the programs, data files and
+       documentation.
+                   
+	make install
+
+ For how to use shallow parser for bendi, please refer to the file README-user.
+
+ To Uninstall 
+ -- ---------
+
+     If you want to remove the program binaries and object files from the
+     binary package directory type `make uninstall'. 
+
+      make uninstall 

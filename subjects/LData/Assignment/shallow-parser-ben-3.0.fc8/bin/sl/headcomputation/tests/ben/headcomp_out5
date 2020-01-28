@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	((	NP	<fs af='paWa,n,,sg,,d,0,0' head="paWati">
+1.1	praWama	QO	<fs af='praWama,num,,,,,,'>
+1.2	paWati	NN	<fs af='paWa,n,,sg,,d,0,0' name="paWati">
+	))		
+2	((	JJP	<fs af='subiXAjanaka,adj,,,,,,' head="subiXAjanaka">
+2.1	apekRAkqwa	INTF	<fs af='apekRAkqwa,adj,,,,,,' poslcat="NM">
+2.2	subiXAjanaka	JJ	<fs af='subiXAjanaka,adj,,,,,,' name="subiXAjanaka">
+	))		
+3	((	CCP	<fs af='ebaM,avy,,,,,,' head="ebaM">
+3.1	ebaM	CC	<fs af='ebaM,avy,,,,,,' name="ebaM">
+	))		
+4	((	JJP	<fs af='kaRtakara,adj,,,,,,' head="kaRtakara">
+4.1	kama	JJ	<fs af='kama,adj,,,,,,'>
+4.2	kaRtakara	JJ	<fs af='kaRtakara,adj,,,,,,' name="kaRtakara">
+4.3	.	SYM	<fs af='.,punc,,,,,,' poslcat="NM">
+	))		
+</Sentence>

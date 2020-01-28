@@ -1,0 +1,85 @@
+						MORPH 2.3 (MORPH ANALYZER)
+						-------------------
+Morph : 
+
+
+Requirements:
+------------
+Operating System		:    LINUX/UNIX system
+
+Compiler/Interpreter/Librarie(s):    gcc, glib-2.0 and SSF API's
+
+For installation on Linux, please refer to the file INSTALL.
+
+
+Directory Structure:
+--------------------
+
+morph
+     |
+     |---src (functional source code of the morph)
+     |	    |---sl/morph/ben
+     |	    	|---API (SSF API's)
+     |    
+     |---data_bin (data bin files)
+     |     |
+     |     |---sl/morph/ben
+     |	  
+     |---data_src
+     |	    |---sl/morph/ben
+     |      	|---c_data
+     |      	|---pc_data
+     |	    	|---dict
+     |      	|---shell
+     |
+     |
+     |---tests (contains the referenece input and output)
+     |     |
+     |     |--ben (contains the referenece input and output of bengali as source langauge)
+     |
+     |---doc (documentaion files of the morph)
+     |
+     |---README (How to run/use the module)
+     |
+     |---INSTALL (How to install in sampark directory structure)
+     |
+     |---ChangeLog (version inforamation)
+     |
+     |---Makefile (first level make file for copying the module source in sampark system)
+     |
+     |---Makefile.stage2 (2nd level make file for actual installation/copying in the bin and data_bin directory)
+     |
+     |---morph_run.sh (to run the morph module)
+     |
+     |---morph.sh (for the use of dashboard spec file)
+     |
+     |---morph.spec (individual morph module run with dashboard)
+
+
+How to Use??
+------------
+
+1. $setu/bin/sl/morph/ben/morph.out --logfilepath morph.log --pdgmfilepath $setu/data_bin/sl/morph/ben/ --uwordpath $setu/data_bin/sl/morph/ben/dict_final --dictfilepath $setu/data_bin/sl/morph/ben/dict/  -ULDWH --inputfile morph.rin --outputfile morph.rout
+
+   
+   *resource is the data_src/sl/morph/ben/* file 
+
+   *sample input and output files are provided in the tests dir namely morph.rin morph.rout.
+
+2. update the db file in case of any change in the data file.
+
+  cd $setu/src/sl/morph/ben
+  make compile 
+  make install
+
+
+#################################
+Author: Biswanath Barik
+	CEL
+	IIT, Kharagpur
+
+Any Quries or suggestions mail to
+bn.barik@gmail.com
+Ph.No: 09775550937
+#################################
+

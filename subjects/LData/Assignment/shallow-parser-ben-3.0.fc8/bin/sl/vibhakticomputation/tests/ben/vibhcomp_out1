@@ -1,0 +1,22 @@
+<Sentence id="1">
+1	((	NP	<fs af='lAxAKa,n,,sg,,d,0,0' head="lAxAKa">
+1.1	lAxAKa	NNP	<fs af='lAxAKa,n,,sg,,d,0,0' name="lAxAKa">
+	))		
+2	((	NP	<fs af='BramaNa,n,,sg,,o,era,era' head="BramaNera">
+2.1	BramaNera	NN	<fs af='BramaNa,n,,sg,,o,era,era' name="BramaNera">
+	))		
+3	((	NP	<fs af='AxarSa,n,,sg,,d,0,0' head="AxarSa">
+3.1	AxarSa	NN	<fs af='AxarSa,n,,sg,,d,0,0' name="AxarSa">
+	))		
+4	((	NP	<fs af='samayZa,n,,sg,,d,0,0' head="samayZa">
+4.1	samayZa	NN	<fs af='samayZa,n,,sg,,d,0,0' name="samayZa">
+	))		
+5	((	NP	<fs af='juna,n,,sg,,d,0_Weke,0' head="juna">
+5.1	juna	NNP	<fs af='juna,n,,sg,,d,0,0' name="juna">
+	))		
+6	((	NP	<fs af='mAJAmAJi,adj,,,,,,' poslcat="NM" head="mAJAmAJi">
+6.1	septembarera	NNP	<fs af='septembara,n,,sg,,o,era,era'>
+6.2	mAJAmAJi	NST	<fs af='mAJAmAJi,adj,,,,,,' poslcat="NM" name="mAJAmAJi">
+6.3	.	SYM	<fs af='.,punc,,,,,,' poslcat="NM">
+	))		
+</Sentence>

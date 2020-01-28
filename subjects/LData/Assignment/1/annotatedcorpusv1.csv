@@ -1,0 +1,44 @@
+1;	প্রতিদিন;		RB;		<fs af='প্রতিদিন,adv,,,,,,' name="প্রতিদিন">;					advmod;		6
+2;	পুরোনো;		JJ;		<fs af='পুরোনো,adj,,,,,,' name="পুরোনো">;						nmod;		3
+3;	সাইকেল;		NN;		<fs af='সাইকেল,unk,,,,,,' name="সাইকেল" poslcat="NM">;		obj;		4
+4;	নিয়ে;		VM;		<fs af='নিযে,unk,,,,,,' name="নিযে" poslcat="NM">;			mark;		6
+5;	বের;			NN;		<fs af='বের,n,,sg,,d,0,0' name="বের">;						compound;	6
+6;	হন;			VM;		<fs af='হ,v,,,3,,ক,ka' name="হন">;							root;
+7;	আদিত্য;		NNP;	<fs af='আদিত্য,n,,sg,,d,0,0' name="আদিত্য">;					nsubj;		6
+8;	কুমার;		XC;		<fs af='কুমার,n,,sg,,d,0,0' name="কুমার" poslcat="NM">;		flat;		7
+9;	।;			SYM;	<fs af='.,punc,,,,,,' name=".">;
+
+1;	সাইকেলের;	NNP;	<fs af='সাইকেলের,unk,,,,,,' name="সাইকেলের" poslcat="NM">;	nsubj;		3
+2;	পেছনে;		NST;	<fs af='পেছন,n,,sg,,d,মে,me' name="পেছনে" poslcat="NM"> ;	case;		1
+3;	থাকে;		VM;		<fs af='থাক্,v,,,3,,নে,ne' name="থাকে">;						root;		0
+4;	অনেক;		QF;		<fs af='অনেক,adj,,,,,,' name="অনেক">;						nummod;		6
+5;	বই;			NN;		<fs af='বই,n,,sg,,d,0,0' name="বই">;							obj;		3						
+6;	।;			SYM;	<fs af='.,punc,,,,,,' name=".">;
+
+1;	সেগুলো;		PRP;	<fs af='সেগুলো,unk,,,,,,' name="সেগুলো" poslcat="NM">;		discourse;	5
+2;	নিয়ে;		VM;		<fs af='নিযে,unk,,,,,,' name="নিযে" poslcat="NM">;
+3;	প্রতিদিন;		RB;		<fs af='প্রতিদিন,adv,,,,,,' name="প্রতিদিন">;
+4;	চষে;			VM;		<fs af='চষ্,v,,,3,,নে,ne' name="চষে">;
+5;	বেড়ান;		VAUX;	<fs af='বেডান,unk,,,,,,' name="বেডান" poslcat="NM">;			
+6;	প্রায়;		NN;		<fs af='প্রায্,unk,,,,,,' name="প্রায্" poslcat="NM">;			
+7;	৪০;			QC;		<fs af='40,num,,,,,,' name="40">;
+8;	মাইল;		NN;		<fs af='মাইল,n,,sg,,d,0,0' name="মাইল">;
+9;	।;			SYM;	<fs af='.,punc,,,,,,' name=".">;
+
+20;	আর;			CC;		<fs af='আর,avy,,,,,,' name="আর">;
+21;	এর;			PRP;	<fs af='এ,pn,,sg,,o,এর,era' name="এর">;
+22;	সবকিছুই;		QF;		<fs af='সবকিছু,pn,,sg,,d,0,0' name="সবকিছুই" poslcat="NM">;
+23;	তিনি;		PRP;	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">;
+24;	করেন;		VM;		<fs af='কর্,v,,,2,,নে,ne' name="করেন">;
+25;	বিনা;			JJ;		<fs af='বিনা,adj,,,,,,' name="বিনা">;
+26;	পয়সায়;		VAUX;	<fs af='পয্সায্,unk,,,,,,' poslcat="NM">;
+27;	ভারতের;		NNP;	<fs af='ভারত,n,,sg,,o,এর,era' name="ভারতের">;
+28;	বস্তির;		NN;		<fs af='বস্তির,unk,,,,,,' name="বস্তির" poslcat="NM">;
+29;	শিশুদের;		NN;		<fs af='শিশু,n,,pl,,o,এর,era'>;
+30;	মধ্যে;		NST;	<fs af='মধ্যে,psp,,,,,,' name="মধ্যে" poslcat="NM">;
+31;	শিক্ষার;		NN;		<fs af='শিক্ষা,n,,sg,,o,এর,era' name="শিক্ষার">;
+32;	আলো;		NN;		<fs af='আলো,n,,sg,,d,0,0' name="আলো">;
+33;	ছড়িয়ে;		VM;		<fs af='ছডিযে,unk,,,,,,' name="ছডিযে" poslcat="NM">;
+34;	দিতে;		VM;		<fs af='দে,v,,,2,,ত,wa' name="দিতে">;
+
+35;	এভাবে;		RB;		<fs af='এ,adv,,,,,,' name="এভাবে">;

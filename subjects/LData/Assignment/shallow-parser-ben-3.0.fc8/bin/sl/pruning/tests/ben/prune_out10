@@ -1,0 +1,21 @@
+<Sentence id="1">
+1	((	NP	
+1.1	mAnAli	NN	<fs af='mAnA,v,,,4,,la,la' poslcat="NM">
+1.2	Weke	PSP	<fs af='Weke,psp,,,,,,'>
+	))		
+2	((	NP	
+2.1	le	NN	<fs af='le,unk,,,,,,' poslcat="NM">
+	))		
+3	((	JJP	
+3.1	eka	QC	<fs af='eka,num,,,,,,'>|<fs af='eka,num,,,,,,'>
+3.2	xIrGa	JJ	<fs af='xIrGa,adj,,,,,,'>
+	))		
+4	((	CCP	
+4.1	ebaM	CC	<fs af='ebaM,avy,,,,,,'>
+	))		
+5	((	NP	
+5.1	kaRtakara	JJ	<fs af='kaRtakara,adj,,,,,,'>
+5.2	yAwrApaWa	NN	<fs af='yAwrApaWa,n,,sg,,d,0,0'>
+5.3	.	SYM	<fs af='.,punc,,,,,,' poslcat="NM">
+	))		
+</Sentence>

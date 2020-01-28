@@ -1,0 +1,38 @@
+<Sentence id="1">
+1	((	NP	
+1.1	mAnAli	NN	<fs af='mAnA,v,,,4,,la,la' poslcat="NM">
+1.2	Weke	PSP	<fs af='Weke,psp,,,,,,'>
+	))		
+2	((	VGNN	
+2.1	le	VM	<fs af='le,unk,,,,,,' poslcat="NM">
+2.2	yAoyZAra	VAUX	<fs af='yA,n,,,any,,,' poslcat="NM">
+	))		
+3	((	NP	
+3.1	sarakAri	NN	<fs af='sarakAri,adj,,,,,,' poslcat="NM">
+	))		
+4	((	CCP	
+4.1	ebaM	CC	<fs af='ebaM,avy,,,,,,'>
+	))		
+5	((	NP	
+5.1	besarakAri	JJ	<fs af='besarakAri,adj,,,,,,'>
+5.2	bAsa	NN	<fs af='bAs,v,,,4,,ka,ka' poslcat="NM">|<fs af='bAs,v,,,3,,e,e' poslcat="NM">|<fs af='bA,v,,,4,,ka,ka' poslcat="NM">
+5.3	CAdZAo	PSP	<fs af='CAdZA,psp,,,,,,'>|<fs af='CAdZA,psp,,,,,,'>
+	))		
+6	((	NP	
+6.1	tAtAsumo	NN	<fs af='tAtAsumo,n,,sg,,d,0,0'>
+	))		
+7	((	JJP	
+7.1	jAwIyZa	JJ	<fs af='jAwIyZa,adj,,,,,,'>
+	))		
+8	((	NP	
+8.1	gAdZi	NN	<fs af='gAdZi,n,,sg,,d,0,0'>
+	))		
+9	((	NP	
+9.1	BAdZA	NN	<fs af='BAdZA,n,,sg,,d,0,0'>
+	))		
+10	((	VGF	
+10.1	pAoyZA	VM	<fs af='pAoyZA,v,,,4,,ka,ka'>|<fs af='pA,v,,,7,,A,A'>|<fs af='pA,v,,,7,,0,0'>
+10.2	yAyZa	VAUX	<fs af='yA,v,,,5,,e,e'>
+10.3	.	SYM	<fs af='.,punc,,,,,,' poslcat="NM">
+	))		
+</Sentence>

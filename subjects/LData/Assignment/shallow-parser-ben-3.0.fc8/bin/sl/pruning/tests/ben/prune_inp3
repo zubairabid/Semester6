@@ -1,0 +1,22 @@
+<Sentence id="1">
+1	((	NP	
+1.1	praWama	QO	<fs af='praWama,adj,,,,,,'>|<fs af='praWama,num,,,,,,'>|<fs af='praWama,adv,,,,,,'>
+1.2	paWati	NN	<fs af='paWa,n,,sg,,d,0,0'>
+	))		
+2	((	VGF	
+2.1	hala	VM	<fs af='ha,v,,,5,,la,la'>
+2.2	jammu	VAUX	<fs af='jammu,n,,sg,,d,0,0'>
+	))		
+3	((	VGNF	
+3.1	hayZe	VM	<fs af='hayZe,psp,,,,,,'>|<fs af='hayZe,avy,,,,,,'>|<fs af='ha,v,,,any,,e,e'>|<fs af='ha,v,,,any,,yZe,yZe'>
+3.2	kAragila	VAUX	<fs af='kAragila,n,,sg,,d,0,0'>
+	))		
+4	((	RBP	
+4.1	wArapara	RB	<fs af='wArapara,adj,,,,,,'>|<fs af='wArapara,avy,,,,,,'>|<fs af='wArapara,adv,,,,,,'>
+	))		
+5	((	NP	
+5.1	le	NN	<fs af='le,unk,,,,,,'>
+5.2	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>
+

@@ -1,0 +1,25 @@
+<Sentence id="1">
+1	((	CCP	
+1.1	eCAdZA	CC	<fs af='eCAdZA,avy,,,,,,'>
+	))		
+2	((	NP	
+2.1	himAcala	NN	<fs af='himAcala,n,,sg,,d,0,0'>
+	))		
+3	((	NP	
+3.1	paryatana	NN	<fs af='paryatana,n,,sg,,d,0,0'>
+	))		
+4	((	NP	
+4.1	xapwarera	NN	<fs af='xapwara,n,,sg,,o,era,era'>
+	))		
+5	((	NP	
+5.1	dilAksa	NN	<fs af='dilAksa,unk,,,,,,'>
+	))		
+6	((	NP	
+6.1	bAsao	NN	<fs af='bA,v,,,4,,kao,kao'>
+	))		
+7	((	VGF	
+7.1	ACe	VM	<fs af='ACa,v,,,7,,A,A'>|<fs af='ACa,v,,,5,,e,e'>
+7.2	.	SYM	<fs af='.,punc,,,,,,'>
+	))		
+</Sentence>
+

@@ -1,0 +1,13 @@
+<Sentence id="3">
+0	((	SSF	
+1	praWama	QO	<fs af='praWama,adj,,,,,,'>|<fs af='praWama,num,,,,,,'>|<fs af='praWama,adv,,,,,,'>
+2	paWati	NN	<fs af='paWa,n,,,,nom,,'>
+3	hala	VM	<fs af='ha,v,,,3,nom,,la'>
+4	jammu	NNP	<fs af='jammu,unk,,,,,,'>
+5	hayZe	PSP	<fs af='hayZe,psp,,,3,nom,,la'>|<fs af='hayZe,avy,,,3,nom,,la'>|<fs af='ha,vn,,,any,nom,,e'>
+6	kAragila	NNP	<fs af='kAragila,unk,,,,,,'>
+7	wArapara	CC	<fs af='wArapara,adj,,,any,nom,,e'>|<fs af='wArapara,avy,,,any,nom,,e'>|<fs af='wArapara,adv,,,any,nom,,e'>
+8	le	NNP	<fs af='le,unk,,,,,,'>
+9	.	SYM	<fs af='.,punc,,,,,,'>
+	))
+</Sentence>

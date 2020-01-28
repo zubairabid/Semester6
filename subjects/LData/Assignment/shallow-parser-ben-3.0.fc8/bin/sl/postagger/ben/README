@@ -1,0 +1,106 @@
+						CRF POS Tagger 1.3.1
+						------------------
+POS Tagger : 
+------------
+
+POS Tagger : This module takes the SSF sentence and assign the part of speech tag
+(e.g. noun, verb, adjective etc.) to each word in the sentence. there is two part in
+pos tagger one is training(training mode) and other is testing(perform or run mode).
+
+In training mode, we train the pos tagger using the manually pos annotated data and
+generate trained model.
+
+In perform/run mode, we use above parameter to tag the input sentence.
+Both training and testing pos tagger internally use the TNT format.
+
+Requirements:
+------------
+Operating System		:    LINUX/UNIX system
+
+Compiler/Interpreter/Librarie(s):    Perl, SSF API's and C++ compiler (gcc 3.0 or higher)
+
+we assumed that CRF Tool kit is installed at your system.
+if CRF Tool Kit is not installed at your system then you download
+and instaaled from http://crfpp.sourceforge.net/ site.
+
+version of CRF should be 0.42 or higher.
+
+
+For installation on Linux, please refer to the file INSTALL.
+
+
+Directory Structure:
+--------------------
+
+postagger
+     |
+     |    
+     |---data_bin (data bin files)
+     |     |
+     |     |---240k_model_postagger
+     |	  
+     |---data_src
+     |	    |
+     |      |---hin/240k-hindi-wx.ssf.clean
+     |
+     |---API (SSF API's)
+     |
+     |---tests (contains the referenece input and output)
+     |     |
+     |     |--hin (contains the referenece input and output of hindi as source langauge)
+     |
+     |---doc (documentaion files of the postagger)
+     |
+     |---README (How to run/use the module)
+     |
+     |---INSTALL (How to install in sampark directory structure)
+     |
+     |---ChangeLog (version inforamation)
+     |
+     |---Makefile (first level make file for copying the module source in sampark system)
+     |
+     |---Makefile.stage2 (2nd level make file for actual installation/copying in the bin and data_bin directory)
+     |
+     |---postagger_run.sh (to run the postagger module)
+     |
+     |---postagger_train.sh (to train the postagger module)
+     |
+     |---postagger.sh (for the use of dashboard spec file)
+     |
+     |---postagger.spec (individual postagger module run with dashboard)
+     |
+     |---ssf2tnt.pl (convert ssf to tnt)
+     |
+     |---extra_features.pl (use for give the extra feature to imporove the accuracy)
+     |
+     |---split.pl (split the output to make it ssf)
+     |
+     |---tnt2ssf.pl (convert tnt format into ssf)
+
+
+
+
+How to Use??
+------------
+
+1)perl $setu/bin/sl/postagger/common/ssf2tnt.pl $1 > posinput.tnt
+
+2)perl $setu/bin/sl/postagger/common/extra_features.pl posinput.tnt > extra_input.tmp
+
+3)crf_test -m $setu/data_bin/sl/postagger/hin/240k_model_postagger extra_input.tmp > crfposout.tmp
+
+4)perl $setu/bin/sl/postagger/common/split.pl < crfposout.tmp > postaggerout.tnt;
+
+5)perl $setu/bin/sl/postagger/common/tnt2ssf.pl < postaggerout.tnt
+
+#################################
+Author: Avinesh PVS
+	LTRC
+	IIIT Hyderabad	
+
+Any Quries or suggestions mail to
+avinesh@students.iiit.ac.in
+(or)
+avinesh.pvs@gmail.com 
+#################################
+

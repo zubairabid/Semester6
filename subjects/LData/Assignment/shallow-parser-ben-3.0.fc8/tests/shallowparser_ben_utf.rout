@@ -1,0 +1,36 @@
+<Sentence id="1">			
+1	((	NP	<fs af='কোটিরও,unk,,,,,,' head="কোটিরও"  poslcat="NM">
+1.1	একশ	QC	<fs af='ekaSa,num,,,,,,'>
+1.2	কোটিরও	NN	<fs af='কোটিরও,unk,,,,,,' name="কোটিরও"  poslcat="NM">
+	))		
+2	((	NP	<fs af='বহুভাষী,adj,,,,,,' head="বহুভাষী"  poslcat="NM">
+2.1	বেশি	JJ	<fs af='বেশি,adj,,,,,,'>
+2.2	বহুভাষী	NN	<fs af='বহুভাষী,adj,,,,,,' name="বহুভাষী"  poslcat="NM">
+	))		
+3	((	NP	<fs af='কাছাকাছি,adj,,,,,,' head="কাছাকাছি"  poslcat="NM">
+3.1	ভারতবাসীকে	NN	<fs af='ভারতবাসী,n,,sg,,d,কে,ke'>
+3.2	কাছাকাছি	NST	<fs af='কাছাকাছি,adj,,,,,,' name="কাছাকাছি"  poslcat="NM">
+	))		
+4	((	VGNF	<fs af='আন্,v,,,2,,ত,wa' head="আনতে">
+4.1	আনতে	VM	<fs af='আন্,v,,,2,,ত,wa' name="আনতে">
+	))		
+5	((	NP	<fs af='তথ্যপ্রযুক্তির,unk,,,,,,' head="তথ্যপ্রযুক্তির"  poslcat="NM">
+5.1	তথ্যপ্রযুক্তির	NN	<fs af='তথ্যপ্রযুক্তির,unk,,,,,,' name="তথ্যপ্রযুক্তির"  poslcat="NM">
+	))		
+6	((	NP	<fs af='ভাষাপ্রযুক্তি,unk,,,,,,' head="ভাষাপ্রযুক্তি"  poslcat="NM">
+6.1	অন্তর্গত	JJ	<fs af='অন্তর্গত,adj,,,,,,'>
+6.2	ভাষাপ্রযুক্তি	NN	<fs af='ভাষাপ্রযুক্তি,unk,,,,,,' name="ভাষাপ্রযুক্তি"  poslcat="NM">
+	))		
+7	((	NP	<fs af='ভূমিকা,n,,sg,,d,0,0' head="ভূমিকা">
+7.1	এক	QC	<fs af='eka,num,,,,,,'>
+7.2	বিশেষ	JJ	<fs af='বিশেষ,adj,,,,,,'>
+7.3	ভূমিকা	NN	<fs af='ভূমিকা,n,,sg,,d,0,0' name="ভূমিকা">
+	))		
+8	((	NP	<fs af='পালন,n,,sg,,d,0,0' head="পালন">
+8.1	পালন	NN	<fs af='পালন,n,,sg,,d,0,0' name="পালন">
+	))		
+9	((	VGF	<fs af='কর্,v,,,3,,নে,ne' head="করে">
+9.1	করে	VM	<fs af='কর্,v,,,3,,নে,ne' name="করে">
+9.2	.	SYM	<fs af='.,punc,,,,,,' poslcat="NM">
+	))		
+</Sentence>			
