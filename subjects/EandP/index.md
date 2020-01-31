@@ -30,11 +30,15 @@ layout: page
 - [Lecture 3: Global Environmentalism II](./Slides/Lecture 3 - Global environmentalism II.pdf)
 - [Lecture 4: Themes in Indian Environmentalism I](./Slides/Lecture 4 - Themes in Indian Environmentalism I.pdf)
 - [Lecture 5: Themes in Indian Environmentalism II](./Slides/Lecture 5 - Themes in Indian Environmentalism II.pdf)
+- [Lecture 6: Themes in Indian Environmentalism III](./Slides/Lecture 6 - Themes in Indian Environmentalism III.pdf)
+- [Lecture 7: Themes in Indian Environmentalism IV](./Slides/Lecture 7 - Themes in Indian Environmentalism IV.pdf)
 
 ## Readings
 
 - [X] [Forest, timber use in Western Himalayas](./Readings/Forest, timber use in Western Himalayas 3-8.pdf)
 - [X] [Gadgil on Caste and Environment](./Readings/Caste and Ecological Niches.pdf)
+- [ ] [Gadgil on Caste and Environment (full)](./Readings/Gadgil and Malhotra on caste and ecological niches.pdf)
+- [ ] [Kavus in Kerala](./Readings/Freeman - Gods, Groves and the Culture of Nature in Kerala.pdf)
 
 ## Assignments
 

@@ -38,7 +38,8 @@ layout: page
 - [Clean Code Fundamentals](./Slides/Class-3-The-Art-of-Clean-Code-Fundamentals.pdf)
 - [Clean Code Fundamentals 2](./Slides/Class-4-The-Art-of-Clean-Code-Fundamentals-Continued.pdf)
     - [Clean Code Fundamental:tips](./Slides/Class-4-The-Art-of-Clean-Code-Fundamentals-Tips.pdf)
-- Slides
+- [Programming Paradigms](./Slides/Class-6-Programming Paradigms.pdf) 
+    - [Handout: mindmap](./Slides/Languages-Mindmap-Venks.jpg)
 
 ## Assignments
 
