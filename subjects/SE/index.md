@@ -22,12 +22,12 @@ layout: page
 
 ## Lecture Notes 
 
-- [L2](L2)
-- [L3](L3)
-- [L4](L4)
-- [L5](L5)
-- [L6](L6)
-- [L7](L7)
+- [L2: Intro](L2)
+- [L3: Clean Code](L3)
+- [L4: Clean Code Continued](L4)
+- [L5: CV 1](L5)
+- [L6: Programming Paradigms](L6)
+- [L7: CV 2](L7)
 
 
 ## Lecture Slides
