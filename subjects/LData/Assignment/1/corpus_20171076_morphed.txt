@@ -1,1307 +1,1307 @@
-1	প্রতিদিন     	RB     	<fs af='প্রতিদিন,adv,,,,,,' name="প্রতিদিন">     	
-2	পুরোনো     	JJ     	<fs af='পুরোনো,adj,,,,,,'>     	
-3	সাইকেল     	NN     	<fs af='সাইকেল,unk,,,,,,' name="সাইকেল"  poslcat="NM">     	
-4	নিযে     	VM     	<fs af='নিযে,unk,,,,,,' name="নিযে"  poslcat="NM">     	
-5	বের     	NN     	<fs af='বের,n,,sg,,d,0,0' name="বের">     	
-6	হন     	VM     	<fs af='হ,v,,,3,,ক,ka' name="হন">     	
-7	আদিত্য     	NNP     	<fs af='আদিত্য,n,,sg,,d,0,0' name="আদিত্য">     	
-8	কুমার     	XC     	<fs af='কুমার,n,,sg,,d,0,0' poslcat="NM">     	
-9	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	সাইকেলের     	NNP     	<fs af='সাইকেলের,unk,,,,,,' poslcat="NM">     	
-2	পেছনে     	NST     	<fs af='পেছন,n,,sg,,d,মে,me' name="পেছনে"  poslcat="NM">     	
-3	থাকে     	VM     	<fs af='থাক্,v,,,3,,নে,ne' name="থাকে">     	
-4	অনেক     	QF     	<fs af='অনেক,adj,,,,,,'>     	
-5	বই     	NN     	<fs af='বই,n,,sg,,d,0,0' name="বই">     	
-6	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	সেগুলো     	PRP     	<fs af='সেগুলো,unk,,,,,,' name="সেগুলো"  poslcat="NM">     	
-2	নিযে     	VM     	<fs af='নিযে,unk,,,,,,' name="নিযে"  poslcat="NM">     	
-3	প্রতিদিন     	NN     	<fs af='প্রতিদিন,adv,,,,,,' name="প্রতিদিন"  poslcat="NM">     	
-4	চষে     	VM     	<fs af='চষ্,v,,,3,,নে,ne' name="চষে">     	
-5	প্রায্     	NN     	<fs af='প্রায্,unk,,,,,,' name="প্রায্"  poslcat="NM">     	
-6	40     	QC     	<fs af='40,num,,,,,,'>     	
-7	মাইল     	NN     	<fs af='মাইল,n,,sg,,d,0,0' name="মাইল">     	
-8	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	আর     	CC     	<fs af='আর,avy,,,,,,' name="আর">     	
-2	এর     	PRP     	<fs af='এ,pn,,sg,,o,এর,era' name="এর">     	
-3	সবকিছুই     	NN     	<fs af='সবকিছু,pn,,sg,,d,0,0' name="সবকিছুই"  poslcat="NM">     	
-4	তিনি     	PRP     	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">     	
-5	করেন     	VM     	<fs af='কর্,v,,,2,,নে,ne' name="করেন">     	
-6	বিনা     	JJ     	<fs af='বিনা,adj,,,,,,'>     	
-7	পয্সায্     	VAUX     	<fs af='পয্সায্,unk,,,,,,' poslcat="NM">     	
-8	,     	SYM     	<fs af=',,punc,,,,,' name=","  poslcat="NM">     	
-9	ভারতের     	NNP     	<fs af='ভারত,n,,sg,,o,এর,era' name="ভারতের">     	
-10	বস্তির     	NN     	<fs af='বস্তির,unk,,,,,,' name="বস্তির"  poslcat="NM">     	
-11	শিশুদের     	NN     	<fs af='শিশু,n,,pl,,o,এর,era'>     	
-12	মধ্যে     	NST     	<fs af='মধ্যে,psp,,,,,,' name="মধ্যে"  poslcat="NM">     	
-13	শিক্ষার     	NN     	<fs af='শিক্ষা,n,,sg,,o,এর,era' name="শিক্ষার">     	
-14	আলো     	NN     	<fs af='আলো,n,,sg,,d,0,0' name="আলো">     	
-15	ছডিযে     	VM     	<fs af='ছডিযে,unk,,,,,,' name="ছডিযে"  poslcat="NM">     	
-16	দিতে     	VM     	<fs af='দে,v,,,2,,ত,wa' name="দিতে">     	
-17	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	এভাবে     	RB     	<fs af='এ,adv,,,,,,' name="এভাবে">     	
-2	প্রতিদিন     	RB     	<fs af='প্রতিদিন,adv,,,,,,' name="প্রতিদিন">     	
-3	সাইকেলে     	NN     	<fs af='সাইকেলে,unk,,,,,,' name="সাইকেলে"  poslcat="NM">     	
-4	করে     	VM     	<fs af='কর্,v,,,3,,নে,ne' name="করে">     	
-5	আদিত্যের     	NNP     	<fs af='আদিত্য,n,,sg,,o,এর,era' name="আদিত্যের">     	
-6	পাঠশালা     	XC     	<fs af='পাঠশালা,n,,sg,,d,0,0' poslcat="NM">     	
-7	যায্     	VAUX     	<fs af='যায্,unk,,,,,,' poslcat="NM">     	
-8	বস্তির     	NN     	<fs af='বস্তির,unk,,,,,,' name="বস্তির"  poslcat="NM">     	
-9	সুবিধাবঞ্চিত     	JJ     	<fs af='সুবিধাবঞ্চিত,unk,,,,,,' poslcat="NM">     	
-10	শিশুদের     	NN     	<fs af='শিশু,n,,pl,,o,এর,era' name="শিশুদের">     	
-11	শিক্ষা     	NN     	<fs af='শিক্ষা,n,,sg,,d,0,0' name="শিক্ষা">     	
-12	দিতে     	VM     	<fs af='দে,v,,,2,,ত,wa' name="দিতে">     	
-13	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	শিশুদের     	NN     	<fs af='শিশু,n,,pl,,o,এর,era' name="শিশুদের">     	
-2	বিজ্ঞানে     	NN     	<fs af='বিজ্ঞানে,unk,,,,,,' name="বিজ্ঞানে"  poslcat="NM">     	
-3	স্নাতক     	JJ     	<fs af='স্নাতক,adj,,,,,,' name="স্নাতক">     	
-4	এই     	DEM     	<fs af='এই,pn,,sg,,d,0,0'>     	
-5	ব্যক্তির     	NN     	<fs af='ব্যক্তি,n,,sg,,o,এর,era' name="ব্যক্তির">     	
-6	উদ্যোগের     	NN     	<fs af='উদ্যোগ,n,,sg,,o,এর,era' name="উদ্যোগের">     	
-7	গল্প     	NN     	<fs af='গল্প,unk,,,,,,' name="গল্প"  poslcat="NM">     	
-8	উঠে     	VM     	<fs af='উঠ্,v,,,3,,নে,ne' name="উঠে">     	
-9	এএফপির     	NN     	<fs af='এএফপির,unk,,,,,,' name="এএফপির"  poslcat="NM">     	
-10	এক     	QC     	<fs af='এক,adj,,,,,,'>     	
-11	প্রতিবেদনে     	NN     	<fs af='প্রতিবেদন,n,,sg,,d,মে,me' name="প্রতিবেদনে">     	
-12	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	আদিত্য     	NNP     	<fs af='আদিত্য,n,,sg,,d,0,0' name="আদিত্য">     	
-2	তাঁর     	PRP     	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">     	
-3	কাজের     	NN     	<fs af='কাজ,n,,sg,,o,এর,era' name="কাজের">     	
-4	জায্গা     	NN     	<fs af='জায্গা,unk,,,,,,' name="জায্গা"  poslcat="NM">     	
-5	বেছে     	VM     	<fs af='বাছ্,v,,,any,,ভে,Be' name="বেছে">     	
-6	নিযেছেন     	NN     	<fs af='নিযেছেন,unk,,,,,,' name="নিযেছেন"  poslcat="NM">     	
-7	ভারতের     	NNP     	<fs af='ভারত,n,,sg,,o,এর,era' name="ভারতের">     	
-8	উত্তরাঞ্চল     	XC     	<fs af='উত্তরাঞ্চল,n,,sg,,d,0,0' poslcat="NM">     	
-9	লক্ষ্ণৌযের     	NN     	<fs af='লক্ষ্ণৌযের,unk,,,,,,' name="লক্ষ্ণৌযের"  poslcat="NM">     	
-10	বস্তিগুলোকে     	NN     	<fs af='বস্তিগুলোকে,unk,,,,,,' name="বস্তিগুলোকে"  poslcat="NM">     	
-11	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-12	যেখানে     	PRP     	<fs af='যেখানে,pn,,,,d,মে,me' name="যেখানে">     	
-13	অধিকার     	NN     	<fs af='অধিকার,n,,sg,,d,0,0' name="অধিকার">     	
-14	ও     	CC     	<fs af='ও,avy,,,,,,' name="ও">     	
-15	সুবিধাবঞ্চিত     	JJ     	<fs af='সুবিধাবঞ্চিত,unk,,,,,,' poslcat="NM">     	
-16	বহু     	QF     	<fs af='বহু,adj,,,,,,'>     	
-17	মানুষের     	NN     	<fs af='মানুষ,n,,sg,,o,এর,era' name="মানুষের">     	
-18	বাস     	NN     	<fs af='বাস,n,,sg,,d,0,0' name="বাস">     	
-19	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	বস্তির     	NN     	<fs af='বস্তির,unk,,,,,,' name="বস্তির"  poslcat="NM">     	
-2	শিশুদের     	NN     	<fs af='শিশু,n,,pl,,o,এর,era' name="শিশুদের">     	
-3	তিনি     	PRP     	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">     	
-4	কোনো     	QF     	<fs af='কোনো,adj,,,,,,'>     	
-5	অর্থ     	NN     	<fs af='অর্থ,n,,sg,,d,0,0' name="অর্থ">     	
-6	নেন     	VAUX     	<fs af='নে,v,,,2,,নে,ne' name="নেন"  poslcat="NM">     	
-7	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	এই     	DEM     	<fs af='এই,pn,,sg,,d,0,0'>     	
-2	শিশুদের     	NN     	<fs af='শিশু,n,,pl,,o,এর,era' name="শিশুদের">     	
-3	পাঠদানের     	NN     	<fs af='পাঠদানের,unk,,,,,,' name="পাঠদানের"  poslcat="NM">     	
-4	নেই     	VM     	<fs af='না,v,,,any,,নি,ni' name="নেই">     	
-5	কোনো     	QF     	<fs af='কোনো,adj,,,,,,'>     	
-6	নির্দিষ্ট     	JJ     	<fs af='নির্দিষ্ট,adj,,,,,,'>     	
-7	স্থান     	NN     	<fs af='স্থান,n,,sg,,d,0,0' name="স্থান">     	
-8	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	যেখানে     	PRP     	<fs af='যেখানে,pn,,,,d,মে,me' name="যেখানে">     	
-2	প্রযোজন     	NN     	<fs af='প্রযোজন,unk,,,,,,' name="প্রযোজন"  poslcat="NM">     	
-3	মনে     	NN     	<fs af='মন,n,,sg,,d,মে,me' name="মনে">     	
-4	করেন     	VM     	<fs af='কর্,v,,,2,,নে,ne' name="করেন">     	
-5	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-6	সেখানেই     	PRP     	<fs af='সেখানে,pn,,,,d,মে,me' name="সেখানেই">     	
-7	আদিত্য     	NNP     	<fs af='আদিত্য,n,,sg,,d,0,0' name="আদিত্য">     	
-8	তাঁর     	PRP     	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">     	
-9	সাইকেলটি     	NN     	<fs af='সাইকেলটি,unk,,,,,,' name="সাইকেলটি"  poslcat="NM">     	
-10	রাখেন     	VM     	<fs af='রাখ্,v,,,2,,নে,ne' name="রাখেন">     	
-11	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	তারপর     	RB     	<fs af='তারপর,adv,,,,,,' name="তারপর">     	
-2	বইপত্রসহ     	NN     	<fs af='বইপত্রসহ,unk,,,,,,' name="বইপত্রসহ"  poslcat="NM">     	
-3	প্রযোজনীয্     	NN     	<fs af='প্রযোজনীয্,unk,,,,,,' name="প্রযোজনীয্"  poslcat="NM">     	
-4	জিনিস     	NN     	<fs af='জিনিস,n,,sg,,d,0,0' name="জিনিস">     	
-5	বের     	NN     	<fs af='বের,n,,sg,,d,0,0' name="বের">     	
-6	করে     	VM     	<fs af='কর্,v,,,3,,নে,ne' name="করে">     	
-7	ছোট্ট     	JJ     	<fs af='ছোট্ট,adj,,,,,,'>     	
-8	শিক্ষার্থীদের     	NN     	<fs af='শিক্ষার্থীদের,unk,,,,,,' name="শিক্ষার্থীদের"  poslcat="NM">     	
-9	পডাতে     	VM     	<fs af='পডাতে,unk,,,,,,' name="পডাতে"  poslcat="NM">     	
-10	শুরু     	NN     	<fs af='শুরু,n,,sg,,d,0,0' name="শুরু">     	
-11	করেন     	VM     	<fs af='কর্,v,,,2,,নে,ne' name="করেন">     	
-12	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-
-1	আমার     	PRP     	<fs af='আমি,pn,,sg,,o,এর,era'>     	
-2	সঙ্গে     	NST     	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">     	
-3	দেখা     	VM     	<fs af='দেখা,v,,,2,,ক,ka' name="দেখা">     	
-4	হওযার     	NN     	<fs af='হওযার,unk,,,,,,' poslcat="NM">     	
-5	আগে     	NST     	<fs af='আগে,adv,,,,,,' name="আগে"  poslcat="NM">     	
-6	তারা     	PRP     	<fs af='সে,pn,,pl,,d,0,0' name="তারা">     	
-7	জানতও     	NN     	<fs af='জানত,adj,,,,,,' poslcat="NM">     	
-8	না     	NEG     	<fs af='না,avy,,,,,,' name="না">     	
-9	কেন     	WQ     	<fs af='কেন,avy,,,,,,' name="কেন"  poslcat="NM">     	
-10	স্কুলে     	NN     	<fs af='স্কুল,n,,sg,,d,মে,me' name="স্কুলে">     	
-11	যেতে     	VM     	<fs af='যা,v,,,2,,ত,wa' name="যেতে">     	
-12	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-13	ৈ     	RB     	<fs af='.,punc,,,,,,' name="ৈ"  poslcat="NM">     	
-14	ছয্     	NNP     	<fs af='ছয্,unk,,,,,,' name="ছয্"  poslcat="NM">     	
-15	14     	QC     	<fs af='14,num,,,,,,'>     	
-16	বছর     	NN     	<fs af='বছর,n,,sg,,d,0,0' name="বছর">     	
-17	বয্সী     	NN     	<fs af='বয্সী,unk,,,,,,' name="বয্সী"  poslcat="NM">     	
-18	শিশুদের     	NN     	<fs af='শিশু,n,,pl,,o,এর,era' name="শিশুদের">     	
-19	শিক্ষার     	NN     	<fs af='শিক্ষা,n,,sg,,o,এর,era' name="শিক্ষার">     	
-20	ব্যবস্থা     	NN     	<fs af='ব্যবস্থা,n,,sg,,d,0,0' name="ব্যবস্থা">     	
-21	করা     	VM     	<fs af='করা,v,,,2,,ক,ka' name="করা">     	
-22	রাষ্ট্রের     	NN     	<fs af='রাষ্ট্রের,unk,,,,,,' name="রাষ্ট্রের"  poslcat="NM">     	
-23	দাযিত্বৈএমন     	NN     	<fs af='দাযিত্ব,unk,,,,,,' name="দাযিত্বৈএমন"  poslcat="NM">     	
-24	বিধান     	NN     	<fs af='বিধান,n,,sg,,d,0,0' name="বিধান">     	
-25	রেখে     	VM     	<fs af='রাখ্,v,,,any,,ভে,Be' name="রেখে">     	
-26	ভারতে     	NNP     	<fs af='ভারত,n,,sg,,d,মে,me' name="ভারতে">     	
-27	2009     	QC     	<fs af='2009,num,,,,,,'>     	
-28	সালে     	NNP     	<fs af='সাল,n,,sg,,d,মে,me' name="সালে">     	
-29	শিক্ষা     	NN     	<fs af='শিক্ষা,n,,sg,,d,0,0' name="শিক্ষা">     	
-30	অধিকার     	NN     	<fs af='অধিকার,n,,sg,,d,0,0' name="অধিকার">     	
-31	আইন     	NNP     	<fs af='আইন,n,,sg,,d,0,0' name="আইন">     	
-32	পাস     	NN     	<fs af='পাস,n,,sg,,d,0,0' name="পাস">     	
-33	হয্     	VM     	<fs af='হয্,unk,,,,,,' name="হয্"  poslcat="NM">     	
-34	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	তবে     	CC     	<fs af='তবে,avy,,,,,,' name="তবে">     	
-2	শিক্ষা     	NN     	<fs af='শিক্ষা,n,,sg,,d,0,0' name="শিক্ষা">     	
-3	অধিকার     	NN     	<fs af='অধিকার,n,,sg,,d,0,0' name="অধিকার">     	
-4	কর্মীরা     	NN     	<fs af='কর্মী,n,,pl,,d,0,0' name="কর্মীরা">     	
-5	জানান     	VM     	<fs af='জানা,v,,,3,,ক,ka' name="জানান">     	
-6	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-7	বিদ্যালয্গুলোতে     	NN     	<fs af='বিদ্যালয্গুলোতে,unk,,,,,,' name="বিদ্যালয্গুলোতে"  poslcat="NM">     	
-8	ধারণক্ষমতার     	NN     	<fs af='ধারণক্ষমতার,unk,,,,,,' name="ধারণক্ষমতার"  poslcat="NM">     	
-9	বেশি     	JJ     	<fs af='বেশি,adj,,,,,,'>     	
-10	শিক্ষার্থী     	NN     	<fs af='শিক্ষার্থী,unk,,,,,,' name="শিক্ষার্থী"  poslcat="NM">     	
-11	থাকে     	VM     	<fs af='থাক্,v,,,3,,নে,ne' name="থাকে">     	
-12	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	আবার     	RB     	<fs af='আবার,adv,,,,,,' name="আবার">     	
-2	এমনও     	PRP     	<fs af='এমন,adj,,,,,,' name="এমনও"  poslcat="NM">     	
-3	হয্     	VM     	<fs af='হয্,unk,,,,,,' name="হয্"  poslcat="NM">     	
-4	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-5	বাডি     	NN     	<fs af='বাডি,unk,,,,,,' name="বাডি"  poslcat="NM">     	
-6	অনেক     	QF     	<fs af='অনেক,adj,,,,,,'>     	
-7	দূরে     	NST     	<fs af='দূর,n,,sg,,d,মে,me' name="দূরে"  poslcat="NM">     	
-8	বিদ্যালয্     	XC     	<fs af='বিদ্যালয্,unk,,,,,,' poslcat="NM">     	
-9	.     	SYM     	<fs af='.,punc,,,,,,' name=".">     	
-
-1	এ     	DEM     	<fs af='এ,pn,,sg,,d,0,0' name="এ">     	
-2	শিক্ষার্থীরা     	NN     	<fs af='শিক্ষার্থীরা,unk,,,,,,' name="শিক্ষার্থীরা"  poslcat="NM">     	
-3	সেখানে     	PRP     	<fs af='সেখানে,pn,,,,d,মে,me' name="সেখানে">     	
-4	যেতে     	VM     	<fs af='যা,v,,,2,,ত,wa' name="যেতে">     	
-5	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	এর     	PRP     	<fs af='এ,pn,,sg,,o,এর,era'>     	
-2	সঙ্গে     	NST     	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">     	
-3	আছে     	VM     	<fs af='আছ,v,,,3,,নে,ne' name="আছে">     	
-4	দারিদ্র্য     	JJ     	<fs af='দারিদ্র্য,n,,sg,,d,0,0' name="দারিদ্র্য"  poslcat="NM">     	
-5	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-6	যা     	PRP     	<fs af='যে,pn,,sg,,d,0,0' name="যা">     	
-7	শিশুশ্রমেরও     	NN     	<fs af='শিশুশ্রমেরও,unk,,,,,,' name="শিশুশ্রমেরও"  poslcat="NM">     	
-8	বড্     	JJ     	<fs af='বড্,unk,,,,,,' poslcat="NM">     	
-9	কারণ     	NN     	<fs af='কারণ,n,,sg,,d,0,0' name="কারণ">     	
-10	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	আদিত্যর     	NNP     	<fs af='আদিত্যর,unk,,,,,,' name="আদিত্যর"  poslcat="NM">     	
-2	বয্স     	NN     	<fs af='বয্স,unk,,,,,,' name="বয্স"  poslcat="NM">     	
-3	এখন     	PRP     	<fs af='এখন,pn,,,,d,0,0' name="এখন">     	
-4	45     	QC     	<fs af='45,num,,,,,,' name="45">     	
-5	ছুঁই     	PRP     	<fs af='ছুঁই,unk,,,,,,' name="ছুঁই"  poslcat="NM">     	
-6	ছুঁই     	PRP     	<fs af='ছুঁই,unk,,,,,,' poslcat="NM">     	
-7	.     	SYM     	<fs af='.,punc,,,,,,' name=".">     	
-
-1	দুই     	QC     	<fs af='দুই,adj,,,,,,'>     	
-2	দশকেরও     	NN     	<fs af='দশকেরও,unk,,,,,,' name="দশকেরও"  poslcat="NM">     	
-3	বেশি     	JJ     	<fs af='বেশি,adj,,,,,,'>     	
-4	সময্     	NN     	<fs af='সময্,unk,,,,,,' name="সময্"  poslcat="NM">     	
-5	ধরে     	VM     	<fs af='ধর্,v,,,3,,নে,ne' name="ধরে">     	
-6	এই     	DEM     	<fs af='এই,pn,,sg,,d,0,0'>     	
-7	ভ্রাম্যমাণ     	JJ     	<fs af='ভ্রাম্যমাণ,adj,,,,,,'>     	
-8	বিদ্যালয্টি     	NN     	<fs af='বিদ্যালয্টি,unk,,,,,,' name="বিদ্যালয্টি"  poslcat="NM">     	
-9	পরিচালনা     	NN     	<fs af='পরিচালনা,n,,sg,,d,0,0' name="পরিচালনা">     	
-10	করছেন     	VM     	<fs af='কর্,v,,,2,,ছে,Ce' name="করছেন">     	
-11	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	তাঁর     	PRP     	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">     	
-2	বিদ্যালযের     	NN     	<fs af='বিদ্যালযের,unk,,,,,,' name="বিদ্যালযের"  poslcat="NM">     	
-3	নির্দিষ্ট     	JJ     	<fs af='নির্দিষ্ট,adj,,,,,,'>     	
-4	কোনো     	QF     	<fs af='কোনো,adj,,,,,,'>     	
-5	পাঠ্যসূচি     	NN     	<fs af='পাঠ্যসূচি,n,,sg,,d,0,0' name="পাঠ্যসূচি">     	
-6	বা     	CC     	<fs af='বা,avy,,,,,,' name="বা">     	
-7	বই     	NN     	<fs af='বই,n,,sg,,d,0,0' name="বই">     	
-8	নেই     	VM     	<fs af='না,v,,,any,,নি,ni' name="নেই">     	
-9	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	অধিকাংশ     	JJ     	<fs af='অধিকাংশ,adj,,,,,,'>     	
-2	শিক্ষার্থীর     	NN     	<fs af='শিক্ষার্থীর,unk,,,,,,' name="শিক্ষার্থীর"  poslcat="NM">     	
-3	বয্স     	NN     	<fs af='বয্স,unk,,,,,,' name="বয্স"  poslcat="NM">     	
-4	10     	QC     	<fs af='10,num,,,,,,'>     	
-5	বছরের     	NN     	<fs af='বছর,n,,sg,,o,এর,era' name="বছরের">     	
-6	কম     	JJ     	<fs af='কম,adj,,,,,,' name="কম">     	
-7	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	তিনি     	PRP     	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">     	
-2	তাদের     	PRP     	<fs af='সে,pn,,pl,,o,এর,era' name="তাদের">     	
-3	ব্যবহারিক     	JJ     	<fs af='ব্যবহারিক,adj,,,,,,' name="ব্যবহারিক">     	
-4	ইংরেজি     	JJ     	<fs af='ইংরেজি,unk,,,,,,' name="ইংরেজি"  poslcat="NM">     	
-5	ও     	CC     	<fs af='ও,avy,,,,,,' name="ও">     	
-6	গণিত     	NN     	<fs af='গণিত,adj,,,,,,' name="গণিত"  poslcat="NM">     	
-7	শেখান     	VM     	<fs af='শেখা,v,,,3,,ক,ka' name="শেখান">     	
-8	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	একটা     	QC     	<fs af='একটা,adj,,,,,,'>     	
-2	পর্যায্     	NN     	<fs af='পর্যায্,unk,,,,,,' name="পর্যায্"  poslcat="NM">     	
-3	তাদের     	PRP     	<fs af='সে,pn,,pl,,o,এর,era' name="তাদের">     	
-4	শেখানো     	VM     	<fs af='শেখা,v,,,any,,আ,A' name="শেখানো">     	
-5	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	সাধারণ     	JJ     	<fs af='সাধারণ,adj,,,,,,'>     	
-2	শিক্ষার্থীদের     	NN     	<fs af='শিক্ষার্থীদের,unk,,,,,,' name="শিক্ষার্থীদের"  poslcat="NM">     	
-3	নিয্মিত     	NN     	<fs af='নিয্মিত,unk,,,,,,' name="নিয্মিত"  poslcat="NM">     	
-4	বিদ্যালযে     	NN     	<fs af='বিদ্যালযে,unk,,,,,,' name="বিদ্যালযে"  poslcat="NM">     	
-5	শিক্ষা     	NN     	<fs af='শিক্ষা,n,,sg,,d,0,0' name="শিক্ষা">     	
-6	গ্রহণের     	NN     	<fs af='গ্রহণ,n,,sg,,o,এর,era' name="গ্রহণের">     	
-7	যোগ্য     	JJ     	<fs af='যোগ্য,adj,,,,,,'>     	
-8	হওযা     	NN     	<fs af='হওযা,unk,,,,,,' name="হওযা"  poslcat="NM">     	
-9	এই     	DEM     	<fs af='এই,pn,,sg,,d,0,0'>     	
-10	পাঠদান     	NN     	<fs af='পাঠদান,unk,,,,,,' name="পাঠদান"  poslcat="NM">     	
-11	চলে     	VM     	<fs af='চল্,v,,,3,,নে,ne' name="চলে">     	
-12	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-
-1	আমি     	PRP     	<fs af='আমি,pn,,sg,,d,0,0' name="আমি">     	
-2	জানি     	VM     	<fs af='জান্,v,,,1,,ক,ka' name="জানি">     	
-3	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-4	এই     	DEM     	<fs af='এই,pn,,sg,,d,0,0'>     	
-5	শিশুদের     	NN     	<fs af='শিশু,n,,pl,,o,এর,era' name="শিশুদের">     	
-6	জীবন     	NN     	<fs af='জীবন,n,,sg,,d,0,0' name="জীবন">     	
-7	কতটা     	WQ     	<fs af='কতটা,adj,,,,,,' name="কতটা"  poslcat="NM">     	
-8	কঠিন     	JJ     	<fs af='কঠিন,adj,,,,,,' name="কঠিন">     	
-9	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-10	ৈ     	RB     	<fs af='.,punc,,,,,,' name="ৈ"  poslcat="NM">     	
-11	পডাশোনা     	NN     	<fs af='পডাশোনা,unk,,,,,,' name="পডাশোনা"  poslcat="NM">     	
-12	বাদ     	NN     	<fs af='বাদ,unk,,,,,,' name="বাদ"  poslcat="NM">     	
-13	দিযে     	NN     	<fs af='দিযে,unk,,,,,,' name="দিযে"  poslcat="NM">     	
-14	বাবা     	NN     	<fs af='বাবা,n,,sg,,d,0,0' name="বাবা">     	
-15	-     	SYM     	<fs af='-,punc,,,,,,'>     	
-16	মা     	NN     	<fs af='মা,n,,sg,,d,0,0' name="মা">     	
-17	আযের     	NN     	<fs af='আযের,unk,,,,,,' name="আযের"  poslcat="NM">     	
-18	চাপ     	NN     	<fs af='চাপ,n,,sg,,d,0,0' name="চাপ">     	
-19	দিচ্ছিল     	VM     	<fs af='দে,v,,,3,,ছিল,Cila' name="দিচ্ছিল">     	
-20	বলে     	VM     	<fs af='বল্,v,,,3,,নে,ne' name="বলে">     	
-21	কিশোর     	NN     	<fs af='কিশোর,n,,sg,,d,0,0' name="কিশোর">     	
-22	তিনি     	PRP     	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">     	
-23	বাডি     	NN     	<fs af='বাডি,unk,,,,,,' name="বাডি"  poslcat="NM">     	
-24	ছেডে     	VM     	<fs af='ছেডে,unk,,,,,,' name="ছেডে"  poslcat="NM">     	
-25	পালিযেছিলেন     	VM     	<fs af='পালিযেছিলেন,unk,,,,,,' name="পালিযেছিলেন"  poslcat="NM">     	
-26	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	তারপর     	RB     	<fs af='তারপর,adv,,,,,,' name="তারপর">     	
-2	কিছুদিন     	NN     	<fs af='কিছুদিন,n,,sg,,d,0,0' name="কিছুদিন">     	
-3	রাস্তায্     	NN     	<fs af='রাস্তায্,unk,,,,,,' name="রাস্তায্_2"  poslcat="NM">     	
-4	রাস্তায্     	NN     	<fs af='রাস্তায্,unk,,,,,,' name="রাস্তায্"  poslcat="NM">     	
-5	থেকেছেন     	VM     	<fs af='থাক্,v,,,2,,এছে,eCe' name="থেকেছেন">     	
-6	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	এরপর     	RB     	<fs af='এরপর,adv,,,,,,' name="এরপর">     	
-2	এক     	QC     	<fs af='এক,adj,,,,,,'>     	
-3	শিক্ষকের     	NN     	<fs af='শিক্ষক,n,,sg,,o,এর,era'>     	
-4	সঙ্গে     	NST     	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">     	
-5	তাঁর     	PRP     	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">     	
-6	পরিচয্     	JJ     	<fs af='পরিচয্,unk,,,,,,' name="পরিচয্"  poslcat="NM">     	
-7	হয্     	VM     	<fs af='হয্,unk,,,,,,' name="হয্"  poslcat="NM">     	
-8	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-9	ওই     	DEM     	<fs af='ও,pn,,sg,,d,0,0'>     	
-10	শিক্ষকই     	NN     	<fs af='শিক্ষক,n,,sg,,d,0,0' name="শিক্ষকই">     	
-11	তাঁকে     	PRP     	<fs af='তিনি,pn,,sg,,d,কে,ke' name="তাঁকে">     	
-12	বিজ্ঞান     	NN     	<fs af='বিজ্ঞান,unk,,,,,,' poslcat="NM">     	
-13	বিষযে     	NN     	<fs af='বিষযে,unk,,,,,,' name="বিষযে"  poslcat="NM">     	
-14	স্নাতক     	JJ     	<fs af='স্নাতক,adj,,,,,,' name="স্নাতক">     	
-15	পর্যন্ত     	PSP     	<fs af='পর্যন্ত,psp,,,,,,'>     	
-16	পডাশোনার     	VM     	<fs af='পডাশোনার,unk,,,,,,' name="পডাশোনার"  poslcat="NM">     	
-17	ব্যাপারে     	NN     	<fs af='ব্যাপার,n,,sg,,d,মে,me' name="ব্যাপারে">     	
-18	সহায্তা     	NN     	<fs af='সহায্তা,unk,,,,,,' name="সহায্তা"  poslcat="NM">     	
-19	করেন     	VM     	<fs af='কর্,v,,,2,,নে,ne' name="করেন">     	
-20	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	গুরুর     	NN     	<fs af='গুরুর,unk,,,,,,' name="গুরুর"  poslcat="NM">     	
-2	দক্ষিণা     	NN     	<fs af='দক্ষিণা,adj,,,,,,' name="দক্ষিণা"  poslcat="NM">     	
-3	দিতে     	VM     	<fs af='দে,v,,,2,,ত,wa' name="দিতে">     	
-4	তিনি     	PRP     	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">     	
-5	বস্তির     	NN     	<fs af='বস্তির,unk,,,,,,' name="বস্তির"  poslcat="NM">     	
-6	শিশুদের     	NN     	<fs af='শিশু,n,,pl,,o,এর,era'>     	
-7	মাঝে     	NST     	<fs af='মাঝে,adj,,,,,,' name="মাঝে"  poslcat="NM">     	
-8	শিক্ষার     	NN     	<fs af='শিক্ষা,n,,sg,,o,এর,era' name="শিক্ষার">     	
-9	আলো     	NN     	<fs af='আলো,n,,sg,,d,0,0' name="আলো">     	
-10	ছডিযে     	VM     	<fs af='ছডিযে,unk,,,,,,' name="ছডিযে"  poslcat="NM">     	
-11	দেওযার     	NN     	<fs af='দেওযার,unk,,,,,,' name="দেওযার"  poslcat="NM">     	
-12	কাজ     	NN     	<fs af='কাজ,n,,sg,,d,0,0' name="কাজ">     	
-13	শুরু     	NN     	<fs af='শুরু,n,,sg,,d,0,0' name="শুরু">     	
-14	করেন     	VM     	<fs af='কর্,v,,,2,,নে,ne' name="করেন">     	
-15	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	কিন্তু     	CC     	<fs af='কিন্তু,avy,,,,,,' name="কিন্তু">     	
-2	শিক্ষকতা     	NN     	<fs af='শিক্ষকতা,unk,,,,,,' name="শিক্ষকতা"  poslcat="NM">     	
-3	করার     	VM     	<fs af='কর্,n,,,any,,র,ra' name="করার"  poslcat="NM">     	
-4	কোনো     	QF     	<fs af='কোনো,adj,,,,,,'>     	
-5	প্রশিক্ষণ     	NN     	<fs af='প্রশিক্ষণ,n,,sg,,d,0,0' name="প্রশিক্ষণ">     	
-6	তাঁর     	PRP     	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর_2">     	
-7	ছিল     	VM     	<fs af='ছিল,v,,,3,,0,0' name="ছিল_2">     	
-8	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-9	এমনকি     	RB     	<fs af='এমনকি,adv,,,,,,' name="এমনকি">     	
-10	বিদ্যালযের     	NN     	<fs af='বিদ্যালযের,unk,,,,,,' name="বিদ্যালযের"  poslcat="NM">     	
-11	শিক্ষক     	NN     	<fs af='শিক্ষক,n,,sg,,d,0,0' name="শিক্ষক">     	
-12	হওযার     	VM     	<fs af='হওযার,unk,,,,,,' name="হওযার"  poslcat="NM">     	
-13	কোনো     	QF     	<fs af='কোনো,adj,,,,,,'>     	
-14	বাসনাও     	NN     	<fs af='বাসনাও,unk,,,,,,' name="বাসনাও"  poslcat="NM">     	
-15	তাঁর     	PRP     	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">     	
-16	মনে     	NN     	<fs af='মন,n,,sg,,d,মে,me' name="মনে">     	
-17	ছিল     	VM     	<fs af='ছিল,v,,,3,,0,0' name="ছিল">     	
-18	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	আদিত্যের     	NNP     	<fs af='আদিত্য,n,,sg,,o,এর,era' name="আদিত্যের">     	
-2	এমন     	DEM     	<fs af='এমন,adj,,,,,,' poslcat="NM">     	
-3	কাজে     	NN     	<fs af='কাজ,n,,sg,,d,মে,me' name="কাজে">     	
-4	খুশি     	JJ     	<fs af='খুশি,adj,,,,,,' name="খুশি">     	
-5	তাঁর     	PRP     	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">     	
-6	শিক্ষক     	NN     	<fs af='শিক্ষক,n,,sg,,d,0,0' name="শিক্ষক">     	
-7	ও     	CC     	<fs af='ও,avy,,,,,,' name="ও">     	
-8	লক্ষ্ণৌ     	NNP     	<fs af='লক্ষ্ণৌ,unk,,,,,,' name="লক্ষ্ণৌ"  poslcat="NM">     	
-9	বিশ্ববিদ্যালযের     	NN     	<fs af='বিশ্ববিদ্যালযের,unk,,,,,,' name="বিশ্ববিদ্যালযের"  poslcat="NM">     	
-10	সাবেক     	VM     	<fs af='সাবেক,adj,,,,,,' name="সাবেক"  poslcat="NM">     	
-11	উপাচার্য     	NNP     	<fs af='উপাচার্য,n,,sg,,d,0,0' name="উপাচার্য">     	
-12	রূপ     	NN     	<fs af='রূপ,n,,sg,,d,0,0' name="রূপ">     	
-13	রেখা     	NN     	<fs af='রেখা,n,,sg,,d,0,0'>     	
-14	ভার্মা     	NN     	<fs af='ভার্মা,unk,,,,,,' name="ভার্মা"  poslcat="NM">     	
-15	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-
-1	তিনি     	PRP     	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">     	
-2	সুবিধাবঞ্চিত     	JJ     	<fs af='সুবিধাবঞ্চিত,unk,,,,,,' poslcat="NM">     	
-3	শিশুদের     	NN     	<fs af='শিশু,n,,pl,,o,এর,era' name="শিশুদের">     	
-4	শিক্ষার     	NN     	<fs af='শিক্ষা,n,,sg,,o,এর,era' name="শিক্ষার_2">     	
-5	জগতের     	NN     	<fs af='জগত,n,,sg,,o,এর,era'>     	
-6	সঙ্গে     	NST     	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">     	
-7	পরিচিত     	JJ     	<fs af='পরিচিত,adj,,,,,,' name="পরিচিত">     	
-8	করতে     	VM     	<fs af='কর্,v,,,2,,ত,wa' name="করতে">     	
-9	যে     	CC     	<fs af='যে,avy,,,,,,' name="যে">     	
-10	পরিশ্রম     	NN     	<fs af='পরিশ্রম,n,,sg,,d,0,0' name="পরিশ্রম">     	
-11	করে     	VM     	<fs af='কর্,v,,,3,,নে,ne' name="করে">     	
-12	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-13	তা     	PRP     	<fs af='যে,pn,,sg,,d,0,0' name="তা">     	
-14	প্রশংসনীয্     	NN     	<fs af='প্রশংসনীয্,unk,,,,,,' name="প্রশংসনীয্"  poslcat="NM">     	
-15	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-16	ৈ     	RB     	<fs af='.,punc,,,,,,' name="ৈ"  poslcat="NM">     	
-17	বিনা     	JJ     	<fs af='বিনা,adj,,,,,,'>     	
-18	পয্সায্     	VAUX     	<fs af='পয্সায্,unk,,,,,,' name="পয্সায্"  poslcat="NM">     	
-19	শিক্ষার     	NN     	<fs af='শিক্ষা,n,,sg,,o,এর,era' name="শিক্ষার">     	
-20	আলো     	NN     	<fs af='আলো,n,,sg,,d,0,0' name="আলো">     	
-21	ছডানো     	VM     	<fs af='ছডানো,unk,,,,,,' name="ছডানো"  poslcat="NM">     	
-22	আদিত্য     	NNP     	<fs af='আদিত্য,n,,sg,,d,0,0' name="আদিত্য">     	
-23	কুমার     	XC     	<fs af='কুমার,n,,sg,,d,0,0' poslcat="NM">     	
-24	এই     	DEM     	<fs af='এই,pn,,sg,,d,0,0'>     	
-25	কার্যক্রম     	NN     	<fs af='কার্যক্রম,unk,,,,,,' name="কার্যক্রম"  poslcat="NM">     	
-26	চালানোর     	VM     	<fs af='চালা,n,,,any,,র,ra' name="চালানোর"  poslcat="NM">     	
-27	অর্থ     	NN     	<fs af='অর্থ,n,,sg,,d,0,0' name="অর্থ">     	
-28	জোগাডে     	VM     	<fs af='জোগাডে,unk,,,,,,' name="জোগাডে"  poslcat="NM">     	
-29	টিউশনি     	NN     	<fs af='টিউশনি,n,,sg,,d,0,0' name="টিউশনি">     	
-30	করেন     	VM     	<fs af='কর্,v,,,2,,নে,ne' name="করেন">     	
-31	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	তাঁর     	PRP     	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">     	
-2	কোনো     	QF     	<fs af='কোনো,adj,,,,,,'>     	
-3	নির্দিষ্ট     	JJ     	<fs af='নির্দিষ্ট,adj,,,,,,'>     	
-4	ঠিকানা     	NN     	<fs af='ঠিকানা,n,,sg,,d,0,0' name="ঠিকানা">     	
-5	নেই     	VM     	<fs af='না,v,,,any,,নি,ni' name="নেই">     	
-6	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	যেখানে     	PRP     	<fs af='যেখানে,pn,,,,d,মে,me' name="যেখানে">     	
-2	রাত     	NN     	<fs af='রাত,n,,sg,,d,0,0' name="রাত">     	
-3	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-4	সেখানেই     	PRP     	<fs af='সেখানে,pn,,,,d,মে,me' name="সেখানেই">     	
-5	কাত     	NN     	<fs af='কাত,adj,,,,,,' name="কাত"  poslcat="NM">     	
-6	হযে     	NN     	<fs af='হযে,unk,,,,,,' name="হযে"  poslcat="NM">     	
-7	ঘুমিযে     	JJ     	<fs af='ঘুমিযে,unk,,,,,,' poslcat="NM">     	
-8	পডেন     	NN     	<fs af='পডেন,unk,,,,,,' name="পডেন"  poslcat="NM">     	
-9	তিনি     	PRP     	<fs af='তিনি,pn,,sg,,d,0,0'>     	
-10	.     	SYM     	<fs af='.,punc,,,,,,' name=".">     	
-
-1	15     	QC     	<fs af='15,num,,,,,,'>     	
-2	বছরের     	NN     	<fs af='বছর,n,,sg,,o,এর,era'>     	
-3	মধ্যে     	NST     	<fs af='মধ্যে,psp,,,,,,' name="মধ্যে"  poslcat="NM">     	
-4	এই     	DEM     	<fs af='এই,pn,,sg,,d,0,0'>     	
-5	প্রথম     	QO     	<fs af='প্রথম,adj,,,,,,'>     	
-6	কিউবার     	NN     	<fs af='কিউবার,unk,,,,,,' poslcat="NM">     	
-7	সঙ্গে     	NST     	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">     	
-8	যুক্তরাষ্ট্রের     	NNP     	<fs af='যুক্তরাষ্ট্র,n,,sg,,o,এর,era' name="যুক্তরাষ্ট্রের">     	
-9	সরাসরি     	RB     	<fs af='সরাসরি,adv,,,,,,' name="সরাসরি">     	
-10	টেলিফোন     	NST     	<fs af='টেলিফোন,n,,sg,,d,0,0' name="টেলিফোন"  poslcat="NM">     	
-11	সংযোগ     	NN     	<fs af='সংযোগ,unk,,,,,,' name="সংযোগ"  poslcat="NM">     	
-12	পুনঃস্থাপিত     	VM     	<fs af='পুনঃস্থাপিত,unk,,,,,,' name="পুনঃস্থাপিত"  poslcat="NM">     	
-13	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	কিউবার     	NN     	<fs af='কিউবার,unk,,,,,,' name="কিউবার"  poslcat="NM">     	
-2	রাষ্ট্রীয্     	NN     	<fs af='রাষ্ট্রীয্,unk,,,,,,' name="রাষ্ট্রীয্"  poslcat="NM">     	
-3	টেলিযোগাযোগ     	VM     	<fs af='টেলিযোগাযোগ,unk,,,,,,' name="টেলিযোগাযোগ"  poslcat="NM">     	
-4	কোম্পানি     	NN     	<fs af='কোম্পানি,unk,,,,,,' name="কোম্পানি"  poslcat="NM">     	
-5	বলেছে     	VAUX     	<fs af='বল্,v,,,3,,এছে,eCe' name="বলেছে"  poslcat="NM">     	
-6	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-7	প্রাথমিকভাবে     	VM     	<fs af='প্রাথমিকভাবে,unk,,,,,,' name="প্রাথমিকভাবে"  poslcat="NM">     	
-8	ওই     	DEM     	<fs af='ও,pn,,sg,,d,0,0'>     	
-9	সংযোগ     	NN     	<fs af='সংযোগ,unk,,,,,,' name="সংযোগ"  poslcat="NM">     	
-10	কেবল     	RB     	<fs af='কেবল,adv,,,,,,' name="কেবল">     	
-11	ফোন     	JJ     	<fs af='ফোন,n,,sg,,d,0,0' name="ফোন"  poslcat="NM">     	
-12	কলের     	QF     	<fs af='কলের,unk,,,,,,' name="কলের"  poslcat="NM">     	
-13	ব্যবহার     	NN     	<fs af='ব্যবহার,n,,sg,,d,0,0' name="ব্যবহার">     	
-14	করা     	VM     	<fs af='করা,v,,,2,,ক,ka' name="করা">     	
-15	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	বর্তমানে     	NN     	<fs af='বর্তমান,n,,sg,,d,মে,me' name="বর্তমানে">     	
-2	কিউবা     	NNP     	<fs af='কিউবা,unk,,,,,,' name="কিউবা"  poslcat="NM">     	
-3	যুক্তরাষ্ট্রে     	NNP     	<fs af='যুক্তরাষ্ট্র,n,,sg,,d,মে,me'>     	
-4	টেলিফোন     	NST     	<fs af='টেলিফোন,n,,sg,,d,0,0' name="টেলিফোন"  poslcat="NM">     	
-5	কল     	NN     	<fs af='কল,adj,,,,,,' name="কল"  poslcat="NM">     	
-6	করার     	VM     	<fs af='কর্,n,,,any,,র,ra' name="করার"  poslcat="NM">     	
-7	ক্ষেত্রে     	NN     	<fs af='ক্ষেত্র,n,,sg,,d,মে,me' name="ক্ষেত্রে">     	
-8	তৃতীয্     	NN     	<fs af='তৃতীয্,unk,,,,,,' name="তৃতীয্"  poslcat="NM">     	
-9	দেশের     	NN     	<fs af='দেশ,n,,sg,,o,এর,era' name="দেশের">     	
-10	সাহায্য     	NN     	<fs af='সাহায্য,n,,sg,,d,0,0' name="সাহায্য">     	
-11	নেওযা     	VM     	<fs af='নেওযা,unk,,,,,,' name="নেওযা"  poslcat="NM">     	
-12	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-13	যা     	PRP     	<fs af='যে,pn,,sg,,d,0,0' name="যা">     	
-14	অনেক     	QF     	<fs af='অনেক,adj,,,,,,'>     	
-15	ব্যয্বহুল     	JJ     	<fs af='ব্যয্বহুল,unk,,,,,,' name="ব্যয্বহুল"  poslcat="NM">     	
-16	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	গত     	JJ     	<fs af='গত,adj,,,,,,'>     	
-2	ডিসেম্বরে     	NNP     	<fs af='ডিসেম্বর,n,,sg,,d,মে,me'>     	
-3	যুক্তরাষ্ট্র     	NNP     	<fs af='যুক্তরাষ্ট্র,n,,sg,,d,0,0' name="যুক্তরাষ্ট্র">     	
-4	ও     	CC     	<fs af='ও,avy,,,,,,' name="ও">     	
-5	কিউবা     	NNP     	<fs af='কিউবা,unk,,,,,,' name="কিউবা"  poslcat="NM">     	
-6	কূটনৈতিক     	JJ     	<fs af='কূটনৈতিক,adj,,,,,,'>     	
-7	সম্পর্ক     	NN     	<fs af='সম্পর্ক,n,,sg,,d,0,0' name="সম্পর্ক">     	
-8	পুনঃস্থাপনের     	NN     	<fs af='পুনঃস্থাপনের,unk,,,,,,' name="পুনঃস্থাপনের"  poslcat="NM">     	
-9	উদ্যোগ     	NN     	<fs af='উদ্যোগ,n,,sg,,d,0,0' name="উদ্যোগ">     	
-10	নেওযার     	NN     	<fs af='নেওযার,unk,,,,,,' name="নেওযার"  poslcat="NM">     	
-11	ঘোষণা     	NN     	<fs af='ঘোষণা,unk,,,,,,' name="ঘোষণা"  poslcat="NM">     	
-12	দেয্     	VM     	<fs af='দেয্,unk,,,,,,' name="দেয্"  poslcat="NM">     	
-13	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	তার     	PRP     	<fs af='সে,pn,,sg,,o,এর,era'>     	
-2	পর     	NST     	<fs af='পর,adj,,,,,,' name="পর"  poslcat="NM">     	
-3	দুই     	QC     	<fs af='দুই,adj,,,,,,'>     	
-4	দেশের     	NN     	<fs af='দেশ,n,,sg,,o,এর,era'>     	
-5	মধ্যে     	NST     	<fs af='মধ্যে,psp,,,,,,' name="মধ্যে"  poslcat="NM">     	
-6	স্বাক্ষরিত     	JJ     	<fs af='স্বাক্ষরিত,adj,,,,,,' name="স্বাক্ষরিত">     	
-7	এটাই     	PRP     	<fs af='এটা,adj,,,,,,' name="এটাই"  poslcat="NM">     	
-8	প্রথম     	QO     	<fs af='প্রথম,adj,,,,,,'>     	
-9	চুক্তি     	NN     	<fs af='চুক্তি,n,,sg,,d,0,0' name="চুক্তি">     	
-10	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	ভারতের     	NNP     	<fs af='ভারত,n,,sg,,o,এর,era' name="ভারতের">     	
-2	প্রধান     	JJ     	<fs af='প্রধান,adj,,,,,,'>     	
-3	বিরোধী     	JJ     	<fs af='বিরোধী,adj,,,,,,'>     	
-4	দল     	NN     	<fs af='দল,n,,sg,,d,0,0' name="দল">     	
-5	কংগ্রেসের     	NNP     	<fs af='কংগ্রেস,n,,sg,,o,এর,era'>     	
-6	সহসভাপতি     	NN     	<fs af='সহসভাপতি,unk,,,,,,' name="সহসভাপতি"  poslcat="NM">     	
-7	রাহুল     	JJ     	<fs af='রাহুল,unk,,,,,,' poslcat="NM">     	
-8	গান্ধীর     	NNP     	<fs af='গান্ধীর,unk,,,,,,' name="গান্ধীর"  poslcat="NM">     	
-9	ছুটি     	NN     	<fs af='ছুটি,n,,sg,,d,0,0' name="ছুটি">     	
-10	বাডানো     	VM     	<fs af='বাডানো,unk,,,,,,' name="বাডানো"  poslcat="NM">     	
-11	নিযে     	VM     	<fs af='নিযে,unk,,,,,,' name="নিযে"  poslcat="NM">     	
-12	বিভিন্ন     	JJ     	<fs af='বিভিন্ন,adj,,,,,,'>     	
-13	মহলে     	NN     	<fs af='মহল,n,,sg,,d,মে,me' name="মহলে">     	
-14	নানা     	JJ     	<fs af='নানা,adj,,,,,,'>     	
-15	প্রশ্ন     	NN     	<fs af='প্রশ্ন,n,,sg,,d,0,0' name="প্রশ্ন">     	
-16	উঠেছে     	VAUX     	<fs af='উঠ্,v,,,3,,এছে,eCe' name="উঠেছে"  poslcat="NM">     	
-17	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	এ     	DEM     	<fs af='এ,pn,,sg,,d,0,0' name="এ">     	
-2	নিযে     	VM     	<fs af='নিযে,unk,,,,,,' name="নিযে"  poslcat="NM">     	
-3	তিন     	QC     	<fs af='তিন,adj,,,,,,'>     	
-4	দফায্     	NN     	<fs af='দফায্,unk,,,,,,' name="দফায্"  poslcat="NM">     	
-5	ছুটি     	NN     	<fs af='ছুটি,n,,sg,,d,0,0' name="ছুটি">     	
-6	বাডিযেছেন     	VM     	<fs af='বাডিযেছেন,unk,,,,,,' name="বাডিযেছেন"  poslcat="NM">     	
-7	তিনি     	PRP     	<fs af='তিনি,pn,,sg,,d,0,0'>     	
-8	.     	SYM     	<fs af='.,punc,,,,,,' name=".">     	
-
-1	ছুটি     	NN     	<fs af='ছুটি,n,,sg,,d,0,0' name="ছুটি">     	
-2	শেষে     	NN     	<fs af='শেষে,avy,,,,,,' name="শেষে_2"  poslcat="NM">     	
-3	চলতি     	JJ     	<fs af='চলতি,adj,,,,,,'>     	
-4	মাসের     	NN     	<fs af='মাস,n,,sg,,o,এর,era' name="মাসের">     	
-5	শেষে     	NN     	<fs af='শেষে,avy,,,,,,' name="শেষে"  poslcat="NM">     	
-6	তাঁর     	PRP     	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">     	
-7	নযাদিল্লিতে     	NN     	<fs af='নযাদিল্লিতে,unk,,,,,,' name="নযাদিল্লিতে"  poslcat="NM">     	
-8	ফেরার     	VM     	<fs af='ফেরার,adj,,,,,,' name="ফেরার"  poslcat="NM">     	
-9	কথা     	NN     	<fs af='কথা,n,,sg,,d,0,0' name="কথা">     	
-10	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	প্রথম     	QO     	<fs af='প্রথম,adj,,,,,,'>     	
-2	দফায্     	NN     	<fs af='দফায্,unk,,,,,,' name="দফায্"  poslcat="NM">     	
-3	নেওযা     	VM     	<fs af='নেওযা,unk,,,,,,' name="নেওযা"  poslcat="NM">     	
-4	ছুটি     	NN     	<fs af='ছুটি,n,,sg,,d,0,0' name="ছুটি">     	
-5	শেষে     	NN     	<fs af='শেষে,avy,,,,,,' name="শেষে"  poslcat="NM">     	
-6	গত     	JJ     	<fs af='গত,adj,,,,,,' name="গত">     	
-7	মঙ্গলবার     	VM     	<fs af='মঙ্গলবার,adj,,,,,,' name="মঙ্গলবার"  poslcat="NM">     	
-8	রাহুলের     	NNP     	<fs af='রাহুলের,unk,,,,,,' name="রাহুলের"  poslcat="NM">     	
-9	রাজধানীতে     	NN     	<fs af='রাজধানী,n,,sg,,d,মে,me' name="রাজধানীতে">     	
-10	ফিরে     	VM     	<fs af='ফির্,v,,,any,,ভে,Be' name="ফিরে">     	
-11	আসার     	VM     	<fs af='আসা,n,,sg,,o,এর,era' name="আসার"  poslcat="NM">     	
-12	কথা     	NN     	<fs af='কথা,n,,sg,,d,0,0' name="কথা">     	
-13	ছিল     	VM     	<fs af='ছিল,v,,,3,,0,0' name="ছিল">     	
-14	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	পরে     	NST     	<fs af='পরে,adj,,,,,,' name="পরে"  poslcat="NM">     	
-2	কংগ্রেসের     	NNP     	<fs af='কংগ্রেস,n,,sg,,o,এর,era' name="কংগ্রেসের">     	
-3	সূত্রে     	NN     	<fs af='সূত্র,n,,sg,,d,মে,me' name="সূত্রে">     	
-4	জানানো     	VM     	<fs af='জানা,v,,,any,,আ,A' name="জানানো">     	
-5	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-6	চলতি     	JJ     	<fs af='চলতি,adj,,,,,,'>     	
-7	সপ্তাহের     	NN     	<fs af='সপ্তাহের,unk,,,,,,' name="সপ্তাহের"  poslcat="NM">     	
-8	শেষ     	NN     	<fs af='শেষ,adj,,,,,,' name="শেষ"  poslcat="NM">     	
-9	তিনি     	PRP     	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">     	
-10	ছুটি     	NN     	<fs af='ছুটি,n,,sg,,d,0,0' name="ছুটি">     	
-11	বাডিযেছেন     	VM     	<fs af='বাডিযেছেন,unk,,,,,,' name="বাডিযেছেন"  poslcat="NM">     	
-12	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	তার     	PRP     	<fs af='সে,pn,,sg,,o,এর,era'>     	
-2	পরই     	NST     	<fs af='পর,adj,,,,,,' name="পরই"  poslcat="NM">     	
-3	আবার     	RB     	<fs af='আবার,adv,,,,,,' name="আবার">     	
-4	এই     	DEM     	<fs af='এই,pn,,sg,,d,0,0'>     	
-5	নতুন     	JJ     	<fs af='নতুন,adj,,,,,,'>     	
-6	দফা     	NN     	<fs af='দফা,unk,,,,,,' name="দফা"  poslcat="NM">     	
-7	ছুটি     	NN     	<fs af='ছুটি,n,,sg,,d,0,0' name="ছুটি">     	
-8	বাডানোর     	VM     	<fs af='বাডানোর,unk,,,,,,' name="বাডানোর"  poslcat="NM">     	
-9	খবর     	NN     	<fs af='খবর,n,,sg,,d,0,0' name="খবর">     	
-10	জানানো     	VM     	<fs af='জানা,v,,,any,,আ,A' name="জানানো">     	
-11	হলো     	VM     	<fs af='হ,v,,,3,,ল,la' name="হলো">     	
-12	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-
-1	টাইমস     	XC     	<fs af='টাইমস,unk,,,,,,' poslcat="NM">     	
-2	অব     	XC     	<fs af='অব,unk,,,,,,' poslcat="NM">     	
-3	ইন্ডিযার     	NN     	<fs af='ইন্ডিযার,unk,,,,,,' name="ইন্ডিযার"  poslcat="NM">     	
-4	খবরে     	NN     	<fs af='খবর,n,,sg,,d,মে,me' name="খবরে">     	
-5	জানানো     	VM     	<fs af='জানা,v,,,any,,আ,A' name="জানানো">     	
-6	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-7	ছুটিতে     	NN     	<fs af='ছুটি,n,,sg,,d,মে,me' name="ছুটিতে">     	
-8	থাকায্     	NN     	<fs af='থাকায্,unk,,,,,,' name="থাকায্"  poslcat="NM">     	
-9	ভারতের     	NNP     	<fs af='ভারত,n,,sg,,o,এর,era' name="ভারতের">     	
-10	রাজনীতির     	NN     	<fs af='রাজনীতির,unk,,,,,,' name="রাজনীতির"  poslcat="NM">     	
-11	অনেক     	QF     	<fs af='অনেক,adj,,,,,,'>     	
-12	গুরুত্বপূর্ণ     	JJ     	<fs af='গুরুত্বপূর্ণ,adj,,,,,,'>     	
-13	ঘটনায্     	NN     	<fs af='ঘটনায্,unk,,,,,,' name="ঘটনায্"  poslcat="NM">     	
-14	যুক্ত     	JJ     	<fs af='যুক্ত,adj,,,,,,' name="যুক্ত">     	
-15	হতে     	VM     	<fs af='হ,v,,,2,,ত,wa' name="হতে">     	
-16	রাহুল     	JJ     	<fs af='রাহুল,unk,,,,,,' name="রাহুল"  poslcat="NM">     	
-17	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	গতকাল     	NN     	<fs af='গতকাল,adj,,,,,,' name="গতকাল"  poslcat="NM">     	
-2	বৃহস্পতিবার     	NN     	<fs af='বৃহস্পতিবার,n,,sg,,d,0,0' name="বৃহস্পতিবার">     	
-3	কংগ্রেস     	XC     	<fs af='কংগ্রেস,n,,sg,,d,0,0' poslcat="NM">     	
-4	সভানেত্রী     	NN     	<fs af='সভানেত্রী,unk,,,,,,' name="সভানেত্রী"  poslcat="NM">     	
-5	সোনিযা     	NN     	<fs af='সোনিযা,unk,,,,,,' name="সোনিযা"  poslcat="NM">     	
-6	গান্ধী     	NNP     	<fs af='গান্ধী,unk,,,,,,' name="গান্ধী"  poslcat="NM">     	
-7	সাবেক     	NN     	<fs af='সাবেক,adj,,,,,,' name="সাবেক"  poslcat="NM">     	
-8	প্রধানমন্ত্রী     	NN     	<fs af='প্রধানমন্ত্রী,n,,sg,,d,0,0' name="প্রধানমন্ত্রী">     	
-9	মনমোহন     	XC     	<fs af='মনমোহন,adj,,,,,,' poslcat="NM">     	
-10	সিংযের     	NN     	<fs af='সিংযের,unk,,,,,,' name="সিংযের"  poslcat="NM">     	
-11	সরকারি     	JJ     	<fs af='সরকারি,adj,,,,,,'>     	
-12	আবাসে     	NN     	<fs af='আবাস,n,,sg,,d,মে,me' name="আবাসে">     	
-13	হেঁটে     	VM     	<fs af='হাঁট্,v,,,any,,ভে,Be' name="হেঁটে">     	
-14	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	এ     	DEM     	<fs af='এ,pn,,sg,,d,0,0'>     	
-2	সময্     	NN     	<fs af='সময্,unk,,,,,,' name="সময্"  poslcat="NM">     	
-3	তাঁর     	PRP     	<fs af='তিনি,pn,,sg,,o,এর,era'>     	
-4	সঙ্গে     	NST     	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">     	
-5	ছিলেন     	VM     	<fs af='ছিল,v,,,2,,0,0' name="ছিলেন">     	
-6	কংগ্রেসের     	NNP     	<fs af='কংগ্রেস,n,,sg,,o,এর,era' name="কংগ্রেসের">     	
-7	শতাধিক     	QF     	<fs af='শতাধিক,adj,,,,,,' name="শতাধিক">     	
-8	নেতা     	NN     	<fs af='নেতা,n,,sg,,d,0,0' name="নেতা">     	
-9	ও     	CC     	<fs af='ও,avy,,,,,,' name="ও">     	
-10	সাংসদ     	NNP     	<fs af='সাংসদ,unk,,,,,,' name="সাংসদ"  poslcat="NM">     	
-11	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	কয্লা     	NN     	<fs af='কয্লা,unk,,,,,,' name="কয্লা"  poslcat="NM">     	
-2	কেলেঙ্কারিতে     	NN     	<fs af='কেলেঙ্কারিতে,unk,,,,,,' name="কেলেঙ্কারিতে"  poslcat="NM">     	
-3	সিবিআই     	NN     	<fs af='সিবিআই,unk,,,,,,' name="সিবিআই"  poslcat="NM">     	
-4	বিচারপতির     	NN     	<fs af='বিচারপতির,unk,,,,,,' name="বিচারপতির"  poslcat="NM">     	
-5	সমন     	NN     	<fs af='সমন,unk,,,,,,' name="সমন"  poslcat="NM">     	
-6	গোটা     	QF     	<fs af='গোটা,adj,,,,,,'>     	
-7	কংগ্রেস     	XC     	<fs af='কংগ্রেস,n,,sg,,d,0,0' poslcat="NM">     	
-8	দল     	NN     	<fs af='দল,n,,sg,,d,0,0' name="দল">     	
-9	যে     	CC     	<fs af='যে,avy,,,,,,' name="যে">     	
-10	মনমোহন     	XC     	<fs af='মনমোহন,adj,,,,,,' poslcat="NM">     	
-11	সিংযের     	NN     	<fs af='সিংযের,unk,,,,,,' poslcat="NM">     	
-12	পাশে     	NST     	<fs af='পাশে,psp,,,,,,' name="পাশে"  poslcat="NM">     	
-13	রযেছে     	NN     	<fs af='রযেছে,unk,,,,,,' name="রযেছে"  poslcat="NM">     	
-14	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-15	তা     	PRP     	<fs af='যে,pn,,sg,,d,0,0' name="তা">     	
-16	জানাতেই     	NN     	<fs af='জানা,n,,sg,,d,মে,me' name="জানাতেই">     	
-17	সোনিযা     	NN     	<fs af='সোনিযা,unk,,,,,,' name="সোনিযা"  poslcat="NM">     	
-18	এই     	DEM     	<fs af='এই,pn,,sg,,d,0,0'>     	
-19	অভিনব     	JJ     	<fs af='অভিনব,adj,,,,,,'>     	
-20	পদযাত্রা     	NN     	<fs af='পদযাত্রা,unk,,,,,,' name="পদযাত্রা"  poslcat="NM">     	
-21	করেন     	VM     	<fs af='কর্,v,,,2,,নে,ne' name="করেন">     	
-22	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	কিন্তু     	CC     	<fs af='কিন্তু,avy,,,,,,' name="কিন্তু">     	
-2	কংগ্রেসের     	NNP     	<fs af='কংগ্রেস,n,,sg,,o,এর,era' name="কংগ্রেসের">     	
-3	অন্যতম     	JJ     	<fs af='অন্যতম,adj,,,,,,'>     	
-4	সদস্য     	NN     	<fs af='সদস্য,n,,sg,,d,0,0' name="সদস্য">     	
-5	রাহুল     	JJ     	<fs af='রাহুল,unk,,,,,,' name="রাহুল"  poslcat="NM">     	
-6	সেখানে     	PRP     	<fs af='সেখানে,pn,,,,d,মে,me' name="সেখানে">     	
-7	যোগ     	NN     	<fs af='যোগ,n,,sg,,d,0,0' name="যোগ">     	
-8	দিতে     	VM     	<fs af='দে,v,,,2,,ত,wa' name="দিতে">     	
-9	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	ছুটিতে     	NN     	<fs af='ছুটি,n,,sg,,d,মে,me' name="ছুটিতে">     	
-2	থাকায্     	NN     	<fs af='থাকায্,unk,,,,,,' name="থাকায্"  poslcat="NM">     	
-3	পার্লামেন্টে     	VM     	<fs af='পার্লামেন্ট,n,,sg,,d,মে,me' name="পার্লামেন্টে"  poslcat="NM">     	
-4	ভূমি     	NN     	<fs af='ভূমি,unk,,,,,,' name="ভূমি"  poslcat="NM">     	
-5	অধিগ্রহণ     	NN     	<fs af='অধিগ্রহণ,n,,sg,,d,0,0' name="অধিগ্রহণ">     	
-6	বিলের     	NN     	<fs af='বিল,n,,sg,,o,এর,era' name="বিলের">     	
-7	আলোচনাতেও     	NN     	<fs af='আলোচনা,n,,sg,,d,মে,me' name="আলোচনাতেও">     	
-8	অংশ     	NN     	<fs af='অংশ,n,,sg,,d,0,0' name="অংশ">     	
-9	নিতে     	VM     	<fs af='নে,v,,,2,,ত,wa' name="নিতে">     	
-10	রাহুল     	JJ     	<fs af='রাহুল,unk,,,,,,' name="রাহুল"  poslcat="NM">     	
-11	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	গত     	JJ     	<fs af='গত,adj,,,,,,'>     	
-2	মাসে     	NNP     	<fs af='মাস,n,,sg,,d,মে,me' name="মাসে">     	
-3	যন্তর     	NN     	<fs af='যন্তর,unk,,,,,,' name="যন্তর"  poslcat="NM">     	
-4	মন্তরে     	NN     	<fs af='মন্তরে,unk,,,,,,' name="মন্তরে"  poslcat="NM">     	
-5	ভূমি     	NN     	<fs af='ভূমি,unk,,,,,,' name="ভূমি"  poslcat="NM">     	
-6	বিলের     	NN     	<fs af='বিল,n,,sg,,o,এর,era' name="বিলের">     	
-7	বিরোধিতা     	NN     	<fs af='বিরোধিতা,n,,sg,,d,0,0' name="বিরোধিতা">     	
-8	করে     	VM     	<fs af='কর্,v,,,3,,নে,ne' name="করে">     	
-9	যে     	CC     	<fs af='যে,avy,,,,,,' name="যে">     	
-10	বিক্ষোভ     	NN     	<fs af='বিক্ষোভ,unk,,,,,,' name="বিক্ষোভ"  poslcat="NM">     	
-11	হয্     	VM     	<fs af='হয্,unk,,,,,,' name="হয্"  poslcat="NM">     	
-12	এতেও     	NN     	<fs af='এ,pn,,sg,,d,মে,me' name="এতেও"  poslcat="NM">     	
-13	অংশ     	NN     	<fs af='অংশ,n,,sg,,d,0,0' name="অংশ">     	
-14	নেননি     	VM     	<fs af='নে,v,,,3,,এনি,eni' name="নেননি">     	
-15	রাহুল     	JJ     	<fs af='রাহুল,unk,,,,,,' name="রাহুল"  poslcat="NM">     	
-16	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	গত     	JJ     	<fs af='গত,adj,,,,,,'>     	
-2	23     	QC     	<fs af='23,num,,,,,,'>     	
-3	ফেব্রুযারি     	NN     	<fs af='ফেব্রুযারি,unk,,,,,,' name="ফেব্রুযারি"  poslcat="NM">     	
-4	শুরু     	NN     	<fs af='শুরু,n,,sg,,d,0,0' name="শুরু">     	
-5	হওযা     	NN     	<fs af='হওযা,unk,,,,,,' name="হওযা"  poslcat="NM">     	
-6	বাজেট     	NN     	<fs af='বাজেট,unk,,,,,,' name="বাজেট"  poslcat="NM">     	
-7	অধিবেশনেও     	NN     	<fs af='অধিবেশন,n,,sg,,d,মে,me' name="অধিবেশনেও">     	
-8	ছুটির     	NN     	<fs af='ছুটি,n,,sg,,o,এর,era' name="ছুটির">     	
-9	কারণে     	NN     	<fs af='কারণ,n,,sg,,d,মে,me' name="কারণে">     	
-10	অনুপস্থিত     	NN     	<fs af='অনুপস্থিত,adj,,,,,,' name="অনুপস্থিত"  poslcat="NM">     	
-11	ছিলেন     	VM     	<fs af='ছিল,v,,,2,,0,0' name="ছিলেন">     	
-12	তিনি     	PRP     	<fs af='তিনি,pn,,sg,,d,0,0'>     	
-13	.     	SYM     	<fs af='.,punc,,,,,,' name=".">     	
-
-1	সর্বশেষ     	JJ     	<fs af='সর্বশেষ,adj,,,,,,'>     	
-2	গতকাল     	NN     	<fs af='গতকাল,adj,,,,,,' name="গতকাল"  poslcat="NM">     	
-3	বৃহস্পতিবার     	NN     	<fs af='বৃহস্পতিবার,n,,sg,,d,0,0' name="বৃহস্পতিবার">     	
-4	রাহুল     	JJ     	<fs af='রাহুল,unk,,,,,,' name="রাহুল"  poslcat="NM">     	
-5	যখন     	PRP     	<fs af='যখন,pn,,,,d,0,0' name="যখন">     	
-6	আবার     	RB     	<fs af='আবার,adv,,,,,,' name="আবার">     	
-7	ছুটি     	NN     	<fs af='ছুটি,n,,sg,,d,0,0' name="ছুটি">     	
-8	বাডানোর     	VM     	<fs af='বাডানোর,unk,,,,,,' name="বাডানোর"  poslcat="NM">     	
-9	সিদ্ধান্ত     	NN     	<fs af='সিদ্ধান্ত,n,,sg,,d,0,0' name="সিদ্ধান্ত">     	
-10	নিলেন     	VAUX     	<fs af='নে,v,,,2,,ল,la' poslcat="NM">     	
-11	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-12	তখন     	PRP     	<fs af='তখন,pn,,,,d,0,0' name="তখন">     	
-13	বিতর্ক     	NN     	<fs af='বিতর্ক,n,,sg,,d,0,0' name="বিতর্ক">     	
-14	চরমে     	NN     	<fs af='চরমে,unk,,,,,,' name="চরমে"  poslcat="NM">     	
-15	ওঠে     	VAUX     	<fs af='ওঠে,unk,,,,,,' name="ওঠে"  poslcat="NM">     	
-16	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	দলের     	NN     	<fs af='দল,n,,sg,,o,এর,era' name="দলের">     	
-2	বিভিন্ন     	JJ     	<fs af='বিভিন্ন,adj,,,,,,'>     	
-3	সূত্র     	NN     	<fs af='সূত্র,n,,sg,,d,0,0' name="সূত্র">     	
-4	বলছে     	VM     	<fs af='বল্,v,,,3,,ছে,Ce' name="বলছে">     	
-5	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-6	তিনি     	PRP     	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">     	
-7	এই     	DEM     	<fs af='এই,pn,,sg,,d,0,0'>     	
-8	মাসের     	NNP     	<fs af='মাস,n,,sg,,o,এর,era' name="মাসের">     	
-9	শেষে     	NN     	<fs af='শেষে,avy,,,,,,' name="শেষে"  poslcat="NM">     	
-10	ফিরবেন     	VM     	<fs af='ফির্,v,,,2,,বে,be' name="ফিরবেন">     	
-11	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	তবে     	CC     	<fs af='তবে,avy,,,,,,' name="তবে">     	
-2	দলের     	NN     	<fs af='দল,n,,sg,,o,এর,era' name="দলের">     	
-3	কযেকজন     	NN     	<fs af='কযেকজন,unk,,,,,,' poslcat="NM">     	
-4	সদস্য     	NN     	<fs af='সদস্য,n,,sg,,d,0,0' name="সদস্য">     	
-5	রাহুলের     	NNP     	<fs af='রাহুলের,unk,,,,,,' name="রাহুলের"  poslcat="NM">     	
-6	ফেরার     	VM     	<fs af='ফেরার,adj,,,,,,' name="ফেরার"  poslcat="NM">     	
-7	নির্দিষ্ট     	JJ     	<fs af='নির্দিষ্ট,adj,,,,,,'>     	
-8	কোনো     	QF     	<fs af='কোনো,adj,,,,,,'>     	
-9	তারিখ     	NN     	<fs af='তারিখ,n,,sg,,d,0,0' name="তারিখ">     	
-10	জানাতে     	VM     	<fs af='জানা,v,,,2,,ত,wa' name="জানাতে">     	
-11	নারাজ     	NN     	<fs af='নারাজ,adj,,,,,,' name="নারাজ"  poslcat="NM">     	
-12	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	রাহুল     	JJ     	<fs af='রাহুল,unk,,,,,,' name="রাহুল"  poslcat="NM">     	
-2	কবে     	WQ     	<fs af='কবে,WQ,,,,,,' poslcat="NM">     	
-3	ফিরছেন     	NN     	<fs af='ফির্,v,,,2,,ছে,Ce' name="ফিরছেন"  poslcat="NM">     	
-4	তা     	PRP     	<fs af='যে,pn,,sg,,d,0,0' name="তা">     	
-5	নিযে     	VM     	<fs af='নিযে,unk,,,,,,' name="নিযে"  poslcat="NM">     	
-6	কংগ্রেস     	XC     	<fs af='কংগ্রেস,n,,sg,,d,0,0' poslcat="NM">     	
-7	দলের     	NN     	<fs af='দল,n,,sg,,o,এর,era' name="দলের">     	
-8	সদস্যদের     	NN     	<fs af='সদস্যদের,unk,,,,,,' name="সদস্যদের"  poslcat="NM">     	
-9	নানা     	JJ     	<fs af='নানা,adj,,,,,,' name="নানা">     	
-10	মত     	PSP     	<fs af='মত,psp,,,,,,'>     	
-11	চলছে     	VM     	<fs af='চল্,v,,,3,,ছে,Ce' name="চলছে">     	
-12	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	দলের     	NN     	<fs af='দল,n,,sg,,o,এর,era' name="দলের">     	
-2	জ্যেষ্ঠ     	JJ     	<fs af='জ্যেষ্ঠ,adj,,,,,,'>     	
-3	এক     	QC     	<fs af='এক,adj,,,,,,'>     	
-4	সদস্য     	NN     	<fs af='সদস্য,n,,sg,,d,0,0' name="সদস্য">     	
-5	জানান     	VM     	<fs af='জানা,v,,,3,,ক,ka' name="জানান">     	
-6	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-7	অল     	JJ     	<fs af='অল,unk,,,,,,' poslcat="NM">     	
-8	ইন্ডিযা     	NN     	<fs af='ইন্ডিযা,unk,,,,,,' name="ইন্ডিযা"  poslcat="NM">     	
-9	কংগ্রেস     	XC     	<fs af='কংগ্রেস,n,,sg,,d,0,0' poslcat="NM">     	
-10	কমিটির     	NN     	<fs af='কমিটি,n,,sg,,o,এর,era' name="কমিটির">     	
-11	অধিবেশন     	NN     	<fs af='অধিবেশন,n,,sg,,d,0,0' name="অধিবেশন">     	
-12	কখন     	WQ     	<fs af='কখন,pn,,,,d,মে,me'>     	
-13	হবে     	VAUX     	<fs af='হ,v,,,2,,বে,be' name="হবে"  poslcat="NM">     	
-14	তা     	PRP     	<fs af='যে,pn,,sg,,d,0,0' name="তা">     	
-15	রাহুলের     	NNP     	<fs af='রাহুলের,unk,,,,,,' name="রাহুলের"  poslcat="NM">     	
-16	ফেরার     	VM     	<fs af='ফেরার,adj,,,,,,' name="ফেরার"  poslcat="NM">     	
-17	ওপর     	NST     	<fs af='ওপর,adj,,,,,,' poslcat="NM">     	
-18	অনেকটাই     	PRP     	<fs af='aneka,num,,,,,,' name="অনেকটাই"  poslcat="NM">     	
-19	নির্ভর     	NN     	<fs af='নির্ভর,n,,sg,,d,0,0' name="নির্ভর">     	
-20	করছে     	VM     	<fs af='কর্,v,,,3,,ছে,Ce' name="করছে">     	
-21	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	রাহুলের     	NNP     	<fs af='রাহুলের,unk,,,,,,' name="রাহুলের"  poslcat="NM">     	
-2	ফেরা     	NN     	<fs af='ফেরা,n,,sg,,d,0,0' name="ফেরা">     	
-3	নিযে     	VM     	<fs af='নিযে,unk,,,,,,' name="নিযে"  poslcat="NM">     	
-4	অনিশ্চয্তা     	NN     	<fs af='অনিশ্চয্তা,unk,,,,,,' name="অনিশ্চয্তা"  poslcat="NM">     	
-5	তৈরি     	NN     	<fs af='তৈরি,adj,,,,,,' name="তৈরি_2"  poslcat="NM">     	
-6	হওযায্     	NN     	<fs af='হওযায্,unk,,,,,,' name="হওযায্"  poslcat="NM">     	
-7	ওই     	DEM     	<fs af='ও,pn,,sg,,d,0,0'>     	
-8	অধিবেশন     	NN     	<fs af='অধিবেশন,n,,sg,,d,0,0' name="অধিবেশন">     	
-9	নিযেও     	JJ     	<fs af='নিযেও,unk,,,,,,' poslcat="NM">     	
-10	এক     	QC     	<fs af='এক,adj,,,,,,'>     	
-11	ধরনের     	NN     	<fs af='ধরন,n,,sg,,o,এর,era' name="ধরনের">     	
-12	অনিশ্চয্তা     	VM     	<fs af='অনিশ্চয্তা,unk,,,,,,' name="অনিশ্চয্তা"  poslcat="NM">     	
-13	তৈরি     	NN     	<fs af='তৈরি,adj,,,,,,' name="তৈরি"  poslcat="NM">     	
-14	হযেছে     	NN     	<fs af='হযেছে,unk,,,,,,' name="হযেছে"  poslcat="NM">     	
-15	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	তবে     	CC     	<fs af='তবে,avy,,,,,,' name="তবে">     	
-2	এ     	DEM     	<fs af='এ,pn,,sg,,d,0,0'>     	
-3	ব্যাপারে     	NN     	<fs af='ব্যাপার,n,,sg,,d,মে,me' name="ব্যাপারে">     	
-4	অল     	JJ     	<fs af='অল,unk,,,,,,' poslcat="NM">     	
-5	ইন্ডিযা     	NN     	<fs af='ইন্ডিযা,unk,,,,,,' name="ইন্ডিযা"  poslcat="NM">     	
-6	কংগ্রেস     	XC     	<fs af='কংগ্রেস,n,,sg,,d,0,0' poslcat="NM">     	
-7	কমিটির     	NN     	<fs af='কমিটি,n,,sg,,o,এর,era' name="কমিটির">     	
-8	প্রধান     	JJ     	<fs af='প্রধান,adj,,,,,,'>     	
-9	মুখপাত্র     	NN     	<fs af='মুখপাত্র,n,,sg,,d,0,0' name="মুখপাত্র">     	
-10	রণদীপ     	NN     	<fs af='রণদীপ,unk,,,,,,' name="রণদীপ"  poslcat="NM">     	
-11	সারজেওযালা     	NNP     	<fs af='সারজেওযালা,unk,,,,,,' name="সারজেওযালা"  poslcat="NM">     	
-12	বলেন     	VM     	<fs af='বল্,v,,,2,,নে,ne' name="বলেন">     	
-13	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-14	গুজবকে     	NN     	<fs af='গুজবকে,unk,,,,,,' name="গুজবকে"  poslcat="NM">     	
-15	গুরুত্ব     	NN     	<fs af='গুরুত্ব,n,,sg,,d,0,0' name="গুরুত্ব">     	
-16	না     	NEG     	<fs af='না,avy,,,,,,' name="না">     	
-17	দেওযার     	NN     	<fs af='দেওযার,unk,,,,,,' name="দেওযার"  poslcat="NM">     	
-18	তাঁরা     	PRP     	<fs af='তিনি,pn,,pl,,d,0,0' name="তাঁরা">     	
-19	গণমাধ্যমের     	NN     	<fs af='গণমাধ্যমের,unk,,,,,,' name="গণমাধ্যমের"  poslcat="NM">     	
-20	আহ্বান     	NN     	<fs af='আহ্বান,n,,sg,,d,0,0' name="আহ্বান">     	
-21	জানাচ্ছেন     	VM     	<fs af='জানা,v,,,2,,ছে,Ce' name="জানাচ্ছেন">     	
-22	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	রাহুলের     	NNP     	<fs af='রাহুলের,unk,,,,,,' name="রাহুলের"  poslcat="NM">     	
-2	ছুটি     	NN     	<fs af='ছুটি,n,,sg,,d,0,0' name="ছুটি">     	
-3	নেওযা     	VM     	<fs af='নেওযা,unk,,,,,,' name="নেওযা"  poslcat="NM">     	
-4	একেবারেই     	RB     	<fs af='একেবারে,adv,,,,,,' name="একেবারেই">     	
-5	তাঁর     	PRP     	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">     	
-6	ব্যক্তিগত     	JJ     	<fs af='ব্যক্তিগত,adj,,,,,,'>     	
-7	সিদ্ধান্ত     	NN     	<fs af='সিদ্ধান্ত,n,,sg,,d,0,0' name="সিদ্ধান্ত">     	
-8	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	এতে     	PRP     	<fs af='এ,pn,,sg,,d,মে,me' name="এতে">     	
-2	দলের     	NN     	<fs af='দল,n,,sg,,o,এর,era'>     	
-3	ওপর     	NST     	<fs af='ওপর,adj,,,,,,' name="ওপর"  poslcat="NM">     	
-4	কোনো     	QF     	<fs af='কোনো,adj,,,,,,'>     	
-5	প্রভাব     	NN     	<fs af='প্রভাব,n,,sg,,d,0,0' name="প্রভাব">     	
-6	পড্ছে     	VM     	<fs af='পড্ছে,unk,,,,,,' name="পড্ছে"  poslcat="NM">     	
-7	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	আগামী     	JJ     	<fs af='আগামী,adj,,,,,,'>     	
-2	18     	QC     	<fs af='18,num,,,,,,'>     	
-3	এপ্রিল     	NNP     	<fs af='এপ্রিল,n,,sg,,d,0,0'>     	
-4	পশ্চিমবঙ্গের     	NNP     	<fs af='পশ্চিমবঙ্গ,n,,sg,,o,এর,era' name="পশ্চিমবঙ্গের">     	
-5	কলকাতা     	NNP     	<fs af='কলকাতা,n,,sg,,d,0,0' name="কলকাতা">     	
-6	পৌর     	XC     	<fs af='পৌর,n,,sg,,d,0,0' poslcat="NM">     	
-7	করপোরেশনের     	NN     	<fs af='করপোরেশনের,unk,,,,,,' name="করপোরেশনের"  poslcat="NM">     	
-8	নির্বাচন     	NN     	<fs af='নির্বাচন,n,,sg,,d,0,0' name="নির্বাচন">     	
-9	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	রাজ্যের     	NN     	<fs af='রাজ্য,n,,sg,,o,এর,era' name="রাজ্যের">     	
-2	92টি     	QC     	<fs af='92টি,unk,,,,,,' poslcat="NM">     	
-3	পৌরসভার     	NNP     	<fs af='পৌরসভা,n,,sg,,o,এর,era' name="পৌরসভার">     	
-4	নির্বাচন     	NN     	<fs af='নির্বাচন,n,,sg,,d,0,0' name="নির্বাচন">     	
-5	হবে     	VM     	<fs af='হ,v,,,2,,বে,be' name="হবে">     	
-6	25     	QC     	<fs af='25,num,,,,,,'>     	
-7	এপ্রিল     	NNP     	<fs af='এপ্রিল,n,,sg,,d,0,0' name="এপ্রিল">     	
-8	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	কলকাতা     	NNP     	<fs af='কলকাতা,n,,sg,,d,0,0' name="কলকাতা">     	
-2	করপোরেশনের     	NN     	<fs af='করপোরেশনের,unk,,,,,,' name="করপোরেশনের"  poslcat="NM">     	
-3	নির্বাচনে     	NN     	<fs af='নির্বাচন,n,,sg,,d,মে,me' name="নির্বাচনে">     	
-4	ক্ষমতাসীন     	JJ     	<fs af='ক্ষমতাসীন,unk,,,,,,' poslcat="NM">     	
-5	দল     	NN     	<fs af='দল,n,,sg,,d,0,0' name="দল">     	
-6	তৃণমূল     	NN     	<fs af='তৃণমূল,unk,,,,,,' name="তৃণমূল"  poslcat="NM">     	
-7	কংগ্রেস     	XC     	<fs af='কংগ্রেস,n,,sg,,d,0,0' name="কংগ্রেস"  poslcat="NM">     	
-8	তাদের     	PRP     	<fs af='সে,pn,,pl,,o,এর,era' name="তাদের">     	
-9	প্রার্থীদের     	NN     	<fs af='প্রার্থীদের,unk,,,,,,' name="প্রার্থীদের"  poslcat="NM">     	
-10	নাম     	NN     	<fs af='নাম,n,,sg,,d,0,0' name="নাম">     	
-11	ঘোষণা     	NN     	<fs af='ঘোষণা,unk,,,,,,' name="ঘোষণা"  poslcat="NM">     	
-12	করেছে     	VM     	<fs af='কর্,v,,,3,,এছে,eCe' name="করেছে">     	
-13	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	বিজেপি     	NN     	<fs af='বিজেপি,unk,,,,,,' name="বিজেপি"  poslcat="NM">     	
-2	করবে     	VM     	<fs af='কর্,v,,,2,,বে,be' name="করবে">     	
-3	কাল     	NN     	<fs af='কাল,n,,sg,,d,0,0' name="কাল">     	
-4	শুক্রবার     	VM     	<fs af='শুক্রবার,adj,,,,,,' name="শুক্রবার"  poslcat="NM">     	
-5	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	কলকাতা     	NNP     	<fs af='কলকাতা,n,,sg,,d,0,0' name="কলকাতা">     	
-2	পৌর     	XC     	<fs af='পৌর,n,,sg,,d,0,0' poslcat="NM">     	
-3	করপোরেশনের     	NN     	<fs af='করপোরেশনের,unk,,,,,,' name="করপোরেশনের"  poslcat="NM">     	
-4	সর্বশেষ     	JJ     	<fs af='সর্বশেষ,adj,,,,,,' name="সর্বশেষ">     	
-5	2010     	QC     	<fs af='2010,num,,,,,,'>     	
-6	সালের     	NNP     	<fs af='সাল,n,,sg,,o,এর,era' name="সালের">     	
-7	নির্বাচনে     	NN     	<fs af='নির্বাচন,n,,sg,,d,মে,me' name="নির্বাচনে">     	
-8	141টি     	NN     	<fs af='141টি,unk,,,,,,' name="141টি"  poslcat="NM">     	
-9	আসন     	NN     	<fs af='আসন,n,,sg,,d,0,0' name="আসন">     	
-10	থাকলেও     	VM     	<fs af='থাক্,v,,,any,,লেও,leo' name="থাকলেও">     	
-11	এবার     	NN     	<fs af='এবার,avy,,,,,,' name="এবার"  poslcat="NM">     	
-12	তা     	PRP     	<fs af='যে,pn,,sg,,d,0,0' name="তা">     	
-13	বেডে     	VM     	<fs af='বেডে,unk,,,,,,' name="বেডে"  poslcat="NM">     	
-14	144টি     	NN     	<fs af='144টি,unk,,,,,,' name="144টি"  poslcat="NM">     	
-15	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	ইতিমধ্যে     	RB     	<fs af='ইতিমধ্যে,adv,,,,,,' name="ইতিমধ্যে">     	
-2	এই     	DEM     	<fs af='এই,pn,,sg,,d,0,0'>     	
-3	নির্বাচনের     	NN     	<fs af='নির্বাচন,n,,sg,,o,এর,era' name="নির্বাচনের">     	
-4	প্রচারকাজ     	NN     	<fs af='প্রচারকাজ,unk,,,,,,' name="প্রচারকাজ"  poslcat="NM">     	
-5	শুরু     	NN     	<fs af='শুরু,n,,sg,,d,0,0' name="শুরু">     	
-6	করেছেন     	VM     	<fs af='কর্,v,,,2,,এছে,eCe' name="করেছেন">     	
-7	তৃণমূল     	NN     	<fs af='তৃণমূল,unk,,,,,,' name="তৃণমূল"  poslcat="NM">     	
-8	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-9	বিজেপি     	NN     	<fs af='বিজেপি,unk,,,,,,' name="বিজেপি"  poslcat="NM">     	
-10	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-11	বামফ্রন্ট     	XC     	<fs af='বামফ্রন্ট,unk,,,,,,' name="বামফ্রন্ট"  poslcat="NM">     	
-12	ও     	CC     	<fs af='ও,avy,,,,,,' name="ও">     	
-13	কংগ্রেসের     	NNP     	<fs af='কংগ্রেস,n,,sg,,o,এর,era' name="কংগ্রেসের">     	
-14	প্রার্থীরা     	NN     	<fs af='প্রার্থীরা,unk,,,,,,' name="প্রার্থীরা"  poslcat="NM">     	
-15	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	এবিপি     	NN     	<fs af='এবিপি,unk,,,,,,' poslcat="NM">     	
-2	আনন্দ     	NN     	<fs af='আনন্দ,n,,sg,,d,0,0' name="আনন্দ">     	
-3	-     	SYM     	<fs af='-,punc,,,,,,'>     	
-4	নিযেলসনের     	NNP     	<fs af='নিযেলসনের,unk,,,,,,' name="নিযেলসনের"  poslcat="NM">     	
-5	এক     	QC     	<fs af='এক,adj,,,,,,'>     	
-6	সমীক্ষায্     	NN     	<fs af='সমীক্ষায্,unk,,,,,,' name="সমীক্ষায্"  poslcat="NM">     	
-7	বলা     	VM     	<fs af='বলা,v,,,2,,ক,ka' name="বলা">     	
-8	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-9	এবার     	NN     	<fs af='এবার,avy,,,,,,' name="এবার"  poslcat="NM">     	
-10	পৌর     	QC     	<fs af='পৌর,n,,sg,,d,0,0' poslcat="NM">     	
-11	করপোরেশনের     	NN     	<fs af='করপোরেশনের,unk,,,,,,' name="করপোরেশনের"  poslcat="NM">     	
-12	নির্বাচনে     	NN     	<fs af='নির্বাচন,n,,sg,,d,মে,me' name="নির্বাচনে">     	
-13	জযী     	NN     	<fs af='জযী,unk,,,,,,' name="জযী"  poslcat="NM">     	
-14	হবে     	VM     	<fs af='হ,v,,,2,,বে,be' name="হবে">     	
-15	তৃণমূল     	NN     	<fs af='তৃণমূল,unk,,,,,,' name="তৃণমূল"  poslcat="NM">     	
-16	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	তাদের     	PRP     	<fs af='সে,pn,,pl,,o,এর,era' name="তাদের">     	
-2	আসন     	NN     	<fs af='আসন,n,,sg,,d,0,0' name="আসন">     	
-3	বাড্বে     	VM     	<fs af='বাড্বে,unk,,,,,,' name="বাড্বে"  poslcat="NM">     	
-4	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-
-1	গতকাল     	NN     	<fs af='গতকাল,adj,,,,,,' name="গতকাল"  poslcat="NM">     	
-2	বৃহস্পতিবার     	NN     	<fs af='বৃহস্পতিবার,n,,sg,,d,0,0' name="বৃহস্পতিবার">     	
-3	এই     	DEM     	<fs af='এই,pn,,sg,,d,0,0' name="এই">     	
-4	জনমত     	RB     	<fs af='জনমত,unk,,,,,,' name="জনমত"  poslcat="NM">     	
-5	সমীক্ষার     	NN     	<fs af='সমীক্ষার,unk,,,,,,' name="সমীক্ষার"  poslcat="NM">     	
-6	ফল     	NN     	<fs af='ফল,n,,sg,,d,0,0' name="ফল">     	
-7	প্রকাশ     	NN     	<fs af='প্রকাশ,n,,sg,,d,0,0' name="প্রকাশ">     	
-8	করা     	VM     	<fs af='করা,v,,,2,,ক,ka' name="করা">     	
-9	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	এবিপি     	NN     	<fs af='এবিপি,unk,,,,,,' poslcat="NM">     	
-2	আনন্দ     	NN     	<fs af='আনন্দ,n,,sg,,d,0,0' name="আনন্দ">     	
-3	-     	SYM     	<fs af='-,punc,,,,,,'>     	
-4	নিযেলসনের     	NNP     	<fs af='নিযেলসনের,unk,,,,,,' name="নিযেলসনের"  poslcat="NM">     	
-5	এই     	DEM     	<fs af='এই,pn,,sg,,d,0,0' name="এই">     	
-6	জনমত     	RB     	<fs af='জনমত,unk,,,,,,' name="জনমত"  poslcat="NM">     	
-7	সমীক্ষা     	NN     	<fs af='সমীক্ষা,unk,,,,,,' poslcat="NM">     	
-8	হযেছে     	NN     	<fs af='হযেছে,unk,,,,,,' name="হযেছে"  poslcat="NM">     	
-9	70টি     	QC     	<fs af='70টি,unk,,,,,,' poslcat="NM">     	
-10	ওযার্ডের     	NNP     	<fs af='ওযার্ডের,unk,,,,,,' name="ওযার্ডের"  poslcat="NM">     	
-11	8     	QC     	<fs af='8,num,,,,,,'>     	
-12	হাজার     	QC     	<fs af='হাজার,adj,,,,,,'>     	
-13	532     	QC     	<fs af='532,num,,,,,,'>     	
-14	জন     	NN     	<fs af='জন,adj,,,,,,' name="জন"  poslcat="NM">     	
-15	ভোটারের     	NN     	<fs af='ভোটার,n,,sg,,o,এর,era'>     	
-16	সঙ্গে     	NST     	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">     	
-17	কথা     	NN     	<fs af='কথা,n,,sg,,d,0,0' name="কথা">     	
-18	বলে     	VM     	<fs af='বল্,v,,,3,,নে,ne' name="বলে">     	
-19	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	ভারতের     	NNP     	<fs af='ভারত,n,,sg,,o,এর,era' name="ভারতের">     	
-2	সাবেক     	NN     	<fs af='সাবেক,adj,,,,,,' name="সাবেক"  poslcat="NM">     	
-3	প্রধানমন্ত্রী     	NN     	<fs af='প্রধানমন্ত্রী,n,,sg,,d,0,0' name="প্রধানমন্ত্রী">     	
-4	কংগ্রেস     	XC     	<fs af='কংগ্রেস,n,,sg,,d,0,0' poslcat="NM">     	
-5	নেতা     	NN     	<fs af='নেতা,n,,sg,,d,0,0' name="নেতা">     	
-6	মনমোহন     	XC     	<fs af='মনমোহন,adj,,,,,,' poslcat="NM">     	
-7	সিংযের     	NN     	<fs af='সিংযের,unk,,,,,,' name="সিংযের"  poslcat="NM">     	
-8	সংহতি     	NN     	<fs af='সংহতি,unk,,,,,,' name="সংহতি"  poslcat="NM">     	
-9	জানাতে     	VM     	<fs af='জানা,v,,,2,,ত,wa' name="জানাতে">     	
-10	হেঁটে     	VM     	<fs af='হাঁট্,v,,,any,,ভে,Be' name="হেঁটে">     	
-11	তাঁর     	PRP     	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">     	
-12	বাসভবনে     	NNP     	<fs af='বাসভবনে,unk,,,,,,' name="বাসভবনে"  poslcat="NM">     	
-13	গেছেন     	VAUX     	<fs af='যা,v,,,2,,এছে,eCe' poslcat="NM">     	
-14	দলীয্     	NN     	<fs af='দলীয্,unk,,,,,,' name="দলীয্"  poslcat="NM">     	
-15	সভানেত্রী     	NN     	<fs af='সভানেত্রী,unk,,,,,,' name="সভানেত্রী"  poslcat="NM">     	
-16	সোনিযা     	NN     	<fs af='সোনিযা,unk,,,,,,' name="সোনিযা"  poslcat="NM">     	
-17	গান্ধী     	NNP     	<fs af='গান্ধী,unk,,,,,,' name="গান্ধী"  poslcat="NM">     	
-18	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	এ     	DEM     	<fs af='এ,pn,,sg,,d,0,0'>     	
-2	সময্     	NN     	<fs af='সময্,unk,,,,,,' name="সময্"  poslcat="NM">     	
-3	তাঁর     	PRP     	<fs af='তিনি,pn,,sg,,o,এর,era'>     	
-4	সঙ্গে     	NST     	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">     	
-5	ছিলেন     	VM     	<fs af='ছিল,v,,,2,,0,0' name="ছিলেন">     	
-6	দলের     	NN     	<fs af='দল,n,,sg,,o,এর,era' name="দলের">     	
-7	শতাধিক     	QF     	<fs af='শতাধিক,adj,,,,,,'>     	
-8	নেতা     	NN     	<fs af='নেতা,n,,sg,,d,0,0' name="নেতা">     	
-9	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	এনডিটিভি     	NN     	<fs af='এনডিটিভি,unk,,,,,,' name="এনডিটিভি"  poslcat="NM">     	
-2	অনলাইনের     	NN     	<fs af='অনলাইন,n,,sg,,o,এর,era' name="অনলাইনের">     	
-3	প্রতিবেদনে     	NN     	<fs af='প্রতিবেদন,n,,sg,,d,মে,me' name="প্রতিবেদনে">     	
-4	জানানো     	VM     	<fs af='জানা,v,,,any,,আ,A' name="জানানো">     	
-5	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-6	আলোচিত     	JJ     	<fs af='আলোচিত,adj,,,,,,'>     	
-7	কয্লা     	NN     	<fs af='কয্লা,unk,,,,,,' name="কয্লা"  poslcat="NM">     	
-8	কেলেঙ্কারি     	VM     	<fs af='কেলেঙ্কারি,unk,,,,,,' name="কেলেঙ্কারি"  poslcat="NM">     	
-9	মনমোহনকে     	NN     	<fs af='মনমোহনকে,unk,,,,,,' name="মনমোহনকে"  poslcat="NM">     	
-10	কেন্দ্রীয্     	NN     	<fs af='কেন্দ্রীয্,unk,,,,,,' name="কেন্দ্রীয্"  poslcat="NM">     	
-11	তদন্ত     	JJ     	<fs af='তদন্ত,n,,sg,,d,0,0' poslcat="NM">     	
-12	সংস্থার     	NN     	<fs af='সংস্থা,n,,sg,,o,এর,era' name="সংস্থার">     	
-13	     	SYM     	<fs af='(,punc,,,,,,'>     	
-14	সিবিআই     	NN     	<fs af='সিবিআই,unk,,,,,,' name="সিবিআই"  poslcat="NM">     	
-15	     	SYM     	<fs af='),punc,,,,,,'>     	
-16	বিশেষ     	JJ     	<fs af='বিশেষ,adj,,,,,,'>     	
-17	আদালতে     	NN     	<fs af='আদালত,n,,sg,,d,মে,me' name="আদালতে">     	
-18	তলবের     	NN     	<fs af='তলব,n,,sg,,o,এর,era' name="তলবের">     	
-19	একদিন     	NN     	<fs af='একদিন,n,,sg,,d,0,0'>     	
-20	পর     	NST     	<fs af='পর,adj,,,,,,' name="পর"  poslcat="NM">     	
-21	আজ     	NN     	<fs af='আজ,adv,,,,,,' name="আজ"  poslcat="NM">     	
-22	বৃহস্পতিবার     	NN     	<fs af='বৃহস্পতিবার,n,,sg,,d,0,0' name="বৃহস্পতিবার">     	
-23	সকালে     	NN     	<fs af='সকাল,n,,sg,,d,মে,me' name="সকালে">     	
-24	এই     	DEM     	<fs af='এই,pn,,sg,,d,0,0'>     	
-25	সংহতি     	NN     	<fs af='সংহতি,unk,,,,,,' name="সংহতি"  poslcat="NM">     	
-26	পদযাত্রা     	NN     	<fs af='পদযাত্রা,unk,,,,,,' name="পদযাত্রা"  poslcat="NM">     	
-27	করেন     	VM     	<fs af='কর্,v,,,2,,নে,ne' name="করেন">     	
-28	কংগ্রেসের     	NNP     	<fs af='কংগ্রেস,n,,sg,,o,এর,era' name="কংগ্রেসের">     	
-29	শীর্ষ     	NN     	<fs af='শীর্ষ,unk,,,,,,' name="শীর্ষ"  poslcat="NM">     	
-30	নেতারা     	NN     	<fs af='নেতা,n,,pl,,d,0,0' name="নেতারা">     	
-31	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	সিবিআইযের     	NN     	<fs af='সিবিআইযের,unk,,,,,,' name="সিবিআইযের"  poslcat="NM">     	
-2	বিশেষ     	JJ     	<fs af='বিশেষ,adj,,,,,,'>     	
-3	আদালত     	NN     	<fs af='আদালত,n,,sg,,d,0,0' name="আদালত">     	
-4	গতকাল     	NN     	<fs af='গতকাল,adj,,,,,,' name="গতকাল"  poslcat="NM">     	
-5	বুধবার     	NN     	<fs af='বুধবার,n,,sg,,d,0,0' name="বুধবার">     	
-6	মনমোহনকে     	NN     	<fs af='মনমোহনকে,unk,,,,,,' name="মনমোহনকে"  poslcat="NM">     	
-7	তলব     	NN     	<fs af='তলব,n,,sg,,d,0,0' name="তলব">     	
-8	করেন     	VM     	<fs af='কর্,v,,,2,,নে,ne' name="করেন">     	
-9	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	একটি     	QC     	<fs af='একটি,adj,,,,,,'>     	
-2	প্রতিষ্ঠানকে     	NN     	<fs af='প্রতিষ্ঠান,n,,sg,,d,কে,ke' name="প্রতিষ্ঠানকে">     	
-3	বিশেষ     	JJ     	<fs af='বিশেষ,adj,,,,,,'>     	
-4	সুবিধা     	NN     	<fs af='সুবিধা,n,,sg,,d,0,0' name="সুবিধা">     	
-5	পাইযে     	VM     	<fs af='পাইযে,unk,,,,,,' name="পাইযে"  poslcat="NM">     	
-6	দেওযায্     	NN     	<fs af='দেওযায্,unk,,,,,,' name="দেওযায্"  poslcat="NM">     	
-7	অভিযুক্ত     	JJ     	<fs af='অভিযুক্ত,adj,,,,,,' name="অভিযুক্ত">     	
-8	হিসেবে     	PSP     	<fs af='হিসেবে,psp,,,,,,'>     	
-9	তাঁকে     	PRP     	<fs af='তিনি,pn,,sg,,d,কে,ke' name="তাঁকে">     	
-10	8     	QC     	<fs af='8,num,,,,,,'>     	
-11	এপ্রিলের     	NN     	<fs af='এপ্রিল,n,,sg,,o,এর,era'>     	
-12	মধ্যে     	NST     	<fs af='মধ্যে,psp,,,,,,' name="মধ্যে"  poslcat="NM">     	
-13	আদালতে     	NN     	<fs af='আদালত,n,,sg,,d,মে,me' name="আদালতে">     	
-14	হাজির     	NN     	<fs af='হাজির,adj,,,,,,' name="হাজির"  poslcat="NM">     	
-15	হওযার     	VM     	<fs af='হওযার,unk,,,,,,' name="হওযার"  poslcat="NM">     	
-16	নির্দেশ     	NN     	<fs af='নির্দেশ,n,,sg,,d,0,0' name="নির্দেশ">     	
-17	দেওযা     	VM     	<fs af='দেওযা,unk,,,,,,' name="দেওযা"  poslcat="NM">     	
-18	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	তাঁর     	PRP     	<fs af='তিনি,pn,,sg,,o,এর,era'>     	
-2	সঙ্গে     	NST     	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">     	
-3	আরও     	QF     	<fs af='আরও,adj,,,,,,' name="আরও">     	
-4	ডাকা     	VM     	<fs af='ডাকা,v,,,2,,ক,ka' name="ডাকা">     	
-5	শিল্পপতি     	NN     	<fs af='শিল্পপতি,unk,,,,,,' name="শিল্পপতি"  poslcat="NM">     	
-6	কুমার     	XC     	<fs af='কুমার,n,,sg,,d,0,0' poslcat="NM">     	
-7	মঙ্গলম     	NN     	<fs af='মঙ্গলম,unk,,,,,,' name="মঙ্গলম"  poslcat="NM">     	
-8	বিড্লা     	NN     	<fs af='বিড্লা,unk,,,,,,' name="বিড্লা"  poslcat="NM">     	
-9	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-10	সাবেক     	NN     	<fs af='সাবেক,adj,,,,,,' name="সাবেক"  poslcat="NM">     	
-11	কয্লাসচিব     	NN     	<fs af='কয্লাসচিব,unk,,,,,,' name="কয্লাসচিব"  poslcat="NM">     	
-12	পিসি     	NN     	<fs af='পিসি,n,,sg,,d,0,0' name="পিসি">     	
-13	পারেখ     	VM     	<fs af='পারেখ,unk,,,,,,' name="পারেখ"  poslcat="NM">     	
-14	ও     	CC     	<fs af='ও,avy,,,,,,' name="ও">     	
-15	হিন্ডালকোর     	NN     	<fs af='হিন্ডালকোর,unk,,,,,,' name="হিন্ডালকোর"  poslcat="NM">     	
-16	তিন     	QC     	<fs af='তিন,adj,,,,,,'>     	
-17	শীর্ষ     	NN     	<fs af='শীর্ষ,unk,,,,,,' name="শীর্ষ"  poslcat="NM">     	
-18	কর্মকর্তাকে     	NN     	<fs af='কর্মকর্তাকে,unk,,,,,,' name="কর্মকর্তাকে"  poslcat="NM">     	
-19	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	সাবেক     	NN     	<fs af='সাবেক,adj,,,,,,' name="সাবেক"  poslcat="NM">     	
-2	প্রধানমন্ত্রীর     	NN     	<fs af='প্রধানমন্ত্রী,n,,sg,,o,এর,era' name="প্রধানমন্ত্রীর">     	
-3	সংহতি     	NN     	<fs af='সংহতি,unk,,,,,,' name="সংহতি"  poslcat="NM">     	
-4	জানানোর     	VM     	<fs af='জানা,n,,,any,,র,ra' name="জানানোর"  poslcat="NM">     	
-5	উদ্দেশে     	NN     	<fs af='উদ্দেশ,n,,sg,,d,মে,me' name="উদ্দেশে">     	
-6	আজ     	NN     	<fs af='আজ,adv,,,,,,' name="আজ"  poslcat="NM">     	
-7	সকালে     	NN     	<fs af='সকাল,n,,sg,,d,মে,me' name="সকালে">     	
-8	রাজধানীতে     	NN     	<fs af='রাজধানী,n,,sg,,d,মে,me' name="রাজধানীতে">     	
-9	দলের     	NN     	<fs af='দল,n,,sg,,o,এর,era' name="দলের_2">     	
-10	কেন্দ্রীয্     	NN     	<fs af='কেন্দ্রীয্,unk,,,,,,' name="কেন্দ্রীয্"  poslcat="NM">     	
-11	কার্যালযে     	NN     	<fs af='কার্যালযে,unk,,,,,,' name="কার্যালযে"  poslcat="NM">     	
-12	জডো     	JJ     	<fs af='জডো,unk,,,,,,' name="জডো"  poslcat="NM">     	
-13	হন     	VM     	<fs af='হ,v,,,3,,ক,ka' name="হন">     	
-14	দলের     	NN     	<fs af='দল,n,,sg,,o,এর,era' name="দলের">     	
-15	শতাধিক     	QF     	<fs af='শতাধিক,adj,,,,,,'>     	
-16	শীর্ষস্থানীয্     	JJ     	<fs af='শীর্ষস্থানীয্,unk,,,,,,' poslcat="NM">     	
-17	নেতা     	NN     	<fs af='নেতা,n,,sg,,d,0,0' name="নেতা">     	
-18	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	পরে     	NST     	<fs af='পরে,adj,,,,,,' name="পরে"  poslcat="NM">     	
-2	সেখান     	PRP     	<fs af='এখান,pn,,,,d,মে,me' name="সেখান">     	
-3	তাঁরা     	PRP     	<fs af='তিনি,pn,,pl,,d,0,0' name="তাঁরা">     	
-4	সোনিযা     	NN     	<fs af='সোনিযা,unk,,,,,,' name="সোনিযা"  poslcat="NM">     	
-5	গান্ধীর     	NNP     	<fs af='গান্ধীর,unk,,,,,,' name="গান্ধীর"  poslcat="NM">     	
-6	নেতৃত্বে     	NN     	<fs af='নেতৃত্ব,n,,sg,,d,মে,me' name="নেতৃত্বে">     	
-7	মনমোহন     	XC     	<fs af='মনমোহন,adj,,,,,,' poslcat="NM">     	
-8	সিংযের     	NN     	<fs af='সিংযের,unk,,,,,,' name="সিংযের"  poslcat="NM">     	
-9	বাডির     	NN     	<fs af='বাডির,unk,,,,,,' name="বাডির"  poslcat="NM">     	
-10	পদযাত্রা     	NN     	<fs af='পদযাত্রা,unk,,,,,,' name="পদযাত্রা"  poslcat="NM">     	
-11	করেন     	VM     	<fs af='কর্,v,,,2,,নে,ne' name="করেন">     	
-12	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	প্রায্     	NN     	<fs af='প্রায্,unk,,,,,,' poslcat="NM">     	
-2	আধা     	NN     	<fs af='আধা,n,,sg,,d,0,0' name="আধা">     	
-3	কিলোমিটার     	NN     	<fs af='কিলোমিটার,n,,sg,,d,0,0' name="কিলোমিটার">     	
-4	পথ     	NN     	<fs af='পথ,n,,sg,,d,0,0' name="পথ">     	
-5	হেঁটে     	VM     	<fs af='হাঁট্,v,,,any,,ভে,Be' name="হেঁটে">     	
-6	তাঁরা     	PRP     	<fs af='তিনি,pn,,pl,,d,0,0' name="তাঁরা">     	
-7	গন্তব্যে     	NN     	<fs af='গন্তব্য,n,,sg,,d,মে,me' name="গন্তব্যে">     	
-8	পৌঁছান     	NN     	<fs af='পৌঁছান,n,,sg,,d,0,0' name="পৌঁছান">     	
-9	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	মনমোহন     	XC     	<fs af='মনমোহন,adj,,,,,,' name="মনমোহন"  poslcat="NM">     	
-2	ও     	CC     	<fs af='ও,avy,,,,,,' name="ও">     	
-3	তাঁর     	PRP     	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">     	
-4	স্ত্রী     	NN     	<fs af='স্ত্রী,n,,sg,,d,0,0' name="স্ত্রী">     	
-5	হাসিমুখে     	RB     	<fs af='হাসিমুখে,adv,,,,,,' name="হাসিমুখে">     	
-6	কংগ্রেসের     	NNP     	<fs af='কংগ্রেস,n,,sg,,o,এর,era' name="কংগ্রেসের">     	
-7	নেতাদের     	NN     	<fs af='নেতা,n,,pl,,o,এর,era' name="নেতাদের">     	
-8	অভিবাদন     	NN     	<fs af='অভিবাদন,n,,sg,,d,0,0' name="অভিবাদন">     	
-9	জানান     	VM     	<fs af='জানা,v,,,3,,ক,ka' name="জানান">     	
-10	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-
-1	তাঁর     	PRP     	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">     	
-2	আমাদের     	PRP     	<fs af='আমি,pn,,pl,,o,এর,era' name="আমাদের">     	
-3	অকুণ্ঠ     	JJ     	<fs af='অকুণ্ঠ,adj,,,,,,'>     	
-4	সমর্থন     	NN     	<fs af='সমর্থন,n,,sg,,d,0,0' name="সমর্থন">     	
-5	ও     	CC     	<fs af='ও,avy,,,,,,' name="ও">     	
-6	সংহতি     	NN     	<fs af='সংহতি,unk,,,,,,' name="সংহতি"  poslcat="NM">     	
-7	জানাতে     	VM     	<fs af='জানা,v,,,2,,ত,wa' name="জানাতে">     	
-8	আমরা     	PRP     	<fs af='আমি,pn,,pl,,d,0,0' name="আমরা">     	
-9	এখানে     	PRP     	<fs af='এখানে,unk,,,,,,' poslcat="NM">     	
-10	এসেছি     	VAUX     	<fs af='আস্,v,,,1,,এছে,eCe' poslcat="NM">     	
-11	.     	SYM     	<fs af='.,punc,,,,,,' name=".">     	
-
-1	কংগ্রেস     	XC     	<fs af='কংগ্রেস,n,,sg,,d,0,0' poslcat="NM">     	
-2	দল     	NN     	<fs af='দল,n,,sg,,d,0,0' name="দল">     	
-3	তাঁর     	PRP     	<fs af='তিনি,pn,,sg,,o,এর,era'>     	
-4	পেছনে     	NST     	<fs af='পেছন,n,,sg,,d,মে,me' name="পেছনে"  poslcat="NM">     	
-5	পুরোপুরিভাবে     	NN     	<fs af='পুরোপুরি,adv,,,,,,' name="পুরোপুরিভাবে"  poslcat="NM">     	
-6	আছে     	VM     	<fs af='আছ,v,,,3,,নে,ne' name="আছে">     	
-7	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	শুধু     	RB     	<fs af='শুধু,adv,,,,,,' name="শুধু">     	
-2	আইন     	NNP     	<fs af='আইন,n,,sg,,d,0,0' name="আইন">     	
-3	নয্     	VM     	<fs af='নয্,unk,,,,,,' name="নয্"  poslcat="NM">     	
-4	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-5	অন্য     	JJ     	<fs af='অন্য,adj,,,,,,'>     	
-6	সব     	QF     	<fs af='সব,adj,,,,,,'>     	
-7	উপাযে     	NN     	<fs af='উপাযে,unk,,,,,,' name="উপাযে"  poslcat="NM">     	
-8	আমরা     	PRP     	<fs af='আমি,pn,,pl,,d,0,0' name="আমরা">     	
-9	এ     	DEM     	<fs af='এ,pn,,sg,,d,0,0'>     	
-10	ব্যাপারে     	NN     	<fs af='ব্যাপার,n,,sg,,d,মে,me' name="ব্যাপারে">     	
-11	লড্ব     	NN     	<fs af='লড্ব,unk,,,,,,' name="লড্ব"  poslcat="NM">     	
-12	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-13	ৈ     	RB     	<fs af='.,punc,,,,,,' name="ৈ"  poslcat="NM">     	
-14	মনমোহন     	XC     	<fs af='মনমোহন,adj,,,,,,' poslcat="NM">     	
-15	সিং     	NNP     	<fs af='সিং,unk,,,,,,' name="সিং"  poslcat="NM">     	
-16	নির্দোষ     	NN     	<fs af='নির্দোষ,adj,,,,,,' name="নির্দোষ"  poslcat="NM">     	
-17	প্রমাণিত     	JJ     	<fs af='প্রমাণিত,adj,,,,,,' name="প্রমাণিত">     	
-18	হবেন     	VM     	<fs af='হ,v,,,2,,বে,be' name="হবেন">     	
-19	বলেও     	UT     	<fs af='বল্,v,,,3,,সও,sao' name="বলেও"  poslcat="NM">     	
-20	দৃঢ্তার     	NN     	<fs af='দৃঢ্তার,unk,,,,,,' poslcat="NM">     	
-21	সঙ্গে     	NST     	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">     	
-22	উল্লেখ     	NN     	<fs af='উল্লেখ,n,,sg,,d,0,0' name="উল্লেখ">     	
-23	করেন     	VM     	<fs af='কর্,v,,,2,,নে,ne' name="করেন">     	
-24	সোনিযা     	NN     	<fs af='সোনিযা,unk,,,,,,' name="সোনিযা"  poslcat="NM">     	
-25	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	পরে     	NST     	<fs af='পরে,adj,,,,,,' name="পরে"  poslcat="NM">     	
-2	এনডিটিভিকে     	NN     	<fs af='এনডিটিভিকে,unk,,,,,,' name="এনডিটিভিকে"  poslcat="NM">     	
-3	মনমোহন     	XC     	<fs af='মনমোহন,adj,,,,,,' poslcat="NM">     	
-4	সিং     	NNP     	<fs af='সিং,unk,,,,,,' name="সিং"  poslcat="NM">     	
-5	বলেন     	VM     	<fs af='বল্,v,,,2,,নে,ne' name="বলেন">     	
-6	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-7	দলের     	NN     	<fs af='দল,n,,sg,,o,এর,era' name="দলের">     	
-8	শীর্ষ     	NN     	<fs af='শীর্ষ,unk,,,,,,' name="শীর্ষ"  poslcat="NM">     	
-9	নেতারা     	NN     	<fs af='নেতা,n,,pl,,d,0,0' name="নেতারা">     	
-10	তাঁর     	PRP     	<fs af='তিনি,pn,,sg,,o,এর,era'>     	
-11	সঙ্গে     	NST     	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">     	
-12	দেখা     	VM     	<fs af='দেখা,v,,,2,,ক,ka' name="দেখা">     	
-13	করতে     	VM     	<fs af='কর্,v,,,2,,ত,wa'>     	
-14	তিনি     	PRP     	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">     	
-15	কৃতজ্ঞ     	JJ     	<fs af='কৃতজ্ঞ,adj,,,,,,' name="কৃতজ্ঞ">     	
-16	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	তিনি     	PRP     	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">     	
-2	অনেক     	QF     	<fs af='অনেক,adj,,,,,,'>     	
-3	খুশি     	JJ     	<fs af='খুশি,adj,,,,,,' name="খুশি">     	
-4	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-
-1	ওডিশার     	NNP     	<fs af='ওডিশার,unk,,,,,,' poslcat="NM">     	
-2	তালাবিডা     	NNP     	<fs af='তালাবিডা,unk,,,,,,' name="তালাবিডা"  poslcat="NM">     	
-3	-     	SYM     	<fs af='-,punc,,,,,,'>     	
-4	2     	QC     	<fs af='2,num,,,,,,'>     	
-5	কয্লা     	NN     	<fs af='কয্লা,unk,,,,,,' name="কয্লা"  poslcat="NM">     	
-6	ব্লক     	NNP     	<fs af='ব্লক,n,,sg,,d,0,0'>     	
-7	আদিত্য     	NNP     	<fs af='আদিত্য,n,,sg,,d,0,0' name="আদিত্য">     	
-8	বিড্লা     	NN     	<fs af='বিড্লা,unk,,,,,,' name="বিড্লা"  poslcat="NM">     	
-9	গোষ্ঠীর     	NN     	<fs af='গোষ্ঠী,n,,sg,,o,এর,era' name="গোষ্ঠীর">     	
-10	প্রতিষ্ঠান     	NN     	<fs af='প্রতিষ্ঠান,n,,sg,,d,0,0' name="প্রতিষ্ঠান">     	
-11	হিন্ডালকোকে     	NN     	<fs af='হিন্ডালকোকে,unk,,,,,,' name="হিন্ডালকোকে"  poslcat="NM">     	
-12	দেওযা     	VM     	<fs af='দেওযা,unk,,,,,,' name="দেওযা"  poslcat="NM">     	
-13	2005     	QC     	<fs af='2005,num,,,,,,'>     	
-14	সালে     	NNP     	<fs af='সাল,n,,sg,,d,মে,me' name="সালে">     	
-15	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	অভিযোগ     	NN     	<fs af='অভিযোগ,n,,sg,,d,0,0' name="অভিযোগ">     	
-2	,     	SYM     	<fs af=',,punc,,,,,' poslcat="NM">     	
-3	এই     	DEM     	<fs af='এই,pn,,sg,,d,0,0'>     	
-4	কাজটি     	NN     	<fs af='কাজ,n,,sg,,d,0,0' name="কাজটি">     	
-5	অনিয্মের     	NN     	<fs af='অনিয্মের,unk,,,,,,' name="অনিয্মের"  poslcat="NM">     	
-6	করা     	VM     	<fs af='করা,v,,,2,,ক,ka' name="করা">     	
-7	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	তখন     	PRP     	<fs af='তখন,pn,,,,d,0,0' name="তখন">     	
-2	কয্লা     	NN     	<fs af='কয্লা,unk,,,,,,' name="কয্লা"  poslcat="NM">     	
-3	মন্ত্রণালযের     	NN     	<fs af='মন্ত্রণালযের,unk,,,,,,' name="মন্ত্রণালযের"  poslcat="NM">     	
-4	দাযিত্ব     	NN     	<fs af='দাযিত্ব,unk,,,,,,' name="দাযিত্ব"  poslcat="NM">     	
-5	ছিল     	VM     	<fs af='ছিল,v,,,3,,0,0' name="ছিল">     	
-6	মনমোহন     	XC     	<fs af='মনমোহন,adj,,,,,,' poslcat="NM">     	
-7	সিংযের     	NN     	<fs af='সিংযের,unk,,,,,,' name="সিংযের"  poslcat="NM">     	
-8	নিজের     	PRP     	<fs af='নিজ,pn,,pl,,o,এর,era' name="নিজের">     	
-9	হাতে     	NN     	<fs af='হাত,n,,sg,,d,মে,me' name="হাতে">     	
-10	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	টেন্ডার     	NN     	<fs af='টেন্ডার,unk,,,,,,' name="টেন্ডার"  poslcat="NM">     	
-2	খনি     	PRP     	<fs af='খনি,unk,,,,,,' name="খনি"  poslcat="NM">     	
-3	বরাদ্দে     	NN     	<fs af='বরাদ্দে,unk,,,,,,' name="বরাদ্দে"  poslcat="NM">     	
-4	সরকারের     	NN     	<fs af='সরকার,n,,sg,,o,এর,era' name="সরকারের">     	
-5	প্রভূত     	JJ     	<fs af='প্রভূত,adj,,,,,,'>     	
-6	আর্থিক     	JJ     	<fs af='আর্থিক,adj,,,,,,'>     	
-7	ক্ষতি     	NN     	<fs af='ক্ষতি,n,,sg,,d,0,0' name="ক্ষতি">     	
-8	হয্     	VM     	<fs af='হয্,unk,,,,,,' name="হয্"  poslcat="NM">     	
-9	বলে     	VM     	<fs af='বল্,v,,,3,,নে,ne' name="বলে">     	
-10	মহাহিসাব     	NN     	<fs af='মহাহিসাব,unk,,,,,,' name="মহাহিসাব"  poslcat="NM">     	
-11	নিরীক্ষকের     	VM     	<fs af='নিরীক্ষক,n,,sg,,o,এর,era' name="নিরীক্ষকের"  poslcat="NM">     	
-12	কার্যালয্     	XC     	<fs af='কার্যালয্,unk,,,,,,' name="কার্যালয্"  poslcat="NM">     	
-13	     	SYM     	<fs af='(,punc,,,,,,'>     	
-14	সিএজি     	NN     	<fs af='সিএজি,unk,,,,,,' name="সিএজি"  poslcat="NM">     	
-15	     	SYM     	<fs af='),punc,,,,,,'>     	
-16	প্রতিবেদন     	NN     	<fs af='প্রতিবেদন,n,,sg,,d,0,0' name="প্রতিবেদন">     	
-17	দেয্     	VM     	<fs af='দেয্,unk,,,,,,' name="দেয্"  poslcat="NM">     	
-18	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	বিষয্টি     	NN     	<fs af='বিষয্টি,unk,,,,,,' name="বিষয্টি"  poslcat="NM">     	
-2	বিচারাধীন     	JJ     	<fs af='বিচারাধীন,adj,,,,,,'>     	
-3	হযে     	NN     	<fs af='হযে,unk,,,,,,' name="হযে"  poslcat="NM">     	
-4	যাওযায্     	NN     	<fs af='যাওযায্,unk,,,,,,' name="যাওযায্"  poslcat="NM">     	
-5	শেষ     	NN     	<fs af='শেষ,adj,,,,,,' name="শেষ"  poslcat="NM">     	
-6	সুপ্রিম     	JJ     	<fs af='সুপ্রিম,unk,,,,,,' poslcat="NM">     	
-7	কোর্ট     	NN     	<fs af='কোর্ট,unk,,,,,,' name="কোর্ট"  poslcat="NM">     	
-8	সমস্ত     	QF     	<fs af='সমস্ত,adj,,,,,,'>     	
-9	বণ্টন     	NN     	<fs af='বণ্টন,unk,,,,,,' name="বণ্টন"  poslcat="NM">     	
-10	বাতিল     	NN     	<fs af='বাতিল,adj,,,,,,' name="বাতিল"  poslcat="NM">     	
-11	করে     	VM     	<fs af='কর্,v,,,3,,নে,ne' name="করে">     	
-12	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	ভারতের     	NNP     	<fs af='ভারত,n,,sg,,o,এর,era' name="ভারতের">     	
-2	আইনপ্রণেতারা     	NN     	<fs af='আইনপ্রণেতারা,unk,,,,,,' name="আইনপ্রণেতারা"  poslcat="NM">     	
-3	গতকাল     	NN     	<fs af='গতকাল,adj,,,,,,' name="গতকাল"  poslcat="NM">     	
-4	বৃহস্পতিবার     	NN     	<fs af='বৃহস্পতিবার,n,,sg,,d,0,0' name="বৃহস্পতিবার">     	
-5	দেশটির     	NN     	<fs af='দেশ,n,,sg,,o,এর,era' name="দেশটির">     	
-6	বিমা     	NN     	<fs af='বিমা,n,,sg,,d,0,0' name="বিমা">     	
-7	খাতে     	NN     	<fs af='খাতে,unk,,,,,,' name="খাতে"  poslcat="NM">     	
-8	বিদেশি     	NN     	<fs af='বিদেশি,adj,,,,,,' name="বিদেশি"  poslcat="NM">     	
-9	বিনিযোগের     	NN     	<fs af='বিনিযোগের,unk,,,,,,' name="বিনিযোগের"  poslcat="NM">     	
-10	পথ     	NN     	<fs af='পথ,n,,sg,,d,0,0' name="পথ">     	
-11	উন্মুক্ত     	JJ     	<fs af='উন্মুক্ত,adj,,,,,,' name="উন্মুক্ত">     	
-12	করে     	VM     	<fs af='কর্,v,,,3,,নে,ne' name="করে">     	
-13	বহুল     	INTF     	<fs af='বহুল,adj,,,,,,' poslcat="NM">     	
-14	প্রত্যাশিত     	JJ     	<fs af='প্রত্যাশিত,adj,,,,,,'>     	
-15	আইনটি     	NN     	<fs af='আইন,n,,sg,,d,0,0' name="আইনটি">     	
-16	পাস     	NN     	<fs af='পাস,n,,sg,,d,0,0' name="পাস">     	
-17	করেছেন     	VM     	<fs af='কর্,v,,,2,,এছে,eCe' name="করেছেন">     	
-18	.     	SYM     	<fs af='.,punc,,,,,,'>     	
-
-1	ব্যবসাবান্ধব     	NN     	<fs af='ব্যবসাবান্ধব,unk,,,,,,' name="ব্যবসাবান্ধব"  poslcat="NM">     	
-2	পরিচিত     	JJ     	<fs af='পরিচিত,adj,,,,,,'>     	
-3	প্রধানমন্ত্রী     	NN     	<fs af='প্রধানমন্ত্রী,n,,sg,,d,0,0' name="প্রধানমন্ত্রী">     	
-4	নরেন্দ্র     	NNP     	<fs af='নরেন্দ্র,unk,,,,,,' name="নরেন্দ্র"  poslcat="NM">     	
-5	মোদি     	NN     	<fs af='মোদি,unk,,,,,,' poslcat="NM">     	
-6	সরকারের     	NN     	<fs af='সরকার,n,,sg,,o,এর,era' name="সরকারের">     	
-7	প্রথম     	QO     	<fs af='প্রথম,adj,,,,,,'>     	
-8	বড্     	JJ     	<fs af='বড্,unk,,,,,,' poslcat="NM">     	
-9	ধরনের     	NN     	<fs af='ধরন,n,,sg,,o,এর,era' name="ধরনের">     	
-10	অর্থনৈতিক     	JJ     	<fs af='অর্থনৈতিক,adj,,,,,,'>     	
-11	সংস্কার     	NN     	<fs af='সংস্কার,unk,,,,,,' name="সংস্কার"  poslcat="NM">     	
-12	দেখা     	VM     	<fs af='দেখা,v,,,2,,ক,ka' name="দেখা">     	
-13	হচ্ছে     	VM     	<fs af='হ,v,,,3,,ছে,Ce' name="হচ্ছে">     	
-14	একে     	PRP     	<fs af='এ,pn,,sg,,d,কে,ke'>     	
-15	.     	SYM     	<fs af='.,punc,,,,,,' name=".">     	
-
-1	ভারতীয্     	NN     	<fs af='ভারতীয্,unk,,,,,,' name="ভারতীয্"  poslcat="NM">     	
-2	পার্লামেন্টের     	VM     	<fs af='পার্লামেন্ট,n,,sg,,o,এর,era' name="পার্লামেন্টের"  poslcat="NM">     	
-3	উচ্চকক্ষ     	JJ     	<fs af='উচ্চকক্ষ,unk,,,,,,' poslcat="NM">     	
-4	গতকাল     	NN     	<fs af='গতকাল,adj,,,,,,' name="গতকাল"  poslcat="NM">     	
-5	বিলটি     	NN     	<fs af='বিল,n,,sg,,d,0,0' name="বিলটি">     	
-6	অনুমোদন     	NN     	<fs af='অনুমোদন,n,,sg,,d,0,0' name="অনুমোদন">     	
-7	করে     	VM     	<fs af='কর্,v,,,3,,নে,ne' name="করে">     	
-8	.     	SYM     	<fs af='.,punc,,,,,,'>     	
+1	প্রতিদিন	RB	<fs af='প্রতিদিন,adv,,,,,,' name="প্রতিদিন">	advmod	6
+2	পুরোনো	JJ	<fs af='পুরোনো,adj,,,,,,'>	nmod	3
+3	সাইকেল	NN	<fs af='সাইকেল,unk,,,,,,' name="সাইকেল"  poslcat="NM">	obj	4
+4	নিযে	VM	<fs af='নিযে,unk,,,,,,' name="নিযে"  poslcat="NM">	mark	6
+5	বের	NN	<fs af='বের,n,,sg,,d,0,0' name="বের">	compound	6
+6	হন	VM	<fs af='হ,v,,,3,,ক,ka' name="হন">	root	0
+7	আদিত্য	NNP	<fs af='আদিত্য,n,,sg,,d,0,0' name="আদিত্য">	nsubj	6
+8	কুমার	XC	<fs af='কুমার,n,,sg,,d,0,0' poslcat="NM">		flat	7
+9	.	SYM	<fs af='.,punc,,,,,,'>	punct	6
+
+1	সাইকেলের	NNP	<fs af='সাইকেলের,unk,,,,,,' poslcat="NM">	nsubj	3
+2	পেছনে	NST	<fs af='পেছন,n,,sg,,d,মে,me' name="পেছনে"  poslcat="NM">	case	1
+3	থাকে	VM	<fs af='থাক্,v,,,3,,নে,ne' name="থাকে">	root	0
+4	অনেক	QF	<fs af='অনেক,adj,,,,,,'>	nummod	6
+5	বই	NN	<fs af='বই,n,,sg,,d,0,0' name="বই">	obj	3
+6	.	SYM	<fs af='.,punc,,,,,,'>	punct	3
+
+1	সেগুলো	PRP	<fs af='সেগুলো,unk,,,,,,' name="সেগুলো"  poslcat="NM">	obj	2
+2	নিযে	VM	<fs af='নিযে,unk,,,,,,' name="নিযে"  poslcat="NM">	mark	4
+3	প্রতিদিন	NN	<fs af='প্রতিদিন,adv,,,,,,' name="প্রতিদিন"  poslcat="NM">	amod	4
+4	চষে	VM	<fs af='চষ্,v,,,3,,নে,ne' name="চষে">	root	0
+5	প্রায্	NN	<fs af='প্রায্,unk,,,,,,' name="প্রায্"  poslcat="NM">	amod	6
+6	40	QC	<fs af='40,num,,,,,,'>	nummod	7
+7	মাইল	NN	<fs af='মাইল,n,,sg,,d,0,0' name="মাইল">	obj	4
+8	.	SYM	<fs af='.,punc,,,,,,'>	punct	4
+
+1	আর	CC	<fs af='আর,avy,,,,,,' name="আর">	cc	4
+2	এর	PRP	<fs af='এ,pn,,sg,,o,এর,era' name="এর">	comp	3
+3	সবকিছুই	NN	<fs af='সবকিছু,pn,,sg,,d,0,0' name="সবকিছুই"  poslcat="NM">	obj	5
+4	তিনি	PRP	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">	nsubj	5
+5	করেন	VM	<fs af='কর্,v,,,2,,নে,ne' name="করেন">	root	0
+6	বিনা	JJ	<fs af='বিনা,adj,,,,,,'>	comp	7
+7	পয্সায্	VAUX	<fs af='পয্সায্,unk,,,,,,' poslcat="NM">	iobj	5
+8	,	SYM	<fs af=',,punc,,,,,' name=","  poslcat="NM">	punct	5
+9	ভারতের	NNP	<fs af='ভারত,n,,sg,,o,এর,era' name="ভারতের">	amod	11
+10	বস্তির	NN	<fs af='বস্তির,unk,,,,,,' name="বস্তির"  poslcat="NM">	amod	11
+11	শিশুদের	NN	<fs af='শিশু,n,,pl,,o,এর,era'>	nsubj	16
+12	মধ্যে	NST	<fs af='মধ্যে,psp,,,,,,' name="মধ্যে"  poslcat="NM">	case	11
+13	শিক্ষার	NN	<fs af='শিক্ষা,n,,sg,,o,এর,era' name="শিক্ষার">	comp	14
+14	আলো	NN	<fs af='আলো,n,,sg,,d,0,0' name="আলো">	obj	16
+15	ছডিযে	VM	<fs af='ছডিযে,unk,,,,,,' name="ছডিযে"  poslcat="NM">	comp	16
+16	দিতে	VM	<fs af='দে,v,,,2,,ত,wa' name="দিতে">	ccomp	5
+17	.	SYM	<fs af='.,punc,,,,,,'>	punct	5
+
+1	এভাবে	RB	<fs af='এ,adv,,,,,,' name="এভাবে">	
+2	প্রতিদিন	RB	<fs af='প্রতিদিন,adv,,,,,,' name="প্রতিদিন">	
+3	সাইকেলে	NN	<fs af='সাইকেলে,unk,,,,,,' name="সাইকেলে"  poslcat="NM">	
+4	করে	VM	<fs af='কর্,v,,,3,,নে,ne' name="করে">	
+5	আদিত্যের	NNP	<fs af='আদিত্য,n,,sg,,o,এর,era' name="আদিত্যের">	
+6	পাঠশালা	XC	<fs af='পাঠশালা,n,,sg,,d,0,0' poslcat="NM">	
+7	যায্	VAUX	<fs af='যায্,unk,,,,,,' poslcat="NM">	
+8	বস্তির	NN	<fs af='বস্তির,unk,,,,,,' name="বস্তির"  poslcat="NM">	
+9	সুবিধাবঞ্চিত	JJ	<fs af='সুবিধাবঞ্চিত,unk,,,,,,' poslcat="NM">	
+10	শিশুদের	NN	<fs af='শিশু,n,,pl,,o,এর,era' name="শিশুদের">	
+11	শিক্ষা	NN	<fs af='শিক্ষা,n,,sg,,d,0,0' name="শিক্ষা">	
+12	দিতে	VM	<fs af='দে,v,,,2,,ত,wa' name="দিতে">	
+13	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	শিশুদের	NN	<fs af='শিশু,n,,pl,,o,এর,era' name="শিশুদের">	
+2	বিজ্ঞানে	NN	<fs af='বিজ্ঞানে,unk,,,,,,' name="বিজ্ঞানে"  poslcat="NM">	
+3	স্নাতক	JJ	<fs af='স্নাতক,adj,,,,,,' name="স্নাতক">	
+4	এই	DEM	<fs af='এই,pn,,sg,,d,0,0'>	
+5	ব্যক্তির	NN	<fs af='ব্যক্তি,n,,sg,,o,এর,era' name="ব্যক্তির">	
+6	উদ্যোগের	NN	<fs af='উদ্যোগ,n,,sg,,o,এর,era' name="উদ্যোগের">	
+7	গল্প	NN	<fs af='গল্প,unk,,,,,,' name="গল্প"  poslcat="NM">	
+8	উঠে	VM	<fs af='উঠ্,v,,,3,,নে,ne' name="উঠে">	
+9	এএফপির	NN	<fs af='এএফপির,unk,,,,,,' name="এএফপির"  poslcat="NM">	
+10	এক	QC	<fs af='এক,adj,,,,,,'>	
+11	প্রতিবেদনে	NN	<fs af='প্রতিবেদন,n,,sg,,d,মে,me' name="প্রতিবেদনে">	
+12	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	আদিত্য	NNP	<fs af='আদিত্য,n,,sg,,d,0,0' name="আদিত্য">	
+2	তাঁর	PRP	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">	
+3	কাজের	NN	<fs af='কাজ,n,,sg,,o,এর,era' name="কাজের">	
+4	জায্গা	NN	<fs af='জায্গা,unk,,,,,,' name="জায্গা"  poslcat="NM">	
+5	বেছে	VM	<fs af='বাছ্,v,,,any,,ভে,Be' name="বেছে">	
+6	নিযেছেন	NN	<fs af='নিযেছেন,unk,,,,,,' name="নিযেছেন"  poslcat="NM">	
+7	ভারতের	NNP	<fs af='ভারত,n,,sg,,o,এর,era' name="ভারতের">	
+8	উত্তরাঞ্চল	XC	<fs af='উত্তরাঞ্চল,n,,sg,,d,0,0' poslcat="NM">	
+9	লক্ষ্ণৌযের	NN	<fs af='লক্ষ্ণৌযের,unk,,,,,,' name="লক্ষ্ণৌযের"  poslcat="NM">	
+10	বস্তিগুলোকে	NN	<fs af='বস্তিগুলোকে,unk,,,,,,' name="বস্তিগুলোকে"  poslcat="NM">	
+11	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+12	যেখানে	PRP	<fs af='যেখানে,pn,,,,d,মে,me' name="যেখানে">	
+13	অধিকার	NN	<fs af='অধিকার,n,,sg,,d,0,0' name="অধিকার">	
+14	ও	CC	<fs af='ও,avy,,,,,,' name="ও">	
+15	সুবিধাবঞ্চিত	JJ	<fs af='সুবিধাবঞ্চিত,unk,,,,,,' poslcat="NM">	
+16	বহু	QF	<fs af='বহু,adj,,,,,,'>	
+17	মানুষের	NN	<fs af='মানুষ,n,,sg,,o,এর,era' name="মানুষের">	
+18	বাস	NN	<fs af='বাস,n,,sg,,d,0,0' name="বাস">	
+19	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	বস্তির	NN	<fs af='বস্তির,unk,,,,,,' name="বস্তির"  poslcat="NM">	
+2	শিশুদের	NN	<fs af='শিশু,n,,pl,,o,এর,era' name="শিশুদের">	
+3	তিনি	PRP	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">	
+4	কোনো	QF	<fs af='কোনো,adj,,,,,,'>	
+5	অর্থ	NN	<fs af='অর্থ,n,,sg,,d,0,0' name="অর্থ">	
+6	নেন	VAUX	<fs af='নে,v,,,2,,নে,ne' name="নেন"  poslcat="NM">	
+7	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	এই	DEM	<fs af='এই,pn,,sg,,d,0,0'>	
+2	শিশুদের	NN	<fs af='শিশু,n,,pl,,o,এর,era' name="শিশুদের">	
+3	পাঠদানের	NN	<fs af='পাঠদানের,unk,,,,,,' name="পাঠদানের"  poslcat="NM">	
+4	নেই	VM	<fs af='না,v,,,any,,নি,ni' name="নেই">	
+5	কোনো	QF	<fs af='কোনো,adj,,,,,,'>	
+6	নির্দিষ্ট	JJ	<fs af='নির্দিষ্ট,adj,,,,,,'>	
+7	স্থান	NN	<fs af='স্থান,n,,sg,,d,0,0' name="স্থান">	
+8	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	যেখানে	PRP	<fs af='যেখানে,pn,,,,d,মে,me' name="যেখানে">	
+2	প্রযোজন	NN	<fs af='প্রযোজন,unk,,,,,,' name="প্রযোজন"  poslcat="NM">	
+3	মনে	NN	<fs af='মন,n,,sg,,d,মে,me' name="মনে">	
+4	করেন	VM	<fs af='কর্,v,,,2,,নে,ne' name="করেন">	
+5	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+6	সেখানেই	PRP	<fs af='সেখানে,pn,,,,d,মে,me' name="সেখানেই">	
+7	আদিত্য	NNP	<fs af='আদিত্য,n,,sg,,d,0,0' name="আদিত্য">	
+8	তাঁর	PRP	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">	
+9	সাইকেলটি	NN	<fs af='সাইকেলটি,unk,,,,,,' name="সাইকেলটি"  poslcat="NM">	
+10	রাখেন	VM	<fs af='রাখ্,v,,,2,,নে,ne' name="রাখেন">	
+11	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	তারপর	RB	<fs af='তারপর,adv,,,,,,' name="তারপর">	
+2	বইপত্রসহ	NN	<fs af='বইপত্রসহ,unk,,,,,,' name="বইপত্রসহ"  poslcat="NM">	
+3	প্রযোজনীয্	NN	<fs af='প্রযোজনীয্,unk,,,,,,' name="প্রযোজনীয্"  poslcat="NM">	
+4	জিনিস	NN	<fs af='জিনিস,n,,sg,,d,0,0' name="জিনিস">	
+5	বের	NN	<fs af='বের,n,,sg,,d,0,0' name="বের">	
+6	করে	VM	<fs af='কর্,v,,,3,,নে,ne' name="করে">	
+7	ছোট্ট	JJ	<fs af='ছোট্ট,adj,,,,,,'>	
+8	শিক্ষার্থীদের	NN	<fs af='শিক্ষার্থীদের,unk,,,,,,' name="শিক্ষার্থীদের"  poslcat="NM">	
+9	পডাতে	VM	<fs af='পডাতে,unk,,,,,,' name="পডাতে"  poslcat="NM">	
+10	শুরু	NN	<fs af='শুরু,n,,sg,,d,0,0' name="শুরু">	
+11	করেন	VM	<fs af='কর্,v,,,2,,নে,ne' name="করেন">	
+12	.	SYM	<fs af='.,punc,,,,,,'>	
+
+
+1	আমার	PRP	<fs af='আমি,pn,,sg,,o,এর,era'>	
+2	সঙ্গে	NST	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">	
+3	দেখা	VM	<fs af='দেখা,v,,,2,,ক,ka' name="দেখা">	
+4	হওযার	NN	<fs af='হওযার,unk,,,,,,' poslcat="NM">	
+5	আগে	NST	<fs af='আগে,adv,,,,,,' name="আগে"  poslcat="NM">	
+6	তারা	PRP	<fs af='সে,pn,,pl,,d,0,0' name="তারা">	
+7	জানতও	NN	<fs af='জানত,adj,,,,,,' poslcat="NM">	
+8	না	NEG	<fs af='না,avy,,,,,,' name="না">	
+9	কেন	WQ	<fs af='কেন,avy,,,,,,' name="কেন"  poslcat="NM">	
+10	স্কুলে	NN	<fs af='স্কুল,n,,sg,,d,মে,me' name="স্কুলে">	
+11	যেতে	VM	<fs af='যা,v,,,2,,ত,wa' name="যেতে">	
+12	.	SYM	<fs af='.,punc,,,,,,'>	
+13	ৈ	RB	<fs af='.,punc,,,,,,' name="ৈ"  poslcat="NM">	
+14	ছয্	NNP	<fs af='ছয্,unk,,,,,,' name="ছয্"  poslcat="NM">	
+15	14	QC	<fs af='14,num,,,,,,'>	
+16	বছর	NN	<fs af='বছর,n,,sg,,d,0,0' name="বছর">	
+17	বয্সী	NN	<fs af='বয্সী,unk,,,,,,' name="বয্সী"  poslcat="NM">	
+18	শিশুদের	NN	<fs af='শিশু,n,,pl,,o,এর,era' name="শিশুদের">	
+19	শিক্ষার	NN	<fs af='শিক্ষা,n,,sg,,o,এর,era' name="শিক্ষার">	
+20	ব্যবস্থা	NN	<fs af='ব্যবস্থা,n,,sg,,d,0,0' name="ব্যবস্থা">	
+21	করা	VM	<fs af='করা,v,,,2,,ক,ka' name="করা">	
+22	রাষ্ট্রের	NN	<fs af='রাষ্ট্রের,unk,,,,,,' name="রাষ্ট্রের"  poslcat="NM">	
+23	দাযিত্বৈএমন	NN	<fs af='দাযিত্ব,unk,,,,,,' name="দাযিত্বৈএমন"  poslcat="NM">	
+24	বিধান	NN	<fs af='বিধান,n,,sg,,d,0,0' name="বিধান">	
+25	রেখে	VM	<fs af='রাখ্,v,,,any,,ভে,Be' name="রেখে">	
+26	ভারতে	NNP	<fs af='ভারত,n,,sg,,d,মে,me' name="ভারতে">	
+27	2009	QC	<fs af='2009,num,,,,,,'>	
+28	সালে	NNP	<fs af='সাল,n,,sg,,d,মে,me' name="সালে">	
+29	শিক্ষা	NN	<fs af='শিক্ষা,n,,sg,,d,0,0' name="শিক্ষা">	
+30	অধিকার	NN	<fs af='অধিকার,n,,sg,,d,0,0' name="অধিকার">	
+31	আইন	NNP	<fs af='আইন,n,,sg,,d,0,0' name="আইন">	
+32	পাস	NN	<fs af='পাস,n,,sg,,d,0,0' name="পাস">	
+33	হয্	VM	<fs af='হয্,unk,,,,,,' name="হয্"  poslcat="NM">	
+34	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	তবে	CC	<fs af='তবে,avy,,,,,,' name="তবে">	
+2	শিক্ষা	NN	<fs af='শিক্ষা,n,,sg,,d,0,0' name="শিক্ষা">	
+3	অধিকার	NN	<fs af='অধিকার,n,,sg,,d,0,0' name="অধিকার">	
+4	কর্মীরা	NN	<fs af='কর্মী,n,,pl,,d,0,0' name="কর্মীরা">	
+5	জানান	VM	<fs af='জানা,v,,,3,,ক,ka' name="জানান">	
+6	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+7	বিদ্যালয্গুলোতে	NN	<fs af='বিদ্যালয্গুলোতে,unk,,,,,,' name="বিদ্যালয্গুলোতে"  poslcat="NM">	
+8	ধারণক্ষমতার	NN	<fs af='ধারণক্ষমতার,unk,,,,,,' name="ধারণক্ষমতার"  poslcat="NM">	
+9	বেশি	JJ	<fs af='বেশি,adj,,,,,,'>	
+10	শিক্ষার্থী	NN	<fs af='শিক্ষার্থী,unk,,,,,,' name="শিক্ষার্থী"  poslcat="NM">	
+11	থাকে	VM	<fs af='থাক্,v,,,3,,নে,ne' name="থাকে">	
+12	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	আবার	RB	<fs af='আবার,adv,,,,,,' name="আবার">	
+2	এমনও	PRP	<fs af='এমন,adj,,,,,,' name="এমনও"  poslcat="NM">	
+3	হয্	VM	<fs af='হয্,unk,,,,,,' name="হয্"  poslcat="NM">	
+4	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+5	বাডি	NN	<fs af='বাডি,unk,,,,,,' name="বাডি"  poslcat="NM">	
+6	অনেক	QF	<fs af='অনেক,adj,,,,,,'>	
+7	দূরে	NST	<fs af='দূর,n,,sg,,d,মে,me' name="দূরে"  poslcat="NM">	
+8	বিদ্যালয্	XC	<fs af='বিদ্যালয্,unk,,,,,,' poslcat="NM">	
+9	.	SYM	<fs af='.,punc,,,,,,' name=".">	
+
+1	এ	DEM	<fs af='এ,pn,,sg,,d,0,0' name="এ">	
+2	শিক্ষার্থীরা	NN	<fs af='শিক্ষার্থীরা,unk,,,,,,' name="শিক্ষার্থীরা"  poslcat="NM">	
+3	সেখানে	PRP	<fs af='সেখানে,pn,,,,d,মে,me' name="সেখানে">	
+4	যেতে	VM	<fs af='যা,v,,,2,,ত,wa' name="যেতে">	
+5	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	এর	PRP	<fs af='এ,pn,,sg,,o,এর,era'>	
+2	সঙ্গে	NST	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">	
+3	আছে	VM	<fs af='আছ,v,,,3,,নে,ne' name="আছে">	
+4	দারিদ্র্য	JJ	<fs af='দারিদ্র্য,n,,sg,,d,0,0' name="দারিদ্র্য"  poslcat="NM">	
+5	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+6	যা	PRP	<fs af='যে,pn,,sg,,d,0,0' name="যা">	
+7	শিশুশ্রমেরও	NN	<fs af='শিশুশ্রমেরও,unk,,,,,,' name="শিশুশ্রমেরও"  poslcat="NM">	
+8	বড্	JJ	<fs af='বড্,unk,,,,,,' poslcat="NM">	
+9	কারণ	NN	<fs af='কারণ,n,,sg,,d,0,0' name="কারণ">	
+10	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	আদিত্যর	NNP	<fs af='আদিত্যর,unk,,,,,,' name="আদিত্যর"  poslcat="NM">	
+2	বয্স	NN	<fs af='বয্স,unk,,,,,,' name="বয্স"  poslcat="NM">	
+3	এখন	PRP	<fs af='এখন,pn,,,,d,0,0' name="এখন">	
+4	45	QC	<fs af='45,num,,,,,,' name="45">	
+5	ছুঁই	PRP	<fs af='ছুঁই,unk,,,,,,' name="ছুঁই"  poslcat="NM">	
+6	ছুঁই	PRP	<fs af='ছুঁই,unk,,,,,,' poslcat="NM">	
+7	.	SYM	<fs af='.,punc,,,,,,' name=".">	
+
+1	দুই	QC	<fs af='দুই,adj,,,,,,'>	
+2	দশকেরও	NN	<fs af='দশকেরও,unk,,,,,,' name="দশকেরও"  poslcat="NM">	
+3	বেশি	JJ	<fs af='বেশি,adj,,,,,,'>	
+4	সময্	NN	<fs af='সময্,unk,,,,,,' name="সময্"  poslcat="NM">	
+5	ধরে	VM	<fs af='ধর্,v,,,3,,নে,ne' name="ধরে">	
+6	এই	DEM	<fs af='এই,pn,,sg,,d,0,0'>	
+7	ভ্রাম্যমাণ	JJ	<fs af='ভ্রাম্যমাণ,adj,,,,,,'>	
+8	বিদ্যালয্টি	NN	<fs af='বিদ্যালয্টি,unk,,,,,,' name="বিদ্যালয্টি"  poslcat="NM">	
+9	পরিচালনা	NN	<fs af='পরিচালনা,n,,sg,,d,0,0' name="পরিচালনা">	
+10	করছেন	VM	<fs af='কর্,v,,,2,,ছে,Ce' name="করছেন">	
+11	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	তাঁর	PRP	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">	
+2	বিদ্যালযের	NN	<fs af='বিদ্যালযের,unk,,,,,,' name="বিদ্যালযের"  poslcat="NM">	
+3	নির্দিষ্ট	JJ	<fs af='নির্দিষ্ট,adj,,,,,,'>	
+4	কোনো	QF	<fs af='কোনো,adj,,,,,,'>	
+5	পাঠ্যসূচি	NN	<fs af='পাঠ্যসূচি,n,,sg,,d,0,0' name="পাঠ্যসূচি">	
+6	বা	CC	<fs af='বা,avy,,,,,,' name="বা">	
+7	বই	NN	<fs af='বই,n,,sg,,d,0,0' name="বই">	
+8	নেই	VM	<fs af='না,v,,,any,,নি,ni' name="নেই">	
+9	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	অধিকাংশ	JJ	<fs af='অধিকাংশ,adj,,,,,,'>	
+2	শিক্ষার্থীর	NN	<fs af='শিক্ষার্থীর,unk,,,,,,' name="শিক্ষার্থীর"  poslcat="NM">	
+3	বয্স	NN	<fs af='বয্স,unk,,,,,,' name="বয্স"  poslcat="NM">	
+4	10	QC	<fs af='10,num,,,,,,'>	
+5	বছরের	NN	<fs af='বছর,n,,sg,,o,এর,era' name="বছরের">	
+6	কম	JJ	<fs af='কম,adj,,,,,,' name="কম">	
+7	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	তিনি	PRP	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">	
+2	তাদের	PRP	<fs af='সে,pn,,pl,,o,এর,era' name="তাদের">	
+3	ব্যবহারিক	JJ	<fs af='ব্যবহারিক,adj,,,,,,' name="ব্যবহারিক">	
+4	ইংরেজি	JJ	<fs af='ইংরেজি,unk,,,,,,' name="ইংরেজি"  poslcat="NM">	
+5	ও	CC	<fs af='ও,avy,,,,,,' name="ও">	
+6	গণিত	NN	<fs af='গণিত,adj,,,,,,' name="গণিত"  poslcat="NM">	
+7	শেখান	VM	<fs af='শেখা,v,,,3,,ক,ka' name="শেখান">	
+8	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	একটা	QC	<fs af='একটা,adj,,,,,,'>	
+2	পর্যায্	NN	<fs af='পর্যায্,unk,,,,,,' name="পর্যায্"  poslcat="NM">	
+3	তাদের	PRP	<fs af='সে,pn,,pl,,o,এর,era' name="তাদের">	
+4	শেখানো	VM	<fs af='শেখা,v,,,any,,আ,A' name="শেখানো">	
+5	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	সাধারণ	JJ	<fs af='সাধারণ,adj,,,,,,'>	
+2	শিক্ষার্থীদের	NN	<fs af='শিক্ষার্থীদের,unk,,,,,,' name="শিক্ষার্থীদের"  poslcat="NM">	
+3	নিয্মিত	NN	<fs af='নিয্মিত,unk,,,,,,' name="নিয্মিত"  poslcat="NM">	
+4	বিদ্যালযে	NN	<fs af='বিদ্যালযে,unk,,,,,,' name="বিদ্যালযে"  poslcat="NM">	
+5	শিক্ষা	NN	<fs af='শিক্ষা,n,,sg,,d,0,0' name="শিক্ষা">	
+6	গ্রহণের	NN	<fs af='গ্রহণ,n,,sg,,o,এর,era' name="গ্রহণের">	
+7	যোগ্য	JJ	<fs af='যোগ্য,adj,,,,,,'>	
+8	হওযা	NN	<fs af='হওযা,unk,,,,,,' name="হওযা"  poslcat="NM">	
+9	এই	DEM	<fs af='এই,pn,,sg,,d,0,0'>	
+10	পাঠদান	NN	<fs af='পাঠদান,unk,,,,,,' name="পাঠদান"  poslcat="NM">	
+11	চলে	VM	<fs af='চল্,v,,,3,,নে,ne' name="চলে">	
+12	.	SYM	<fs af='.,punc,,,,,,'>	
+
+
+1	আমি	PRP	<fs af='আমি,pn,,sg,,d,0,0' name="আমি">	
+2	জানি	VM	<fs af='জান্,v,,,1,,ক,ka' name="জানি">	
+3	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+4	এই	DEM	<fs af='এই,pn,,sg,,d,0,0'>	
+5	শিশুদের	NN	<fs af='শিশু,n,,pl,,o,এর,era' name="শিশুদের">	
+6	জীবন	NN	<fs af='জীবন,n,,sg,,d,0,0' name="জীবন">	
+7	কতটা	WQ	<fs af='কতটা,adj,,,,,,' name="কতটা"  poslcat="NM">	
+8	কঠিন	JJ	<fs af='কঠিন,adj,,,,,,' name="কঠিন">	
+9	.	SYM	<fs af='.,punc,,,,,,'>	
+10	ৈ	RB	<fs af='.,punc,,,,,,' name="ৈ"  poslcat="NM">	
+11	পডাশোনা	NN	<fs af='পডাশোনা,unk,,,,,,' name="পডাশোনা"  poslcat="NM">	
+12	বাদ	NN	<fs af='বাদ,unk,,,,,,' name="বাদ"  poslcat="NM">	
+13	দিযে	NN	<fs af='দিযে,unk,,,,,,' name="দিযে"  poslcat="NM">	
+14	বাবা	NN	<fs af='বাবা,n,,sg,,d,0,0' name="বাবা">	
+15	-	SYM	<fs af='-,punc,,,,,,'>	
+16	মা	NN	<fs af='মা,n,,sg,,d,0,0' name="মা">	
+17	আযের	NN	<fs af='আযের,unk,,,,,,' name="আযের"  poslcat="NM">	
+18	চাপ	NN	<fs af='চাপ,n,,sg,,d,0,0' name="চাপ">	
+19	দিচ্ছিল	VM	<fs af='দে,v,,,3,,ছিল,Cila' name="দিচ্ছিল">	
+20	বলে	VM	<fs af='বল্,v,,,3,,নে,ne' name="বলে">	
+21	কিশোর	NN	<fs af='কিশোর,n,,sg,,d,0,0' name="কিশোর">	
+22	তিনি	PRP	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">	
+23	বাডি	NN	<fs af='বাডি,unk,,,,,,' name="বাডি"  poslcat="NM">	
+24	ছেডে	VM	<fs af='ছেডে,unk,,,,,,' name="ছেডে"  poslcat="NM">	
+25	পালিযেছিলেন	VM	<fs af='পালিযেছিলেন,unk,,,,,,' name="পালিযেছিলেন"  poslcat="NM">	
+26	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	তারপর	RB	<fs af='তারপর,adv,,,,,,' name="তারপর">	
+2	কিছুদিন	NN	<fs af='কিছুদিন,n,,sg,,d,0,0' name="কিছুদিন">	
+3	রাস্তায্	NN	<fs af='রাস্তায্,unk,,,,,,' name="রাস্তায্_2"  poslcat="NM">	
+4	রাস্তায্	NN	<fs af='রাস্তায্,unk,,,,,,' name="রাস্তায্"  poslcat="NM">	
+5	থেকেছেন	VM	<fs af='থাক্,v,,,2,,এছে,eCe' name="থেকেছেন">	
+6	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	এরপর	RB	<fs af='এরপর,adv,,,,,,' name="এরপর">	
+2	এক	QC	<fs af='এক,adj,,,,,,'>	
+3	শিক্ষকের	NN	<fs af='শিক্ষক,n,,sg,,o,এর,era'>	
+4	সঙ্গে	NST	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">	
+5	তাঁর	PRP	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">	
+6	পরিচয্	JJ	<fs af='পরিচয্,unk,,,,,,' name="পরিচয্"  poslcat="NM">	
+7	হয্	VM	<fs af='হয্,unk,,,,,,' name="হয্"  poslcat="NM">	
+8	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+9	ওই	DEM	<fs af='ও,pn,,sg,,d,0,0'>	
+10	শিক্ষকই	NN	<fs af='শিক্ষক,n,,sg,,d,0,0' name="শিক্ষকই">	
+11	তাঁকে	PRP	<fs af='তিনি,pn,,sg,,d,কে,ke' name="তাঁকে">	
+12	বিজ্ঞান	NN	<fs af='বিজ্ঞান,unk,,,,,,' poslcat="NM">	
+13	বিষযে	NN	<fs af='বিষযে,unk,,,,,,' name="বিষযে"  poslcat="NM">	
+14	স্নাতক	JJ	<fs af='স্নাতক,adj,,,,,,' name="স্নাতক">	
+15	পর্যন্ত	PSP	<fs af='পর্যন্ত,psp,,,,,,'>	
+16	পডাশোনার	VM	<fs af='পডাশোনার,unk,,,,,,' name="পডাশোনার"  poslcat="NM">	
+17	ব্যাপারে	NN	<fs af='ব্যাপার,n,,sg,,d,মে,me' name="ব্যাপারে">	
+18	সহায্তা	NN	<fs af='সহায্তা,unk,,,,,,' name="সহায্তা"  poslcat="NM">	
+19	করেন	VM	<fs af='কর্,v,,,2,,নে,ne' name="করেন">	
+20	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	গুরুর	NN	<fs af='গুরুর,unk,,,,,,' name="গুরুর"  poslcat="NM">	
+2	দক্ষিণা	NN	<fs af='দক্ষিণা,adj,,,,,,' name="দক্ষিণা"  poslcat="NM">	
+3	দিতে	VM	<fs af='দে,v,,,2,,ত,wa' name="দিতে">	
+4	তিনি	PRP	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">	
+5	বস্তির	NN	<fs af='বস্তির,unk,,,,,,' name="বস্তির"  poslcat="NM">	
+6	শিশুদের	NN	<fs af='শিশু,n,,pl,,o,এর,era'>	
+7	মাঝে	NST	<fs af='মাঝে,adj,,,,,,' name="মাঝে"  poslcat="NM">	
+8	শিক্ষার	NN	<fs af='শিক্ষা,n,,sg,,o,এর,era' name="শিক্ষার">	
+9	আলো	NN	<fs af='আলো,n,,sg,,d,0,0' name="আলো">	
+10	ছডিযে	VM	<fs af='ছডিযে,unk,,,,,,' name="ছডিযে"  poslcat="NM">	
+11	দেওযার	NN	<fs af='দেওযার,unk,,,,,,' name="দেওযার"  poslcat="NM">	
+12	কাজ	NN	<fs af='কাজ,n,,sg,,d,0,0' name="কাজ">	
+13	শুরু	NN	<fs af='শুরু,n,,sg,,d,0,0' name="শুরু">	
+14	করেন	VM	<fs af='কর্,v,,,2,,নে,ne' name="করেন">	
+15	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	কিন্তু	CC	<fs af='কিন্তু,avy,,,,,,' name="কিন্তু">	
+2	শিক্ষকতা	NN	<fs af='শিক্ষকতা,unk,,,,,,' name="শিক্ষকতা"  poslcat="NM">	
+3	করার	VM	<fs af='কর্,n,,,any,,র,ra' name="করার"  poslcat="NM">	
+4	কোনো	QF	<fs af='কোনো,adj,,,,,,'>	
+5	প্রশিক্ষণ	NN	<fs af='প্রশিক্ষণ,n,,sg,,d,0,0' name="প্রশিক্ষণ">	
+6	তাঁর	PRP	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর_2">	
+7	ছিল	VM	<fs af='ছিল,v,,,3,,0,0' name="ছিল_2">	
+8	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+9	এমনকি	RB	<fs af='এমনকি,adv,,,,,,' name="এমনকি">	
+10	বিদ্যালযের	NN	<fs af='বিদ্যালযের,unk,,,,,,' name="বিদ্যালযের"  poslcat="NM">	
+11	শিক্ষক	NN	<fs af='শিক্ষক,n,,sg,,d,0,0' name="শিক্ষক">	
+12	হওযার	VM	<fs af='হওযার,unk,,,,,,' name="হওযার"  poslcat="NM">	
+13	কোনো	QF	<fs af='কোনো,adj,,,,,,'>	
+14	বাসনাও	NN	<fs af='বাসনাও,unk,,,,,,' name="বাসনাও"  poslcat="NM">	
+15	তাঁর	PRP	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">	
+16	মনে	NN	<fs af='মন,n,,sg,,d,মে,me' name="মনে">	
+17	ছিল	VM	<fs af='ছিল,v,,,3,,0,0' name="ছিল">	
+18	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	আদিত্যের	NNP	<fs af='আদিত্য,n,,sg,,o,এর,era' name="আদিত্যের">	
+2	এমন	DEM	<fs af='এমন,adj,,,,,,' poslcat="NM">	
+3	কাজে	NN	<fs af='কাজ,n,,sg,,d,মে,me' name="কাজে">	
+4	খুশি	JJ	<fs af='খুশি,adj,,,,,,' name="খুশি">	
+5	তাঁর	PRP	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">	
+6	শিক্ষক	NN	<fs af='শিক্ষক,n,,sg,,d,0,0' name="শিক্ষক">	
+7	ও	CC	<fs af='ও,avy,,,,,,' name="ও">	
+8	লক্ষ্ণৌ	NNP	<fs af='লক্ষ্ণৌ,unk,,,,,,' name="লক্ষ্ণৌ"  poslcat="NM">	
+9	বিশ্ববিদ্যালযের	NN	<fs af='বিশ্ববিদ্যালযের,unk,,,,,,' name="বিশ্ববিদ্যালযের"  poslcat="NM">	
+10	সাবেক	VM	<fs af='সাবেক,adj,,,,,,' name="সাবেক"  poslcat="NM">	
+11	উপাচার্য	NNP	<fs af='উপাচার্য,n,,sg,,d,0,0' name="উপাচার্য">	
+12	রূপ	NN	<fs af='রূপ,n,,sg,,d,0,0' name="রূপ">	
+13	রেখা	NN	<fs af='রেখা,n,,sg,,d,0,0'>	
+14	ভার্মা	NN	<fs af='ভার্মা,unk,,,,,,' name="ভার্মা"  poslcat="NM">	
+15	.	SYM	<fs af='.,punc,,,,,,'>	
+
+
+1	তিনি	PRP	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">	
+2	সুবিধাবঞ্চিত	JJ	<fs af='সুবিধাবঞ্চিত,unk,,,,,,' poslcat="NM">	
+3	শিশুদের	NN	<fs af='শিশু,n,,pl,,o,এর,era' name="শিশুদের">	
+4	শিক্ষার	NN	<fs af='শিক্ষা,n,,sg,,o,এর,era' name="শিক্ষার_2">	
+5	জগতের	NN	<fs af='জগত,n,,sg,,o,এর,era'>	
+6	সঙ্গে	NST	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">	
+7	পরিচিত	JJ	<fs af='পরিচিত,adj,,,,,,' name="পরিচিত">	
+8	করতে	VM	<fs af='কর্,v,,,2,,ত,wa' name="করতে">	
+9	যে	CC	<fs af='যে,avy,,,,,,' name="যে">	
+10	পরিশ্রম	NN	<fs af='পরিশ্রম,n,,sg,,d,0,0' name="পরিশ্রম">	
+11	করে	VM	<fs af='কর্,v,,,3,,নে,ne' name="করে">	
+12	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+13	তা	PRP	<fs af='যে,pn,,sg,,d,0,0' name="তা">	
+14	প্রশংসনীয্	NN	<fs af='প্রশংসনীয্,unk,,,,,,' name="প্রশংসনীয্"  poslcat="NM">	
+15	.	SYM	<fs af='.,punc,,,,,,'>	
+16	ৈ	RB	<fs af='.,punc,,,,,,' name="ৈ"  poslcat="NM">	
+17	বিনা	JJ	<fs af='বিনা,adj,,,,,,'>	
+18	পয্সায্	VAUX	<fs af='পয্সায্,unk,,,,,,' name="পয্সায্"  poslcat="NM">	
+19	শিক্ষার	NN	<fs af='শিক্ষা,n,,sg,,o,এর,era' name="শিক্ষার">	
+20	আলো	NN	<fs af='আলো,n,,sg,,d,0,0' name="আলো">	
+21	ছডানো	VM	<fs af='ছডানো,unk,,,,,,' name="ছডানো"  poslcat="NM">	
+22	আদিত্য	NNP	<fs af='আদিত্য,n,,sg,,d,0,0' name="আদিত্য">	
+23	কুমার	XC	<fs af='কুমার,n,,sg,,d,0,0' poslcat="NM">	
+24	এই	DEM	<fs af='এই,pn,,sg,,d,0,0'>	
+25	কার্যক্রম	NN	<fs af='কার্যক্রম,unk,,,,,,' name="কার্যক্রম"  poslcat="NM">	
+26	চালানোর	VM	<fs af='চালা,n,,,any,,র,ra' name="চালানোর"  poslcat="NM">	
+27	অর্থ	NN	<fs af='অর্থ,n,,sg,,d,0,0' name="অর্থ">	
+28	জোগাডে	VM	<fs af='জোগাডে,unk,,,,,,' name="জোগাডে"  poslcat="NM">	
+29	টিউশনি	NN	<fs af='টিউশনি,n,,sg,,d,0,0' name="টিউশনি">	
+30	করেন	VM	<fs af='কর্,v,,,2,,নে,ne' name="করেন">	
+31	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	তাঁর	PRP	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">	
+2	কোনো	QF	<fs af='কোনো,adj,,,,,,'>	
+3	নির্দিষ্ট	JJ	<fs af='নির্দিষ্ট,adj,,,,,,'>	
+4	ঠিকানা	NN	<fs af='ঠিকানা,n,,sg,,d,0,0' name="ঠিকানা">	
+5	নেই	VM	<fs af='না,v,,,any,,নি,ni' name="নেই">	
+6	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	যেখানে	PRP	<fs af='যেখানে,pn,,,,d,মে,me' name="যেখানে">	
+2	রাত	NN	<fs af='রাত,n,,sg,,d,0,0' name="রাত">	
+3	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+4	সেখানেই	PRP	<fs af='সেখানে,pn,,,,d,মে,me' name="সেখানেই">	
+5	কাত	NN	<fs af='কাত,adj,,,,,,' name="কাত"  poslcat="NM">	
+6	হযে	NN	<fs af='হযে,unk,,,,,,' name="হযে"  poslcat="NM">	
+7	ঘুমিযে	JJ	<fs af='ঘুমিযে,unk,,,,,,' poslcat="NM">	
+8	পডেন	NN	<fs af='পডেন,unk,,,,,,' name="পডেন"  poslcat="NM">	
+9	তিনি	PRP	<fs af='তিনি,pn,,sg,,d,0,0'>	
+10	.	SYM	<fs af='.,punc,,,,,,' name=".">	
+
+1	15	QC	<fs af='15,num,,,,,,'>	
+2	বছরের	NN	<fs af='বছর,n,,sg,,o,এর,era'>	
+3	মধ্যে	NST	<fs af='মধ্যে,psp,,,,,,' name="মধ্যে"  poslcat="NM">	
+4	এই	DEM	<fs af='এই,pn,,sg,,d,0,0'>	
+5	প্রথম	QO	<fs af='প্রথম,adj,,,,,,'>	
+6	কিউবার	NN	<fs af='কিউবার,unk,,,,,,' poslcat="NM">	
+7	সঙ্গে	NST	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">	
+8	যুক্তরাষ্ট্রের	NNP	<fs af='যুক্তরাষ্ট্র,n,,sg,,o,এর,era' name="যুক্তরাষ্ট্রের">	
+9	সরাসরি	RB	<fs af='সরাসরি,adv,,,,,,' name="সরাসরি">	
+10	টেলিফোন	NST	<fs af='টেলিফোন,n,,sg,,d,0,0' name="টেলিফোন"  poslcat="NM">	
+11	সংযোগ	NN	<fs af='সংযোগ,unk,,,,,,' name="সংযোগ"  poslcat="NM">	
+12	পুনঃস্থাপিত	VM	<fs af='পুনঃস্থাপিত,unk,,,,,,' name="পুনঃস্থাপিত"  poslcat="NM">	
+13	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	কিউবার	NN	<fs af='কিউবার,unk,,,,,,' name="কিউবার"  poslcat="NM">	
+2	রাষ্ট্রীয্	NN	<fs af='রাষ্ট্রীয্,unk,,,,,,' name="রাষ্ট্রীয্"  poslcat="NM">	
+3	টেলিযোগাযোগ	VM	<fs af='টেলিযোগাযোগ,unk,,,,,,' name="টেলিযোগাযোগ"  poslcat="NM">	
+4	কোম্পানি	NN	<fs af='কোম্পানি,unk,,,,,,' name="কোম্পানি"  poslcat="NM">	
+5	বলেছে	VAUX	<fs af='বল্,v,,,3,,এছে,eCe' name="বলেছে"  poslcat="NM">	
+6	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+7	প্রাথমিকভাবে	VM	<fs af='প্রাথমিকভাবে,unk,,,,,,' name="প্রাথমিকভাবে"  poslcat="NM">	
+8	ওই	DEM	<fs af='ও,pn,,sg,,d,0,0'>	
+9	সংযোগ	NN	<fs af='সংযোগ,unk,,,,,,' name="সংযোগ"  poslcat="NM">	
+10	কেবল	RB	<fs af='কেবল,adv,,,,,,' name="কেবল">	
+11	ফোন	JJ	<fs af='ফোন,n,,sg,,d,0,0' name="ফোন"  poslcat="NM">	
+12	কলের	QF	<fs af='কলের,unk,,,,,,' name="কলের"  poslcat="NM">	
+13	ব্যবহার	NN	<fs af='ব্যবহার,n,,sg,,d,0,0' name="ব্যবহার">	
+14	করা	VM	<fs af='করা,v,,,2,,ক,ka' name="করা">	
+15	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	বর্তমানে	NN	<fs af='বর্তমান,n,,sg,,d,মে,me' name="বর্তমানে">	
+2	কিউবা	NNP	<fs af='কিউবা,unk,,,,,,' name="কিউবা"  poslcat="NM">	
+3	যুক্তরাষ্ট্রে	NNP	<fs af='যুক্তরাষ্ট্র,n,,sg,,d,মে,me'>	
+4	টেলিফোন	NST	<fs af='টেলিফোন,n,,sg,,d,0,0' name="টেলিফোন"  poslcat="NM">	
+5	কল	NN	<fs af='কল,adj,,,,,,' name="কল"  poslcat="NM">	
+6	করার	VM	<fs af='কর্,n,,,any,,র,ra' name="করার"  poslcat="NM">	
+7	ক্ষেত্রে	NN	<fs af='ক্ষেত্র,n,,sg,,d,মে,me' name="ক্ষেত্রে">	
+8	তৃতীয্	NN	<fs af='তৃতীয্,unk,,,,,,' name="তৃতীয্"  poslcat="NM">	
+9	দেশের	NN	<fs af='দেশ,n,,sg,,o,এর,era' name="দেশের">	
+10	সাহায্য	NN	<fs af='সাহায্য,n,,sg,,d,0,0' name="সাহায্য">	
+11	নেওযা	VM	<fs af='নেওযা,unk,,,,,,' name="নেওযা"  poslcat="NM">	
+12	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+13	যা	PRP	<fs af='যে,pn,,sg,,d,0,0' name="যা">	
+14	অনেক	QF	<fs af='অনেক,adj,,,,,,'>	
+15	ব্যয্বহুল	JJ	<fs af='ব্যয্বহুল,unk,,,,,,' name="ব্যয্বহুল"  poslcat="NM">	
+16	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	গত	JJ	<fs af='গত,adj,,,,,,'>	
+2	ডিসেম্বরে	NNP	<fs af='ডিসেম্বর,n,,sg,,d,মে,me'>	
+3	যুক্তরাষ্ট্র	NNP	<fs af='যুক্তরাষ্ট্র,n,,sg,,d,0,0' name="যুক্তরাষ্ট্র">	
+4	ও	CC	<fs af='ও,avy,,,,,,' name="ও">	
+5	কিউবা	NNP	<fs af='কিউবা,unk,,,,,,' name="কিউবা"  poslcat="NM">	
+6	কূটনৈতিক	JJ	<fs af='কূটনৈতিক,adj,,,,,,'>	
+7	সম্পর্ক	NN	<fs af='সম্পর্ক,n,,sg,,d,0,0' name="সম্পর্ক">	
+8	পুনঃস্থাপনের	NN	<fs af='পুনঃস্থাপনের,unk,,,,,,' name="পুনঃস্থাপনের"  poslcat="NM">	
+9	উদ্যোগ	NN	<fs af='উদ্যোগ,n,,sg,,d,0,0' name="উদ্যোগ">	
+10	নেওযার	NN	<fs af='নেওযার,unk,,,,,,' name="নেওযার"  poslcat="NM">	
+11	ঘোষণা	NN	<fs af='ঘোষণা,unk,,,,,,' name="ঘোষণা"  poslcat="NM">	
+12	দেয্	VM	<fs af='দেয্,unk,,,,,,' name="দেয্"  poslcat="NM">	
+13	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	তার	PRP	<fs af='সে,pn,,sg,,o,এর,era'>	
+2	পর	NST	<fs af='পর,adj,,,,,,' name="পর"  poslcat="NM">	
+3	দুই	QC	<fs af='দুই,adj,,,,,,'>	
+4	দেশের	NN	<fs af='দেশ,n,,sg,,o,এর,era'>	
+5	মধ্যে	NST	<fs af='মধ্যে,psp,,,,,,' name="মধ্যে"  poslcat="NM">	
+6	স্বাক্ষরিত	JJ	<fs af='স্বাক্ষরিত,adj,,,,,,' name="স্বাক্ষরিত">	
+7	এটাই	PRP	<fs af='এটা,adj,,,,,,' name="এটাই"  poslcat="NM">	
+8	প্রথম	QO	<fs af='প্রথম,adj,,,,,,'>	
+9	চুক্তি	NN	<fs af='চুক্তি,n,,sg,,d,0,0' name="চুক্তি">	
+10	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	ভারতের	NNP	<fs af='ভারত,n,,sg,,o,এর,era' name="ভারতের">	
+2	প্রধান	JJ	<fs af='প্রধান,adj,,,,,,'>	
+3	বিরোধী	JJ	<fs af='বিরোধী,adj,,,,,,'>	
+4	দল	NN	<fs af='দল,n,,sg,,d,0,0' name="দল">	
+5	কংগ্রেসের	NNP	<fs af='কংগ্রেস,n,,sg,,o,এর,era'>	
+6	সহসভাপতি	NN	<fs af='সহসভাপতি,unk,,,,,,' name="সহসভাপতি"  poslcat="NM">	
+7	রাহুল	JJ	<fs af='রাহুল,unk,,,,,,' poslcat="NM">	
+8	গান্ধীর	NNP	<fs af='গান্ধীর,unk,,,,,,' name="গান্ধীর"  poslcat="NM">	
+9	ছুটি	NN	<fs af='ছুটি,n,,sg,,d,0,0' name="ছুটি">	
+10	বাডানো	VM	<fs af='বাডানো,unk,,,,,,' name="বাডানো"  poslcat="NM">	
+11	নিযে	VM	<fs af='নিযে,unk,,,,,,' name="নিযে"  poslcat="NM">	
+12	বিভিন্ন	JJ	<fs af='বিভিন্ন,adj,,,,,,'>	
+13	মহলে	NN	<fs af='মহল,n,,sg,,d,মে,me' name="মহলে">	
+14	নানা	JJ	<fs af='নানা,adj,,,,,,'>	
+15	প্রশ্ন	NN	<fs af='প্রশ্ন,n,,sg,,d,0,0' name="প্রশ্ন">	
+16	উঠেছে	VAUX	<fs af='উঠ্,v,,,3,,এছে,eCe' name="উঠেছে"  poslcat="NM">	
+17	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	এ	DEM	<fs af='এ,pn,,sg,,d,0,0' name="এ">	
+2	নিযে	VM	<fs af='নিযে,unk,,,,,,' name="নিযে"  poslcat="NM">	
+3	তিন	QC	<fs af='তিন,adj,,,,,,'>	
+4	দফায্	NN	<fs af='দফায্,unk,,,,,,' name="দফায্"  poslcat="NM">	
+5	ছুটি	NN	<fs af='ছুটি,n,,sg,,d,0,0' name="ছুটি">	
+6	বাডিযেছেন	VM	<fs af='বাডিযেছেন,unk,,,,,,' name="বাডিযেছেন"  poslcat="NM">	
+7	তিনি	PRP	<fs af='তিনি,pn,,sg,,d,0,0'>	
+8	.	SYM	<fs af='.,punc,,,,,,' name=".">	
+
+1	ছুটি	NN	<fs af='ছুটি,n,,sg,,d,0,0' name="ছুটি">	
+2	শেষে	NN	<fs af='শেষে,avy,,,,,,' name="শেষে_2"  poslcat="NM">	
+3	চলতি	JJ	<fs af='চলতি,adj,,,,,,'>	
+4	মাসের	NN	<fs af='মাস,n,,sg,,o,এর,era' name="মাসের">	
+5	শেষে	NN	<fs af='শেষে,avy,,,,,,' name="শেষে"  poslcat="NM">	
+6	তাঁর	PRP	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">	
+7	নযাদিল্লিতে	NN	<fs af='নযাদিল্লিতে,unk,,,,,,' name="নযাদিল্লিতে"  poslcat="NM">	
+8	ফেরার	VM	<fs af='ফেরার,adj,,,,,,' name="ফেরার"  poslcat="NM">	
+9	কথা	NN	<fs af='কথা,n,,sg,,d,0,0' name="কথা">	
+10	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	প্রথম	QO	<fs af='প্রথম,adj,,,,,,'>	
+2	দফায্	NN	<fs af='দফায্,unk,,,,,,' name="দফায্"  poslcat="NM">	
+3	নেওযা	VM	<fs af='নেওযা,unk,,,,,,' name="নেওযা"  poslcat="NM">	
+4	ছুটি	NN	<fs af='ছুটি,n,,sg,,d,0,0' name="ছুটি">	
+5	শেষে	NN	<fs af='শেষে,avy,,,,,,' name="শেষে"  poslcat="NM">	
+6	গত	JJ	<fs af='গত,adj,,,,,,' name="গত">	
+7	মঙ্গলবার	VM	<fs af='মঙ্গলবার,adj,,,,,,' name="মঙ্গলবার"  poslcat="NM">	
+8	রাহুলের	NNP	<fs af='রাহুলের,unk,,,,,,' name="রাহুলের"  poslcat="NM">	
+9	রাজধানীতে	NN	<fs af='রাজধানী,n,,sg,,d,মে,me' name="রাজধানীতে">	
+10	ফিরে	VM	<fs af='ফির্,v,,,any,,ভে,Be' name="ফিরে">	
+11	আসার	VM	<fs af='আসা,n,,sg,,o,এর,era' name="আসার"  poslcat="NM">	
+12	কথা	NN	<fs af='কথা,n,,sg,,d,0,0' name="কথা">	
+13	ছিল	VM	<fs af='ছিল,v,,,3,,0,0' name="ছিল">	
+14	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	পরে	NST	<fs af='পরে,adj,,,,,,' name="পরে"  poslcat="NM">	
+2	কংগ্রেসের	NNP	<fs af='কংগ্রেস,n,,sg,,o,এর,era' name="কংগ্রেসের">	
+3	সূত্রে	NN	<fs af='সূত্র,n,,sg,,d,মে,me' name="সূত্রে">	
+4	জানানো	VM	<fs af='জানা,v,,,any,,আ,A' name="জানানো">	
+5	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+6	চলতি	JJ	<fs af='চলতি,adj,,,,,,'>	
+7	সপ্তাহের	NN	<fs af='সপ্তাহের,unk,,,,,,' name="সপ্তাহের"  poslcat="NM">	
+8	শেষ	NN	<fs af='শেষ,adj,,,,,,' name="শেষ"  poslcat="NM">	
+9	তিনি	PRP	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">	
+10	ছুটি	NN	<fs af='ছুটি,n,,sg,,d,0,0' name="ছুটি">	
+11	বাডিযেছেন	VM	<fs af='বাডিযেছেন,unk,,,,,,' name="বাডিযেছেন"  poslcat="NM">	
+12	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	তার	PRP	<fs af='সে,pn,,sg,,o,এর,era'>	
+2	পরই	NST	<fs af='পর,adj,,,,,,' name="পরই"  poslcat="NM">	
+3	আবার	RB	<fs af='আবার,adv,,,,,,' name="আবার">	
+4	এই	DEM	<fs af='এই,pn,,sg,,d,0,0'>	
+5	নতুন	JJ	<fs af='নতুন,adj,,,,,,'>	
+6	দফা	NN	<fs af='দফা,unk,,,,,,' name="দফা"  poslcat="NM">	
+7	ছুটি	NN	<fs af='ছুটি,n,,sg,,d,0,0' name="ছুটি">	
+8	বাডানোর	VM	<fs af='বাডানোর,unk,,,,,,' name="বাডানোর"  poslcat="NM">	
+9	খবর	NN	<fs af='খবর,n,,sg,,d,0,0' name="খবর">	
+10	জানানো	VM	<fs af='জানা,v,,,any,,আ,A' name="জানানো">	
+11	হলো	VM	<fs af='হ,v,,,3,,ল,la' name="হলো">	
+12	.	SYM	<fs af='.,punc,,,,,,'>	
+
+
+1	টাইমস	XC	<fs af='টাইমস,unk,,,,,,' poslcat="NM">	
+2	অব	XC	<fs af='অব,unk,,,,,,' poslcat="NM">	
+3	ইন্ডিযার	NN	<fs af='ইন্ডিযার,unk,,,,,,' name="ইন্ডিযার"  poslcat="NM">	
+4	খবরে	NN	<fs af='খবর,n,,sg,,d,মে,me' name="খবরে">	
+5	জানানো	VM	<fs af='জানা,v,,,any,,আ,A' name="জানানো">	
+6	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+7	ছুটিতে	NN	<fs af='ছুটি,n,,sg,,d,মে,me' name="ছুটিতে">	
+8	থাকায্	NN	<fs af='থাকায্,unk,,,,,,' name="থাকায্"  poslcat="NM">	
+9	ভারতের	NNP	<fs af='ভারত,n,,sg,,o,এর,era' name="ভারতের">	
+10	রাজনীতির	NN	<fs af='রাজনীতির,unk,,,,,,' name="রাজনীতির"  poslcat="NM">	
+11	অনেক	QF	<fs af='অনেক,adj,,,,,,'>	
+12	গুরুত্বপূর্ণ	JJ	<fs af='গুরুত্বপূর্ণ,adj,,,,,,'>	
+13	ঘটনায্	NN	<fs af='ঘটনায্,unk,,,,,,' name="ঘটনায্"  poslcat="NM">	
+14	যুক্ত	JJ	<fs af='যুক্ত,adj,,,,,,' name="যুক্ত">	
+15	হতে	VM	<fs af='হ,v,,,2,,ত,wa' name="হতে">	
+16	রাহুল	JJ	<fs af='রাহুল,unk,,,,,,' name="রাহুল"  poslcat="NM">	
+17	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	গতকাল	NN	<fs af='গতকাল,adj,,,,,,' name="গতকাল"  poslcat="NM">	
+2	বৃহস্পতিবার	NN	<fs af='বৃহস্পতিবার,n,,sg,,d,0,0' name="বৃহস্পতিবার">	
+3	কংগ্রেস	XC	<fs af='কংগ্রেস,n,,sg,,d,0,0' poslcat="NM">	
+4	সভানেত্রী	NN	<fs af='সভানেত্রী,unk,,,,,,' name="সভানেত্রী"  poslcat="NM">	
+5	সোনিযা	NN	<fs af='সোনিযা,unk,,,,,,' name="সোনিযা"  poslcat="NM">	
+6	গান্ধী	NNP	<fs af='গান্ধী,unk,,,,,,' name="গান্ধী"  poslcat="NM">	
+7	সাবেক	NN	<fs af='সাবেক,adj,,,,,,' name="সাবেক"  poslcat="NM">	
+8	প্রধানমন্ত্রী	NN	<fs af='প্রধানমন্ত্রী,n,,sg,,d,0,0' name="প্রধানমন্ত্রী">	
+9	মনমোহন	XC	<fs af='মনমোহন,adj,,,,,,' poslcat="NM">	
+10	সিংযের	NN	<fs af='সিংযের,unk,,,,,,' name="সিংযের"  poslcat="NM">	
+11	সরকারি	JJ	<fs af='সরকারি,adj,,,,,,'>	
+12	আবাসে	NN	<fs af='আবাস,n,,sg,,d,মে,me' name="আবাসে">	
+13	হেঁটে	VM	<fs af='হাঁট্,v,,,any,,ভে,Be' name="হেঁটে">	
+14	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	এ	DEM	<fs af='এ,pn,,sg,,d,0,0'>	
+2	সময্	NN	<fs af='সময্,unk,,,,,,' name="সময্"  poslcat="NM">	
+3	তাঁর	PRP	<fs af='তিনি,pn,,sg,,o,এর,era'>	
+4	সঙ্গে	NST	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">	
+5	ছিলেন	VM	<fs af='ছিল,v,,,2,,0,0' name="ছিলেন">	
+6	কংগ্রেসের	NNP	<fs af='কংগ্রেস,n,,sg,,o,এর,era' name="কংগ্রেসের">	
+7	শতাধিক	QF	<fs af='শতাধিক,adj,,,,,,' name="শতাধিক">	
+8	নেতা	NN	<fs af='নেতা,n,,sg,,d,0,0' name="নেতা">	
+9	ও	CC	<fs af='ও,avy,,,,,,' name="ও">	
+10	সাংসদ	NNP	<fs af='সাংসদ,unk,,,,,,' name="সাংসদ"  poslcat="NM">	
+11	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	কয্লা	NN	<fs af='কয্লা,unk,,,,,,' name="কয্লা"  poslcat="NM">	
+2	কেলেঙ্কারিতে	NN	<fs af='কেলেঙ্কারিতে,unk,,,,,,' name="কেলেঙ্কারিতে"  poslcat="NM">	
+3	সিবিআই	NN	<fs af='সিবিআই,unk,,,,,,' name="সিবিআই"  poslcat="NM">	
+4	বিচারপতির	NN	<fs af='বিচারপতির,unk,,,,,,' name="বিচারপতির"  poslcat="NM">	
+5	সমন	NN	<fs af='সমন,unk,,,,,,' name="সমন"  poslcat="NM">	
+6	গোটা	QF	<fs af='গোটা,adj,,,,,,'>	
+7	কংগ্রেস	XC	<fs af='কংগ্রেস,n,,sg,,d,0,0' poslcat="NM">	
+8	দল	NN	<fs af='দল,n,,sg,,d,0,0' name="দল">	
+9	যে	CC	<fs af='যে,avy,,,,,,' name="যে">	
+10	মনমোহন	XC	<fs af='মনমোহন,adj,,,,,,' poslcat="NM">	
+11	সিংযের	NN	<fs af='সিংযের,unk,,,,,,' poslcat="NM">	
+12	পাশে	NST	<fs af='পাশে,psp,,,,,,' name="পাশে"  poslcat="NM">	
+13	রযেছে	NN	<fs af='রযেছে,unk,,,,,,' name="রযেছে"  poslcat="NM">	
+14	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+15	তা	PRP	<fs af='যে,pn,,sg,,d,0,0' name="তা">	
+16	জানাতেই	NN	<fs af='জানা,n,,sg,,d,মে,me' name="জানাতেই">	
+17	সোনিযা	NN	<fs af='সোনিযা,unk,,,,,,' name="সোনিযা"  poslcat="NM">	
+18	এই	DEM	<fs af='এই,pn,,sg,,d,0,0'>	
+19	অভিনব	JJ	<fs af='অভিনব,adj,,,,,,'>	
+20	পদযাত্রা	NN	<fs af='পদযাত্রা,unk,,,,,,' name="পদযাত্রা"  poslcat="NM">	
+21	করেন	VM	<fs af='কর্,v,,,2,,নে,ne' name="করেন">	
+22	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	কিন্তু	CC	<fs af='কিন্তু,avy,,,,,,' name="কিন্তু">	
+2	কংগ্রেসের	NNP	<fs af='কংগ্রেস,n,,sg,,o,এর,era' name="কংগ্রেসের">	
+3	অন্যতম	JJ	<fs af='অন্যতম,adj,,,,,,'>	
+4	সদস্য	NN	<fs af='সদস্য,n,,sg,,d,0,0' name="সদস্য">	
+5	রাহুল	JJ	<fs af='রাহুল,unk,,,,,,' name="রাহুল"  poslcat="NM">	
+6	সেখানে	PRP	<fs af='সেখানে,pn,,,,d,মে,me' name="সেখানে">	
+7	যোগ	NN	<fs af='যোগ,n,,sg,,d,0,0' name="যোগ">	
+8	দিতে	VM	<fs af='দে,v,,,2,,ত,wa' name="দিতে">	
+9	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	ছুটিতে	NN	<fs af='ছুটি,n,,sg,,d,মে,me' name="ছুটিতে">	
+2	থাকায্	NN	<fs af='থাকায্,unk,,,,,,' name="থাকায্"  poslcat="NM">	
+3	পার্লামেন্টে	VM	<fs af='পার্লামেন্ট,n,,sg,,d,মে,me' name="পার্লামেন্টে"  poslcat="NM">	
+4	ভূমি	NN	<fs af='ভূমি,unk,,,,,,' name="ভূমি"  poslcat="NM">	
+5	অধিগ্রহণ	NN	<fs af='অধিগ্রহণ,n,,sg,,d,0,0' name="অধিগ্রহণ">	
+6	বিলের	NN	<fs af='বিল,n,,sg,,o,এর,era' name="বিলের">	
+7	আলোচনাতেও	NN	<fs af='আলোচনা,n,,sg,,d,মে,me' name="আলোচনাতেও">	
+8	অংশ	NN	<fs af='অংশ,n,,sg,,d,0,0' name="অংশ">	
+9	নিতে	VM	<fs af='নে,v,,,2,,ত,wa' name="নিতে">	
+10	রাহুল	JJ	<fs af='রাহুল,unk,,,,,,' name="রাহুল"  poslcat="NM">	
+11	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	গত	JJ	<fs af='গত,adj,,,,,,'>	
+2	মাসে	NNP	<fs af='মাস,n,,sg,,d,মে,me' name="মাসে">	
+3	যন্তর	NN	<fs af='যন্তর,unk,,,,,,' name="যন্তর"  poslcat="NM">	
+4	মন্তরে	NN	<fs af='মন্তরে,unk,,,,,,' name="মন্তরে"  poslcat="NM">	
+5	ভূমি	NN	<fs af='ভূমি,unk,,,,,,' name="ভূমি"  poslcat="NM">	
+6	বিলের	NN	<fs af='বিল,n,,sg,,o,এর,era' name="বিলের">	
+7	বিরোধিতা	NN	<fs af='বিরোধিতা,n,,sg,,d,0,0' name="বিরোধিতা">	
+8	করে	VM	<fs af='কর্,v,,,3,,নে,ne' name="করে">	
+9	যে	CC	<fs af='যে,avy,,,,,,' name="যে">	
+10	বিক্ষোভ	NN	<fs af='বিক্ষোভ,unk,,,,,,' name="বিক্ষোভ"  poslcat="NM">	
+11	হয্	VM	<fs af='হয্,unk,,,,,,' name="হয্"  poslcat="NM">	
+12	এতেও	NN	<fs af='এ,pn,,sg,,d,মে,me' name="এতেও"  poslcat="NM">	
+13	অংশ	NN	<fs af='অংশ,n,,sg,,d,0,0' name="অংশ">	
+14	নেননি	VM	<fs af='নে,v,,,3,,এনি,eni' name="নেননি">	
+15	রাহুল	JJ	<fs af='রাহুল,unk,,,,,,' name="রাহুল"  poslcat="NM">	
+16	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	গত	JJ	<fs af='গত,adj,,,,,,'>	
+2	23	QC	<fs af='23,num,,,,,,'>	
+3	ফেব্রুযারি	NN	<fs af='ফেব্রুযারি,unk,,,,,,' name="ফেব্রুযারি"  poslcat="NM">	
+4	শুরু	NN	<fs af='শুরু,n,,sg,,d,0,0' name="শুরু">	
+5	হওযা	NN	<fs af='হওযা,unk,,,,,,' name="হওযা"  poslcat="NM">	
+6	বাজেট	NN	<fs af='বাজেট,unk,,,,,,' name="বাজেট"  poslcat="NM">	
+7	অধিবেশনেও	NN	<fs af='অধিবেশন,n,,sg,,d,মে,me' name="অধিবেশনেও">	
+8	ছুটির	NN	<fs af='ছুটি,n,,sg,,o,এর,era' name="ছুটির">	
+9	কারণে	NN	<fs af='কারণ,n,,sg,,d,মে,me' name="কারণে">	
+10	অনুপস্থিত	NN	<fs af='অনুপস্থিত,adj,,,,,,' name="অনুপস্থিত"  poslcat="NM">	
+11	ছিলেন	VM	<fs af='ছিল,v,,,2,,0,0' name="ছিলেন">	
+12	তিনি	PRP	<fs af='তিনি,pn,,sg,,d,0,0'>	
+13	.	SYM	<fs af='.,punc,,,,,,' name=".">	
+
+1	সর্বশেষ	JJ	<fs af='সর্বশেষ,adj,,,,,,'>	
+2	গতকাল	NN	<fs af='গতকাল,adj,,,,,,' name="গতকাল"  poslcat="NM">	
+3	বৃহস্পতিবার	NN	<fs af='বৃহস্পতিবার,n,,sg,,d,0,0' name="বৃহস্পতিবার">	
+4	রাহুল	JJ	<fs af='রাহুল,unk,,,,,,' name="রাহুল"  poslcat="NM">	
+5	যখন	PRP	<fs af='যখন,pn,,,,d,0,0' name="যখন">	
+6	আবার	RB	<fs af='আবার,adv,,,,,,' name="আবার">	
+7	ছুটি	NN	<fs af='ছুটি,n,,sg,,d,0,0' name="ছুটি">	
+8	বাডানোর	VM	<fs af='বাডানোর,unk,,,,,,' name="বাডানোর"  poslcat="NM">	
+9	সিদ্ধান্ত	NN	<fs af='সিদ্ধান্ত,n,,sg,,d,0,0' name="সিদ্ধান্ত">	
+10	নিলেন	VAUX	<fs af='নে,v,,,2,,ল,la' poslcat="NM">	
+11	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+12	তখন	PRP	<fs af='তখন,pn,,,,d,0,0' name="তখন">	
+13	বিতর্ক	NN	<fs af='বিতর্ক,n,,sg,,d,0,0' name="বিতর্ক">	
+14	চরমে	NN	<fs af='চরমে,unk,,,,,,' name="চরমে"  poslcat="NM">	
+15	ওঠে	VAUX	<fs af='ওঠে,unk,,,,,,' name="ওঠে"  poslcat="NM">	
+16	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	দলের	NN	<fs af='দল,n,,sg,,o,এর,era' name="দলের">	
+2	বিভিন্ন	JJ	<fs af='বিভিন্ন,adj,,,,,,'>	
+3	সূত্র	NN	<fs af='সূত্র,n,,sg,,d,0,0' name="সূত্র">	
+4	বলছে	VM	<fs af='বল্,v,,,3,,ছে,Ce' name="বলছে">	
+5	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+6	তিনি	PRP	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">	
+7	এই	DEM	<fs af='এই,pn,,sg,,d,0,0'>	
+8	মাসের	NNP	<fs af='মাস,n,,sg,,o,এর,era' name="মাসের">	
+9	শেষে	NN	<fs af='শেষে,avy,,,,,,' name="শেষে"  poslcat="NM">	
+10	ফিরবেন	VM	<fs af='ফির্,v,,,2,,বে,be' name="ফিরবেন">	
+11	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	তবে	CC	<fs af='তবে,avy,,,,,,' name="তবে">	
+2	দলের	NN	<fs af='দল,n,,sg,,o,এর,era' name="দলের">	
+3	কযেকজন	NN	<fs af='কযেকজন,unk,,,,,,' poslcat="NM">	
+4	সদস্য	NN	<fs af='সদস্য,n,,sg,,d,0,0' name="সদস্য">	
+5	রাহুলের	NNP	<fs af='রাহুলের,unk,,,,,,' name="রাহুলের"  poslcat="NM">	
+6	ফেরার	VM	<fs af='ফেরার,adj,,,,,,' name="ফেরার"  poslcat="NM">	
+7	নির্দিষ্ট	JJ	<fs af='নির্দিষ্ট,adj,,,,,,'>	
+8	কোনো	QF	<fs af='কোনো,adj,,,,,,'>	
+9	তারিখ	NN	<fs af='তারিখ,n,,sg,,d,0,0' name="তারিখ">	
+10	জানাতে	VM	<fs af='জানা,v,,,2,,ত,wa' name="জানাতে">	
+11	নারাজ	NN	<fs af='নারাজ,adj,,,,,,' name="নারাজ"  poslcat="NM">	
+12	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	রাহুল	JJ	<fs af='রাহুল,unk,,,,,,' name="রাহুল"  poslcat="NM">	
+2	কবে	WQ	<fs af='কবে,WQ,,,,,,' poslcat="NM">	
+3	ফিরছেন	NN	<fs af='ফির্,v,,,2,,ছে,Ce' name="ফিরছেন"  poslcat="NM">	
+4	তা	PRP	<fs af='যে,pn,,sg,,d,0,0' name="তা">	
+5	নিযে	VM	<fs af='নিযে,unk,,,,,,' name="নিযে"  poslcat="NM">	
+6	কংগ্রেস	XC	<fs af='কংগ্রেস,n,,sg,,d,0,0' poslcat="NM">	
+7	দলের	NN	<fs af='দল,n,,sg,,o,এর,era' name="দলের">	
+8	সদস্যদের	NN	<fs af='সদস্যদের,unk,,,,,,' name="সদস্যদের"  poslcat="NM">	
+9	নানা	JJ	<fs af='নানা,adj,,,,,,' name="নানা">	
+10	মত	PSP	<fs af='মত,psp,,,,,,'>	
+11	চলছে	VM	<fs af='চল্,v,,,3,,ছে,Ce' name="চলছে">	
+12	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	দলের	NN	<fs af='দল,n,,sg,,o,এর,era' name="দলের">	
+2	জ্যেষ্ঠ	JJ	<fs af='জ্যেষ্ঠ,adj,,,,,,'>	
+3	এক	QC	<fs af='এক,adj,,,,,,'>	
+4	সদস্য	NN	<fs af='সদস্য,n,,sg,,d,0,0' name="সদস্য">	
+5	জানান	VM	<fs af='জানা,v,,,3,,ক,ka' name="জানান">	
+6	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+7	অল	JJ	<fs af='অল,unk,,,,,,' poslcat="NM">	
+8	ইন্ডিযা	NN	<fs af='ইন্ডিযা,unk,,,,,,' name="ইন্ডিযা"  poslcat="NM">	
+9	কংগ্রেস	XC	<fs af='কংগ্রেস,n,,sg,,d,0,0' poslcat="NM">	
+10	কমিটির	NN	<fs af='কমিটি,n,,sg,,o,এর,era' name="কমিটির">	
+11	অধিবেশন	NN	<fs af='অধিবেশন,n,,sg,,d,0,0' name="অধিবেশন">	
+12	কখন	WQ	<fs af='কখন,pn,,,,d,মে,me'>	
+13	হবে	VAUX	<fs af='হ,v,,,2,,বে,be' name="হবে"  poslcat="NM">	
+14	তা	PRP	<fs af='যে,pn,,sg,,d,0,0' name="তা">	
+15	রাহুলের	NNP	<fs af='রাহুলের,unk,,,,,,' name="রাহুলের"  poslcat="NM">	
+16	ফেরার	VM	<fs af='ফেরার,adj,,,,,,' name="ফেরার"  poslcat="NM">	
+17	ওপর	NST	<fs af='ওপর,adj,,,,,,' poslcat="NM">	
+18	অনেকটাই	PRP	<fs af='aneka,num,,,,,,' name="অনেকটাই"  poslcat="NM">	
+19	নির্ভর	NN	<fs af='নির্ভর,n,,sg,,d,0,0' name="নির্ভর">	
+20	করছে	VM	<fs af='কর্,v,,,3,,ছে,Ce' name="করছে">	
+21	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	রাহুলের	NNP	<fs af='রাহুলের,unk,,,,,,' name="রাহুলের"  poslcat="NM">	
+2	ফেরা	NN	<fs af='ফেরা,n,,sg,,d,0,0' name="ফেরা">	
+3	নিযে	VM	<fs af='নিযে,unk,,,,,,' name="নিযে"  poslcat="NM">	
+4	অনিশ্চয্তা	NN	<fs af='অনিশ্চয্তা,unk,,,,,,' name="অনিশ্চয্তা"  poslcat="NM">	
+5	তৈরি	NN	<fs af='তৈরি,adj,,,,,,' name="তৈরি_2"  poslcat="NM">	
+6	হওযায্	NN	<fs af='হওযায্,unk,,,,,,' name="হওযায্"  poslcat="NM">	
+7	ওই	DEM	<fs af='ও,pn,,sg,,d,0,0'>	
+8	অধিবেশন	NN	<fs af='অধিবেশন,n,,sg,,d,0,0' name="অধিবেশন">	
+9	নিযেও	JJ	<fs af='নিযেও,unk,,,,,,' poslcat="NM">	
+10	এক	QC	<fs af='এক,adj,,,,,,'>	
+11	ধরনের	NN	<fs af='ধরন,n,,sg,,o,এর,era' name="ধরনের">	
+12	অনিশ্চয্তা	VM	<fs af='অনিশ্চয্তা,unk,,,,,,' name="অনিশ্চয্তা"  poslcat="NM">	
+13	তৈরি	NN	<fs af='তৈরি,adj,,,,,,' name="তৈরি"  poslcat="NM">	
+14	হযেছে	NN	<fs af='হযেছে,unk,,,,,,' name="হযেছে"  poslcat="NM">	
+15	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	তবে	CC	<fs af='তবে,avy,,,,,,' name="তবে">	
+2	এ	DEM	<fs af='এ,pn,,sg,,d,0,0'>	
+3	ব্যাপারে	NN	<fs af='ব্যাপার,n,,sg,,d,মে,me' name="ব্যাপারে">	
+4	অল	JJ	<fs af='অল,unk,,,,,,' poslcat="NM">	
+5	ইন্ডিযা	NN	<fs af='ইন্ডিযা,unk,,,,,,' name="ইন্ডিযা"  poslcat="NM">	
+6	কংগ্রেস	XC	<fs af='কংগ্রেস,n,,sg,,d,0,0' poslcat="NM">	
+7	কমিটির	NN	<fs af='কমিটি,n,,sg,,o,এর,era' name="কমিটির">	
+8	প্রধান	JJ	<fs af='প্রধান,adj,,,,,,'>	
+9	মুখপাত্র	NN	<fs af='মুখপাত্র,n,,sg,,d,0,0' name="মুখপাত্র">	
+10	রণদীপ	NN	<fs af='রণদীপ,unk,,,,,,' name="রণদীপ"  poslcat="NM">	
+11	সারজেওযালা	NNP	<fs af='সারজেওযালা,unk,,,,,,' name="সারজেওযালা"  poslcat="NM">	
+12	বলেন	VM	<fs af='বল্,v,,,2,,নে,ne' name="বলেন">	
+13	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+14	গুজবকে	NN	<fs af='গুজবকে,unk,,,,,,' name="গুজবকে"  poslcat="NM">	
+15	গুরুত্ব	NN	<fs af='গুরুত্ব,n,,sg,,d,0,0' name="গুরুত্ব">	
+16	না	NEG	<fs af='না,avy,,,,,,' name="না">	
+17	দেওযার	NN	<fs af='দেওযার,unk,,,,,,' name="দেওযার"  poslcat="NM">	
+18	তাঁরা	PRP	<fs af='তিনি,pn,,pl,,d,0,0' name="তাঁরা">	
+19	গণমাধ্যমের	NN	<fs af='গণমাধ্যমের,unk,,,,,,' name="গণমাধ্যমের"  poslcat="NM">	
+20	আহ্বান	NN	<fs af='আহ্বান,n,,sg,,d,0,0' name="আহ্বান">	
+21	জানাচ্ছেন	VM	<fs af='জানা,v,,,2,,ছে,Ce' name="জানাচ্ছেন">	
+22	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	রাহুলের	NNP	<fs af='রাহুলের,unk,,,,,,' name="রাহুলের"  poslcat="NM">	
+2	ছুটি	NN	<fs af='ছুটি,n,,sg,,d,0,0' name="ছুটি">	
+3	নেওযা	VM	<fs af='নেওযা,unk,,,,,,' name="নেওযা"  poslcat="NM">	
+4	একেবারেই	RB	<fs af='একেবারে,adv,,,,,,' name="একেবারেই">	
+5	তাঁর	PRP	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">	
+6	ব্যক্তিগত	JJ	<fs af='ব্যক্তিগত,adj,,,,,,'>	
+7	সিদ্ধান্ত	NN	<fs af='সিদ্ধান্ত,n,,sg,,d,0,0' name="সিদ্ধান্ত">	
+8	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	এতে	PRP	<fs af='এ,pn,,sg,,d,মে,me' name="এতে">	
+2	দলের	NN	<fs af='দল,n,,sg,,o,এর,era'>	
+3	ওপর	NST	<fs af='ওপর,adj,,,,,,' name="ওপর"  poslcat="NM">	
+4	কোনো	QF	<fs af='কোনো,adj,,,,,,'>	
+5	প্রভাব	NN	<fs af='প্রভাব,n,,sg,,d,0,0' name="প্রভাব">	
+6	পড্ছে	VM	<fs af='পড্ছে,unk,,,,,,' name="পড্ছে"  poslcat="NM">	
+7	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	আগামী	JJ	<fs af='আগামী,adj,,,,,,'>	
+2	18	QC	<fs af='18,num,,,,,,'>	
+3	এপ্রিল	NNP	<fs af='এপ্রিল,n,,sg,,d,0,0'>	
+4	পশ্চিমবঙ্গের	NNP	<fs af='পশ্চিমবঙ্গ,n,,sg,,o,এর,era' name="পশ্চিমবঙ্গের">	
+5	কলকাতা	NNP	<fs af='কলকাতা,n,,sg,,d,0,0' name="কলকাতা">	
+6	পৌর	XC	<fs af='পৌর,n,,sg,,d,0,0' poslcat="NM">	
+7	করপোরেশনের	NN	<fs af='করপোরেশনের,unk,,,,,,' name="করপোরেশনের"  poslcat="NM">	
+8	নির্বাচন	NN	<fs af='নির্বাচন,n,,sg,,d,0,0' name="নির্বাচন">	
+9	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	রাজ্যের	NN	<fs af='রাজ্য,n,,sg,,o,এর,era' name="রাজ্যের">	
+2	92টি	QC	<fs af='92টি,unk,,,,,,' poslcat="NM">	
+3	পৌরসভার	NNP	<fs af='পৌরসভা,n,,sg,,o,এর,era' name="পৌরসভার">	
+4	নির্বাচন	NN	<fs af='নির্বাচন,n,,sg,,d,0,0' name="নির্বাচন">	
+5	হবে	VM	<fs af='হ,v,,,2,,বে,be' name="হবে">	
+6	25	QC	<fs af='25,num,,,,,,'>	
+7	এপ্রিল	NNP	<fs af='এপ্রিল,n,,sg,,d,0,0' name="এপ্রিল">	
+8	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	কলকাতা	NNP	<fs af='কলকাতা,n,,sg,,d,0,0' name="কলকাতা">	
+2	করপোরেশনের	NN	<fs af='করপোরেশনের,unk,,,,,,' name="করপোরেশনের"  poslcat="NM">	
+3	নির্বাচনে	NN	<fs af='নির্বাচন,n,,sg,,d,মে,me' name="নির্বাচনে">	
+4	ক্ষমতাসীন	JJ	<fs af='ক্ষমতাসীন,unk,,,,,,' poslcat="NM">	
+5	দল	NN	<fs af='দল,n,,sg,,d,0,0' name="দল">	
+6	তৃণমূল	NN	<fs af='তৃণমূল,unk,,,,,,' name="তৃণমূল"  poslcat="NM">	
+7	কংগ্রেস	XC	<fs af='কংগ্রেস,n,,sg,,d,0,0' name="কংগ্রেস"  poslcat="NM">	
+8	তাদের	PRP	<fs af='সে,pn,,pl,,o,এর,era' name="তাদের">	
+9	প্রার্থীদের	NN	<fs af='প্রার্থীদের,unk,,,,,,' name="প্রার্থীদের"  poslcat="NM">	
+10	নাম	NN	<fs af='নাম,n,,sg,,d,0,0' name="নাম">	
+11	ঘোষণা	NN	<fs af='ঘোষণা,unk,,,,,,' name="ঘোষণা"  poslcat="NM">	
+12	করেছে	VM	<fs af='কর্,v,,,3,,এছে,eCe' name="করেছে">	
+13	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	বিজেপি	NN	<fs af='বিজেপি,unk,,,,,,' name="বিজেপি"  poslcat="NM">	
+2	করবে	VM	<fs af='কর্,v,,,2,,বে,be' name="করবে">	
+3	কাল	NN	<fs af='কাল,n,,sg,,d,0,0' name="কাল">	
+4	শুক্রবার	VM	<fs af='শুক্রবার,adj,,,,,,' name="শুক্রবার"  poslcat="NM">	
+5	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	কলকাতা	NNP	<fs af='কলকাতা,n,,sg,,d,0,0' name="কলকাতা">	
+2	পৌর	XC	<fs af='পৌর,n,,sg,,d,0,0' poslcat="NM">	
+3	করপোরেশনের	NN	<fs af='করপোরেশনের,unk,,,,,,' name="করপোরেশনের"  poslcat="NM">	
+4	সর্বশেষ	JJ	<fs af='সর্বশেষ,adj,,,,,,' name="সর্বশেষ">	
+5	2010	QC	<fs af='2010,num,,,,,,'>	
+6	সালের	NNP	<fs af='সাল,n,,sg,,o,এর,era' name="সালের">	
+7	নির্বাচনে	NN	<fs af='নির্বাচন,n,,sg,,d,মে,me' name="নির্বাচনে">	
+8	141টি	NN	<fs af='141টি,unk,,,,,,' name="141টি"  poslcat="NM">	
+9	আসন	NN	<fs af='আসন,n,,sg,,d,0,0' name="আসন">	
+10	থাকলেও	VM	<fs af='থাক্,v,,,any,,লেও,leo' name="থাকলেও">	
+11	এবার	NN	<fs af='এবার,avy,,,,,,' name="এবার"  poslcat="NM">	
+12	তা	PRP	<fs af='যে,pn,,sg,,d,0,0' name="তা">	
+13	বেডে	VM	<fs af='বেডে,unk,,,,,,' name="বেডে"  poslcat="NM">	
+14	144টি	NN	<fs af='144টি,unk,,,,,,' name="144টি"  poslcat="NM">	
+15	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	ইতিমধ্যে	RB	<fs af='ইতিমধ্যে,adv,,,,,,' name="ইতিমধ্যে">	
+2	এই	DEM	<fs af='এই,pn,,sg,,d,0,0'>	
+3	নির্বাচনের	NN	<fs af='নির্বাচন,n,,sg,,o,এর,era' name="নির্বাচনের">	
+4	প্রচারকাজ	NN	<fs af='প্রচারকাজ,unk,,,,,,' name="প্রচারকাজ"  poslcat="NM">	
+5	শুরু	NN	<fs af='শুরু,n,,sg,,d,0,0' name="শুরু">	
+6	করেছেন	VM	<fs af='কর্,v,,,2,,এছে,eCe' name="করেছেন">	
+7	তৃণমূল	NN	<fs af='তৃণমূল,unk,,,,,,' name="তৃণমূল"  poslcat="NM">	
+8	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+9	বিজেপি	NN	<fs af='বিজেপি,unk,,,,,,' name="বিজেপি"  poslcat="NM">	
+10	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+11	বামফ্রন্ট	XC	<fs af='বামফ্রন্ট,unk,,,,,,' name="বামফ্রন্ট"  poslcat="NM">	
+12	ও	CC	<fs af='ও,avy,,,,,,' name="ও">	
+13	কংগ্রেসের	NNP	<fs af='কংগ্রেস,n,,sg,,o,এর,era' name="কংগ্রেসের">	
+14	প্রার্থীরা	NN	<fs af='প্রার্থীরা,unk,,,,,,' name="প্রার্থীরা"  poslcat="NM">	
+15	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	এবিপি	NN	<fs af='এবিপি,unk,,,,,,' poslcat="NM">	
+2	আনন্দ	NN	<fs af='আনন্দ,n,,sg,,d,0,0' name="আনন্দ">	
+3	-	SYM	<fs af='-,punc,,,,,,'>	
+4	নিযেলসনের	NNP	<fs af='নিযেলসনের,unk,,,,,,' name="নিযেলসনের"  poslcat="NM">	
+5	এক	QC	<fs af='এক,adj,,,,,,'>	
+6	সমীক্ষায্	NN	<fs af='সমীক্ষায্,unk,,,,,,' name="সমীক্ষায্"  poslcat="NM">	
+7	বলা	VM	<fs af='বলা,v,,,2,,ক,ka' name="বলা">	
+8	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+9	এবার	NN	<fs af='এবার,avy,,,,,,' name="এবার"  poslcat="NM">	
+10	পৌর	QC	<fs af='পৌর,n,,sg,,d,0,0' poslcat="NM">	
+11	করপোরেশনের	NN	<fs af='করপোরেশনের,unk,,,,,,' name="করপোরেশনের"  poslcat="NM">	
+12	নির্বাচনে	NN	<fs af='নির্বাচন,n,,sg,,d,মে,me' name="নির্বাচনে">	
+13	জযী	NN	<fs af='জযী,unk,,,,,,' name="জযী"  poslcat="NM">	
+14	হবে	VM	<fs af='হ,v,,,2,,বে,be' name="হবে">	
+15	তৃণমূল	NN	<fs af='তৃণমূল,unk,,,,,,' name="তৃণমূল"  poslcat="NM">	
+16	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	তাদের	PRP	<fs af='সে,pn,,pl,,o,এর,era' name="তাদের">	
+2	আসন	NN	<fs af='আসন,n,,sg,,d,0,0' name="আসন">	
+3	বাড্বে	VM	<fs af='বাড্বে,unk,,,,,,' name="বাড্বে"  poslcat="NM">	
+4	.	SYM	<fs af='.,punc,,,,,,'>	
+
+
+1	গতকাল	NN	<fs af='গতকাল,adj,,,,,,' name="গতকাল"  poslcat="NM">	
+2	বৃহস্পতিবার	NN	<fs af='বৃহস্পতিবার,n,,sg,,d,0,0' name="বৃহস্পতিবার">	
+3	এই	DEM	<fs af='এই,pn,,sg,,d,0,0' name="এই">	
+4	জনমত	RB	<fs af='জনমত,unk,,,,,,' name="জনমত"  poslcat="NM">	
+5	সমীক্ষার	NN	<fs af='সমীক্ষার,unk,,,,,,' name="সমীক্ষার"  poslcat="NM">	
+6	ফল	NN	<fs af='ফল,n,,sg,,d,0,0' name="ফল">	
+7	প্রকাশ	NN	<fs af='প্রকাশ,n,,sg,,d,0,0' name="প্রকাশ">	
+8	করা	VM	<fs af='করা,v,,,2,,ক,ka' name="করা">	
+9	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	এবিপি	NN	<fs af='এবিপি,unk,,,,,,' poslcat="NM">	
+2	আনন্দ	NN	<fs af='আনন্দ,n,,sg,,d,0,0' name="আনন্দ">	
+3	-	SYM	<fs af='-,punc,,,,,,'>	
+4	নিযেলসনের	NNP	<fs af='নিযেলসনের,unk,,,,,,' name="নিযেলসনের"  poslcat="NM">	
+5	এই	DEM	<fs af='এই,pn,,sg,,d,0,0' name="এই">	
+6	জনমত	RB	<fs af='জনমত,unk,,,,,,' name="জনমত"  poslcat="NM">	
+7	সমীক্ষা	NN	<fs af='সমীক্ষা,unk,,,,,,' poslcat="NM">	
+8	হযেছে	NN	<fs af='হযেছে,unk,,,,,,' name="হযেছে"  poslcat="NM">	
+9	70টি	QC	<fs af='70টি,unk,,,,,,' poslcat="NM">	
+10	ওযার্ডের	NNP	<fs af='ওযার্ডের,unk,,,,,,' name="ওযার্ডের"  poslcat="NM">	
+11	8	QC	<fs af='8,num,,,,,,'>	
+12	হাজার	QC	<fs af='হাজার,adj,,,,,,'>	
+13	532	QC	<fs af='532,num,,,,,,'>	
+14	জন	NN	<fs af='জন,adj,,,,,,' name="জন"  poslcat="NM">	
+15	ভোটারের	NN	<fs af='ভোটার,n,,sg,,o,এর,era'>	
+16	সঙ্গে	NST	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">	
+17	কথা	NN	<fs af='কথা,n,,sg,,d,0,0' name="কথা">	
+18	বলে	VM	<fs af='বল্,v,,,3,,নে,ne' name="বলে">	
+19	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	ভারতের	NNP	<fs af='ভারত,n,,sg,,o,এর,era' name="ভারতের">	
+2	সাবেক	NN	<fs af='সাবেক,adj,,,,,,' name="সাবেক"  poslcat="NM">	
+3	প্রধানমন্ত্রী	NN	<fs af='প্রধানমন্ত্রী,n,,sg,,d,0,0' name="প্রধানমন্ত্রী">	
+4	কংগ্রেস	XC	<fs af='কংগ্রেস,n,,sg,,d,0,0' poslcat="NM">	
+5	নেতা	NN	<fs af='নেতা,n,,sg,,d,0,0' name="নেতা">	
+6	মনমোহন	XC	<fs af='মনমোহন,adj,,,,,,' poslcat="NM">	
+7	সিংযের	NN	<fs af='সিংযের,unk,,,,,,' name="সিংযের"  poslcat="NM">	
+8	সংহতি	NN	<fs af='সংহতি,unk,,,,,,' name="সংহতি"  poslcat="NM">	
+9	জানাতে	VM	<fs af='জানা,v,,,2,,ত,wa' name="জানাতে">	
+10	হেঁটে	VM	<fs af='হাঁট্,v,,,any,,ভে,Be' name="হেঁটে">	
+11	তাঁর	PRP	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">	
+12	বাসভবনে	NNP	<fs af='বাসভবনে,unk,,,,,,' name="বাসভবনে"  poslcat="NM">	
+13	গেছেন	VAUX	<fs af='যা,v,,,2,,এছে,eCe' poslcat="NM">	
+14	দলীয্	NN	<fs af='দলীয্,unk,,,,,,' name="দলীয্"  poslcat="NM">	
+15	সভানেত্রী	NN	<fs af='সভানেত্রী,unk,,,,,,' name="সভানেত্রী"  poslcat="NM">	
+16	সোনিযা	NN	<fs af='সোনিযা,unk,,,,,,' name="সোনিযা"  poslcat="NM">	
+17	গান্ধী	NNP	<fs af='গান্ধী,unk,,,,,,' name="গান্ধী"  poslcat="NM">	
+18	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	এ	DEM	<fs af='এ,pn,,sg,,d,0,0'>	
+2	সময্	NN	<fs af='সময্,unk,,,,,,' name="সময্"  poslcat="NM">	
+3	তাঁর	PRP	<fs af='তিনি,pn,,sg,,o,এর,era'>	
+4	সঙ্গে	NST	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">	
+5	ছিলেন	VM	<fs af='ছিল,v,,,2,,0,0' name="ছিলেন">	
+6	দলের	NN	<fs af='দল,n,,sg,,o,এর,era' name="দলের">	
+7	শতাধিক	QF	<fs af='শতাধিক,adj,,,,,,'>	
+8	নেতা	NN	<fs af='নেতা,n,,sg,,d,0,0' name="নেতা">	
+9	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	এনডিটিভি	NN	<fs af='এনডিটিভি,unk,,,,,,' name="এনডিটিভি"  poslcat="NM">	
+2	অনলাইনের	NN	<fs af='অনলাইন,n,,sg,,o,এর,era' name="অনলাইনের">	
+3	প্রতিবেদনে	NN	<fs af='প্রতিবেদন,n,,sg,,d,মে,me' name="প্রতিবেদনে">	
+4	জানানো	VM	<fs af='জানা,v,,,any,,আ,A' name="জানানো">	
+5	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+6	আলোচিত	JJ	<fs af='আলোচিত,adj,,,,,,'>	
+7	কয্লা	NN	<fs af='কয্লা,unk,,,,,,' name="কয্লা"  poslcat="NM">	
+8	কেলেঙ্কারি	VM	<fs af='কেলেঙ্কারি,unk,,,,,,' name="কেলেঙ্কারি"  poslcat="NM">	
+9	মনমোহনকে	NN	<fs af='মনমোহনকে,unk,,,,,,' name="মনমোহনকে"  poslcat="NM">	
+10	কেন্দ্রীয্	NN	<fs af='কেন্দ্রীয্,unk,,,,,,' name="কেন্দ্রীয্"  poslcat="NM">	
+11	তদন্ত	JJ	<fs af='তদন্ত,n,,sg,,d,0,0' poslcat="NM">	
+12	সংস্থার	NN	<fs af='সংস্থা,n,,sg,,o,এর,era' name="সংস্থার">	
+13		SYM	<fs af='(,punc,,,,,,'>	
+14	সিবিআই	NN	<fs af='সিবিআই,unk,,,,,,' name="সিবিআই"  poslcat="NM">	
+15		SYM	<fs af='),punc,,,,,,'>	
+16	বিশেষ	JJ	<fs af='বিশেষ,adj,,,,,,'>	
+17	আদালতে	NN	<fs af='আদালত,n,,sg,,d,মে,me' name="আদালতে">	
+18	তলবের	NN	<fs af='তলব,n,,sg,,o,এর,era' name="তলবের">	
+19	একদিন	NN	<fs af='একদিন,n,,sg,,d,0,0'>	
+20	পর	NST	<fs af='পর,adj,,,,,,' name="পর"  poslcat="NM">	
+21	আজ	NN	<fs af='আজ,adv,,,,,,' name="আজ"  poslcat="NM">	
+22	বৃহস্পতিবার	NN	<fs af='বৃহস্পতিবার,n,,sg,,d,0,0' name="বৃহস্পতিবার">	
+23	সকালে	NN	<fs af='সকাল,n,,sg,,d,মে,me' name="সকালে">	
+24	এই	DEM	<fs af='এই,pn,,sg,,d,0,0'>	
+25	সংহতি	NN	<fs af='সংহতি,unk,,,,,,' name="সংহতি"  poslcat="NM">	
+26	পদযাত্রা	NN	<fs af='পদযাত্রা,unk,,,,,,' name="পদযাত্রা"  poslcat="NM">	
+27	করেন	VM	<fs af='কর্,v,,,2,,নে,ne' name="করেন">	
+28	কংগ্রেসের	NNP	<fs af='কংগ্রেস,n,,sg,,o,এর,era' name="কংগ্রেসের">	
+29	শীর্ষ	NN	<fs af='শীর্ষ,unk,,,,,,' name="শীর্ষ"  poslcat="NM">	
+30	নেতারা	NN	<fs af='নেতা,n,,pl,,d,0,0' name="নেতারা">	
+31	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	সিবিআইযের	NN	<fs af='সিবিআইযের,unk,,,,,,' name="সিবিআইযের"  poslcat="NM">	
+2	বিশেষ	JJ	<fs af='বিশেষ,adj,,,,,,'>	
+3	আদালত	NN	<fs af='আদালত,n,,sg,,d,0,0' name="আদালত">	
+4	গতকাল	NN	<fs af='গতকাল,adj,,,,,,' name="গতকাল"  poslcat="NM">	
+5	বুধবার	NN	<fs af='বুধবার,n,,sg,,d,0,0' name="বুধবার">	
+6	মনমোহনকে	NN	<fs af='মনমোহনকে,unk,,,,,,' name="মনমোহনকে"  poslcat="NM">	
+7	তলব	NN	<fs af='তলব,n,,sg,,d,0,0' name="তলব">	
+8	করেন	VM	<fs af='কর্,v,,,2,,নে,ne' name="করেন">	
+9	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	একটি	QC	<fs af='একটি,adj,,,,,,'>	
+2	প্রতিষ্ঠানকে	NN	<fs af='প্রতিষ্ঠান,n,,sg,,d,কে,ke' name="প্রতিষ্ঠানকে">	
+3	বিশেষ	JJ	<fs af='বিশেষ,adj,,,,,,'>	
+4	সুবিধা	NN	<fs af='সুবিধা,n,,sg,,d,0,0' name="সুবিধা">	
+5	পাইযে	VM	<fs af='পাইযে,unk,,,,,,' name="পাইযে"  poslcat="NM">	
+6	দেওযায্	NN	<fs af='দেওযায্,unk,,,,,,' name="দেওযায্"  poslcat="NM">	
+7	অভিযুক্ত	JJ	<fs af='অভিযুক্ত,adj,,,,,,' name="অভিযুক্ত">	
+8	হিসেবে	PSP	<fs af='হিসেবে,psp,,,,,,'>	
+9	তাঁকে	PRP	<fs af='তিনি,pn,,sg,,d,কে,ke' name="তাঁকে">	
+10	8	QC	<fs af='8,num,,,,,,'>	
+11	এপ্রিলের	NN	<fs af='এপ্রিল,n,,sg,,o,এর,era'>	
+12	মধ্যে	NST	<fs af='মধ্যে,psp,,,,,,' name="মধ্যে"  poslcat="NM">	
+13	আদালতে	NN	<fs af='আদালত,n,,sg,,d,মে,me' name="আদালতে">	
+14	হাজির	NN	<fs af='হাজির,adj,,,,,,' name="হাজির"  poslcat="NM">	
+15	হওযার	VM	<fs af='হওযার,unk,,,,,,' name="হওযার"  poslcat="NM">	
+16	নির্দেশ	NN	<fs af='নির্দেশ,n,,sg,,d,0,0' name="নির্দেশ">	
+17	দেওযা	VM	<fs af='দেওযা,unk,,,,,,' name="দেওযা"  poslcat="NM">	
+18	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	তাঁর	PRP	<fs af='তিনি,pn,,sg,,o,এর,era'>	
+2	সঙ্গে	NST	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">	
+3	আরও	QF	<fs af='আরও,adj,,,,,,' name="আরও">	
+4	ডাকা	VM	<fs af='ডাকা,v,,,2,,ক,ka' name="ডাকা">	
+5	শিল্পপতি	NN	<fs af='শিল্পপতি,unk,,,,,,' name="শিল্পপতি"  poslcat="NM">	
+6	কুমার	XC	<fs af='কুমার,n,,sg,,d,0,0' poslcat="NM">	
+7	মঙ্গলম	NN	<fs af='মঙ্গলম,unk,,,,,,' name="মঙ্গলম"  poslcat="NM">	
+8	বিড্লা	NN	<fs af='বিড্লা,unk,,,,,,' name="বিড্লা"  poslcat="NM">	
+9	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+10	সাবেক	NN	<fs af='সাবেক,adj,,,,,,' name="সাবেক"  poslcat="NM">	
+11	কয্লাসচিব	NN	<fs af='কয্লাসচিব,unk,,,,,,' name="কয্লাসচিব"  poslcat="NM">	
+12	পিসি	NN	<fs af='পিসি,n,,sg,,d,0,0' name="পিসি">	
+13	পারেখ	VM	<fs af='পারেখ,unk,,,,,,' name="পারেখ"  poslcat="NM">	
+14	ও	CC	<fs af='ও,avy,,,,,,' name="ও">	
+15	হিন্ডালকোর	NN	<fs af='হিন্ডালকোর,unk,,,,,,' name="হিন্ডালকোর"  poslcat="NM">	
+16	তিন	QC	<fs af='তিন,adj,,,,,,'>	
+17	শীর্ষ	NN	<fs af='শীর্ষ,unk,,,,,,' name="শীর্ষ"  poslcat="NM">	
+18	কর্মকর্তাকে	NN	<fs af='কর্মকর্তাকে,unk,,,,,,' name="কর্মকর্তাকে"  poslcat="NM">	
+19	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	সাবেক	NN	<fs af='সাবেক,adj,,,,,,' name="সাবেক"  poslcat="NM">	
+2	প্রধানমন্ত্রীর	NN	<fs af='প্রধানমন্ত্রী,n,,sg,,o,এর,era' name="প্রধানমন্ত্রীর">	
+3	সংহতি	NN	<fs af='সংহতি,unk,,,,,,' name="সংহতি"  poslcat="NM">	
+4	জানানোর	VM	<fs af='জানা,n,,,any,,র,ra' name="জানানোর"  poslcat="NM">	
+5	উদ্দেশে	NN	<fs af='উদ্দেশ,n,,sg,,d,মে,me' name="উদ্দেশে">	
+6	আজ	NN	<fs af='আজ,adv,,,,,,' name="আজ"  poslcat="NM">	
+7	সকালে	NN	<fs af='সকাল,n,,sg,,d,মে,me' name="সকালে">	
+8	রাজধানীতে	NN	<fs af='রাজধানী,n,,sg,,d,মে,me' name="রাজধানীতে">	
+9	দলের	NN	<fs af='দল,n,,sg,,o,এর,era' name="দলের_2">	
+10	কেন্দ্রীয্	NN	<fs af='কেন্দ্রীয্,unk,,,,,,' name="কেন্দ্রীয্"  poslcat="NM">	
+11	কার্যালযে	NN	<fs af='কার্যালযে,unk,,,,,,' name="কার্যালযে"  poslcat="NM">	
+12	জডো	JJ	<fs af='জডো,unk,,,,,,' name="জডো"  poslcat="NM">	
+13	হন	VM	<fs af='হ,v,,,3,,ক,ka' name="হন">	
+14	দলের	NN	<fs af='দল,n,,sg,,o,এর,era' name="দলের">	
+15	শতাধিক	QF	<fs af='শতাধিক,adj,,,,,,'>	
+16	শীর্ষস্থানীয্	JJ	<fs af='শীর্ষস্থানীয্,unk,,,,,,' poslcat="NM">	
+17	নেতা	NN	<fs af='নেতা,n,,sg,,d,0,0' name="নেতা">	
+18	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	পরে	NST	<fs af='পরে,adj,,,,,,' name="পরে"  poslcat="NM">	
+2	সেখান	PRP	<fs af='এখান,pn,,,,d,মে,me' name="সেখান">	
+3	তাঁরা	PRP	<fs af='তিনি,pn,,pl,,d,0,0' name="তাঁরা">	
+4	সোনিযা	NN	<fs af='সোনিযা,unk,,,,,,' name="সোনিযা"  poslcat="NM">	
+5	গান্ধীর	NNP	<fs af='গান্ধীর,unk,,,,,,' name="গান্ধীর"  poslcat="NM">	
+6	নেতৃত্বে	NN	<fs af='নেতৃত্ব,n,,sg,,d,মে,me' name="নেতৃত্বে">	
+7	মনমোহন	XC	<fs af='মনমোহন,adj,,,,,,' poslcat="NM">	
+8	সিংযের	NN	<fs af='সিংযের,unk,,,,,,' name="সিংযের"  poslcat="NM">	
+9	বাডির	NN	<fs af='বাডির,unk,,,,,,' name="বাডির"  poslcat="NM">	
+10	পদযাত্রা	NN	<fs af='পদযাত্রা,unk,,,,,,' name="পদযাত্রা"  poslcat="NM">	
+11	করেন	VM	<fs af='কর্,v,,,2,,নে,ne' name="করেন">	
+12	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	প্রায্	NN	<fs af='প্রায্,unk,,,,,,' poslcat="NM">	
+2	আধা	NN	<fs af='আধা,n,,sg,,d,0,0' name="আধা">	
+3	কিলোমিটার	NN	<fs af='কিলোমিটার,n,,sg,,d,0,0' name="কিলোমিটার">	
+4	পথ	NN	<fs af='পথ,n,,sg,,d,0,0' name="পথ">	
+5	হেঁটে	VM	<fs af='হাঁট্,v,,,any,,ভে,Be' name="হেঁটে">	
+6	তাঁরা	PRP	<fs af='তিনি,pn,,pl,,d,0,0' name="তাঁরা">	
+7	গন্তব্যে	NN	<fs af='গন্তব্য,n,,sg,,d,মে,me' name="গন্তব্যে">	
+8	পৌঁছান	NN	<fs af='পৌঁছান,n,,sg,,d,0,0' name="পৌঁছান">	
+9	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	মনমোহন	XC	<fs af='মনমোহন,adj,,,,,,' name="মনমোহন"  poslcat="NM">	
+2	ও	CC	<fs af='ও,avy,,,,,,' name="ও">	
+3	তাঁর	PRP	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">	
+4	স্ত্রী	NN	<fs af='স্ত্রী,n,,sg,,d,0,0' name="স্ত্রী">	
+5	হাসিমুখে	RB	<fs af='হাসিমুখে,adv,,,,,,' name="হাসিমুখে">	
+6	কংগ্রেসের	NNP	<fs af='কংগ্রেস,n,,sg,,o,এর,era' name="কংগ্রেসের">	
+7	নেতাদের	NN	<fs af='নেতা,n,,pl,,o,এর,era' name="নেতাদের">	
+8	অভিবাদন	NN	<fs af='অভিবাদন,n,,sg,,d,0,0' name="অভিবাদন">	
+9	জানান	VM	<fs af='জানা,v,,,3,,ক,ka' name="জানান">	
+10	.	SYM	<fs af='.,punc,,,,,,'>	
+
+
+1	তাঁর	PRP	<fs af='তিনি,pn,,sg,,o,এর,era' name="তাঁর">	
+2	আমাদের	PRP	<fs af='আমি,pn,,pl,,o,এর,era' name="আমাদের">	
+3	অকুণ্ঠ	JJ	<fs af='অকুণ্ঠ,adj,,,,,,'>	
+4	সমর্থন	NN	<fs af='সমর্থন,n,,sg,,d,0,0' name="সমর্থন">	
+5	ও	CC	<fs af='ও,avy,,,,,,' name="ও">	
+6	সংহতি	NN	<fs af='সংহতি,unk,,,,,,' name="সংহতি"  poslcat="NM">	
+7	জানাতে	VM	<fs af='জানা,v,,,2,,ত,wa' name="জানাতে">	
+8	আমরা	PRP	<fs af='আমি,pn,,pl,,d,0,0' name="আমরা">	
+9	এখানে	PRP	<fs af='এখানে,unk,,,,,,' poslcat="NM">	
+10	এসেছি	VAUX	<fs af='আস্,v,,,1,,এছে,eCe' poslcat="NM">	
+11	.	SYM	<fs af='.,punc,,,,,,' name=".">	
+
+1	কংগ্রেস	XC	<fs af='কংগ্রেস,n,,sg,,d,0,0' poslcat="NM">	
+2	দল	NN	<fs af='দল,n,,sg,,d,0,0' name="দল">	
+3	তাঁর	PRP	<fs af='তিনি,pn,,sg,,o,এর,era'>	
+4	পেছনে	NST	<fs af='পেছন,n,,sg,,d,মে,me' name="পেছনে"  poslcat="NM">	
+5	পুরোপুরিভাবে	NN	<fs af='পুরোপুরি,adv,,,,,,' name="পুরোপুরিভাবে"  poslcat="NM">	
+6	আছে	VM	<fs af='আছ,v,,,3,,নে,ne' name="আছে">	
+7	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	শুধু	RB	<fs af='শুধু,adv,,,,,,' name="শুধু">	
+2	আইন	NNP	<fs af='আইন,n,,sg,,d,0,0' name="আইন">	
+3	নয্	VM	<fs af='নয্,unk,,,,,,' name="নয্"  poslcat="NM">	
+4	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+5	অন্য	JJ	<fs af='অন্য,adj,,,,,,'>	
+6	সব	QF	<fs af='সব,adj,,,,,,'>	
+7	উপাযে	NN	<fs af='উপাযে,unk,,,,,,' name="উপাযে"  poslcat="NM">	
+8	আমরা	PRP	<fs af='আমি,pn,,pl,,d,0,0' name="আমরা">	
+9	এ	DEM	<fs af='এ,pn,,sg,,d,0,0'>	
+10	ব্যাপারে	NN	<fs af='ব্যাপার,n,,sg,,d,মে,me' name="ব্যাপারে">	
+11	লড্ব	NN	<fs af='লড্ব,unk,,,,,,' name="লড্ব"  poslcat="NM">	
+12	.	SYM	<fs af='.,punc,,,,,,'>	
+13	ৈ	RB	<fs af='.,punc,,,,,,' name="ৈ"  poslcat="NM">	
+14	মনমোহন	XC	<fs af='মনমোহন,adj,,,,,,' poslcat="NM">	
+15	সিং	NNP	<fs af='সিং,unk,,,,,,' name="সিং"  poslcat="NM">	
+16	নির্দোষ	NN	<fs af='নির্দোষ,adj,,,,,,' name="নির্দোষ"  poslcat="NM">	
+17	প্রমাণিত	JJ	<fs af='প্রমাণিত,adj,,,,,,' name="প্রমাণিত">	
+18	হবেন	VM	<fs af='হ,v,,,2,,বে,be' name="হবেন">	
+19	বলেও	UT	<fs af='বল্,v,,,3,,সও,sao' name="বলেও"  poslcat="NM">	
+20	দৃঢ্তার	NN	<fs af='দৃঢ্তার,unk,,,,,,' poslcat="NM">	
+21	সঙ্গে	NST	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">	
+22	উল্লেখ	NN	<fs af='উল্লেখ,n,,sg,,d,0,0' name="উল্লেখ">	
+23	করেন	VM	<fs af='কর্,v,,,2,,নে,ne' name="করেন">	
+24	সোনিযা	NN	<fs af='সোনিযা,unk,,,,,,' name="সোনিযা"  poslcat="NM">	
+25	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	পরে	NST	<fs af='পরে,adj,,,,,,' name="পরে"  poslcat="NM">	
+2	এনডিটিভিকে	NN	<fs af='এনডিটিভিকে,unk,,,,,,' name="এনডিটিভিকে"  poslcat="NM">	
+3	মনমোহন	XC	<fs af='মনমোহন,adj,,,,,,' poslcat="NM">	
+4	সিং	NNP	<fs af='সিং,unk,,,,,,' name="সিং"  poslcat="NM">	
+5	বলেন	VM	<fs af='বল্,v,,,2,,নে,ne' name="বলেন">	
+6	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+7	দলের	NN	<fs af='দল,n,,sg,,o,এর,era' name="দলের">	
+8	শীর্ষ	NN	<fs af='শীর্ষ,unk,,,,,,' name="শীর্ষ"  poslcat="NM">	
+9	নেতারা	NN	<fs af='নেতা,n,,pl,,d,0,0' name="নেতারা">	
+10	তাঁর	PRP	<fs af='তিনি,pn,,sg,,o,এর,era'>	
+11	সঙ্গে	NST	<fs af='সঙ্গে,psp,,,,,,' name="সঙ্গে"  poslcat="NM">	
+12	দেখা	VM	<fs af='দেখা,v,,,2,,ক,ka' name="দেখা">	
+13	করতে	VM	<fs af='কর্,v,,,2,,ত,wa'>	
+14	তিনি	PRP	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">	
+15	কৃতজ্ঞ	JJ	<fs af='কৃতজ্ঞ,adj,,,,,,' name="কৃতজ্ঞ">	
+16	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	তিনি	PRP	<fs af='তিনি,pn,,sg,,d,0,0' name="তিনি">	
+2	অনেক	QF	<fs af='অনেক,adj,,,,,,'>	
+3	খুশি	JJ	<fs af='খুশি,adj,,,,,,' name="খুশি">	
+4	.	SYM	<fs af='.,punc,,,,,,'>	
+
+
+1	ওডিশার	NNP	<fs af='ওডিশার,unk,,,,,,' poslcat="NM">	
+2	তালাবিডা	NNP	<fs af='তালাবিডা,unk,,,,,,' name="তালাবিডা"  poslcat="NM">	
+3	-	SYM	<fs af='-,punc,,,,,,'>	
+4	2	QC	<fs af='2,num,,,,,,'>	
+5	কয্লা	NN	<fs af='কয্লা,unk,,,,,,' name="কয্লা"  poslcat="NM">	
+6	ব্লক	NNP	<fs af='ব্লক,n,,sg,,d,0,0'>	
+7	আদিত্য	NNP	<fs af='আদিত্য,n,,sg,,d,0,0' name="আদিত্য">	
+8	বিড্লা	NN	<fs af='বিড্লা,unk,,,,,,' name="বিড্লা"  poslcat="NM">	
+9	গোষ্ঠীর	NN	<fs af='গোষ্ঠী,n,,sg,,o,এর,era' name="গোষ্ঠীর">	
+10	প্রতিষ্ঠান	NN	<fs af='প্রতিষ্ঠান,n,,sg,,d,0,0' name="প্রতিষ্ঠান">	
+11	হিন্ডালকোকে	NN	<fs af='হিন্ডালকোকে,unk,,,,,,' name="হিন্ডালকোকে"  poslcat="NM">	
+12	দেওযা	VM	<fs af='দেওযা,unk,,,,,,' name="দেওযা"  poslcat="NM">	
+13	2005	QC	<fs af='2005,num,,,,,,'>	
+14	সালে	NNP	<fs af='সাল,n,,sg,,d,মে,me' name="সালে">	
+15	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	অভিযোগ	NN	<fs af='অভিযোগ,n,,sg,,d,0,0' name="অভিযোগ">	
+2	,	SYM	<fs af=',,punc,,,,,' poslcat="NM">	
+3	এই	DEM	<fs af='এই,pn,,sg,,d,0,0'>	
+4	কাজটি	NN	<fs af='কাজ,n,,sg,,d,0,0' name="কাজটি">	
+5	অনিয্মের	NN	<fs af='অনিয্মের,unk,,,,,,' name="অনিয্মের"  poslcat="NM">	
+6	করা	VM	<fs af='করা,v,,,2,,ক,ka' name="করা">	
+7	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	তখন	PRP	<fs af='তখন,pn,,,,d,0,0' name="তখন">	
+2	কয্লা	NN	<fs af='কয্লা,unk,,,,,,' name="কয্লা"  poslcat="NM">	
+3	মন্ত্রণালযের	NN	<fs af='মন্ত্রণালযের,unk,,,,,,' name="মন্ত্রণালযের"  poslcat="NM">	
+4	দাযিত্ব	NN	<fs af='দাযিত্ব,unk,,,,,,' name="দাযিত্ব"  poslcat="NM">	
+5	ছিল	VM	<fs af='ছিল,v,,,3,,0,0' name="ছিল">	
+6	মনমোহন	XC	<fs af='মনমোহন,adj,,,,,,' poslcat="NM">	
+7	সিংযের	NN	<fs af='সিংযের,unk,,,,,,' name="সিংযের"  poslcat="NM">	
+8	নিজের	PRP	<fs af='নিজ,pn,,pl,,o,এর,era' name="নিজের">	
+9	হাতে	NN	<fs af='হাত,n,,sg,,d,মে,me' name="হাতে">	
+10	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	টেন্ডার	NN	<fs af='টেন্ডার,unk,,,,,,' name="টেন্ডার"  poslcat="NM">	
+2	খনি	PRP	<fs af='খনি,unk,,,,,,' name="খনি"  poslcat="NM">	
+3	বরাদ্দে	NN	<fs af='বরাদ্দে,unk,,,,,,' name="বরাদ্দে"  poslcat="NM">	
+4	সরকারের	NN	<fs af='সরকার,n,,sg,,o,এর,era' name="সরকারের">	
+5	প্রভূত	JJ	<fs af='প্রভূত,adj,,,,,,'>	
+6	আর্থিক	JJ	<fs af='আর্থিক,adj,,,,,,'>	
+7	ক্ষতি	NN	<fs af='ক্ষতি,n,,sg,,d,0,0' name="ক্ষতি">	
+8	হয্	VM	<fs af='হয্,unk,,,,,,' name="হয্"  poslcat="NM">	
+9	বলে	VM	<fs af='বল্,v,,,3,,নে,ne' name="বলে">	
+10	মহাহিসাব	NN	<fs af='মহাহিসাব,unk,,,,,,' name="মহাহিসাব"  poslcat="NM">	
+11	নিরীক্ষকের	VM	<fs af='নিরীক্ষক,n,,sg,,o,এর,era' name="নিরীক্ষকের"  poslcat="NM">	
+12	কার্যালয্	XC	<fs af='কার্যালয্,unk,,,,,,' name="কার্যালয্"  poslcat="NM">	
+13		SYM	<fs af='(,punc,,,,,,'>	
+14	সিএজি	NN	<fs af='সিএজি,unk,,,,,,' name="সিএজি"  poslcat="NM">	
+15		SYM	<fs af='),punc,,,,,,'>	
+16	প্রতিবেদন	NN	<fs af='প্রতিবেদন,n,,sg,,d,0,0' name="প্রতিবেদন">	
+17	দেয্	VM	<fs af='দেয্,unk,,,,,,' name="দেয্"  poslcat="NM">	
+18	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	বিষয্টি	NN	<fs af='বিষয্টি,unk,,,,,,' name="বিষয্টি"  poslcat="NM">	
+2	বিচারাধীন	JJ	<fs af='বিচারাধীন,adj,,,,,,'>	
+3	হযে	NN	<fs af='হযে,unk,,,,,,' name="হযে"  poslcat="NM">	
+4	যাওযায্	NN	<fs af='যাওযায্,unk,,,,,,' name="যাওযায্"  poslcat="NM">	
+5	শেষ	NN	<fs af='শেষ,adj,,,,,,' name="শেষ"  poslcat="NM">	
+6	সুপ্রিম	JJ	<fs af='সুপ্রিম,unk,,,,,,' poslcat="NM">	
+7	কোর্ট	NN	<fs af='কোর্ট,unk,,,,,,' name="কোর্ট"  poslcat="NM">	
+8	সমস্ত	QF	<fs af='সমস্ত,adj,,,,,,'>	
+9	বণ্টন	NN	<fs af='বণ্টন,unk,,,,,,' name="বণ্টন"  poslcat="NM">	
+10	বাতিল	NN	<fs af='বাতিল,adj,,,,,,' name="বাতিল"  poslcat="NM">	
+11	করে	VM	<fs af='কর্,v,,,3,,নে,ne' name="করে">	
+12	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	ভারতের	NNP	<fs af='ভারত,n,,sg,,o,এর,era' name="ভারতের">	
+2	আইনপ্রণেতারা	NN	<fs af='আইনপ্রণেতারা,unk,,,,,,' name="আইনপ্রণেতারা"  poslcat="NM">	
+3	গতকাল	NN	<fs af='গতকাল,adj,,,,,,' name="গতকাল"  poslcat="NM">	
+4	বৃহস্পতিবার	NN	<fs af='বৃহস্পতিবার,n,,sg,,d,0,0' name="বৃহস্পতিবার">	
+5	দেশটির	NN	<fs af='দেশ,n,,sg,,o,এর,era' name="দেশটির">	
+6	বিমা	NN	<fs af='বিমা,n,,sg,,d,0,0' name="বিমা">	
+7	খাতে	NN	<fs af='খাতে,unk,,,,,,' name="খাতে"  poslcat="NM">	
+8	বিদেশি	NN	<fs af='বিদেশি,adj,,,,,,' name="বিদেশি"  poslcat="NM">	
+9	বিনিযোগের	NN	<fs af='বিনিযোগের,unk,,,,,,' name="বিনিযোগের"  poslcat="NM">	
+10	পথ	NN	<fs af='পথ,n,,sg,,d,0,0' name="পথ">	
+11	উন্মুক্ত	JJ	<fs af='উন্মুক্ত,adj,,,,,,' name="উন্মুক্ত">	
+12	করে	VM	<fs af='কর্,v,,,3,,নে,ne' name="করে">	
+13	বহুল	INTF	<fs af='বহুল,adj,,,,,,' poslcat="NM">	
+14	প্রত্যাশিত	JJ	<fs af='প্রত্যাশিত,adj,,,,,,'>	
+15	আইনটি	NN	<fs af='আইন,n,,sg,,d,0,0' name="আইনটি">	
+16	পাস	NN	<fs af='পাস,n,,sg,,d,0,0' name="পাস">	
+17	করেছেন	VM	<fs af='কর্,v,,,2,,এছে,eCe' name="করেছেন">	
+18	.	SYM	<fs af='.,punc,,,,,,'>	
+
+1	ব্যবসাবান্ধব	NN	<fs af='ব্যবসাবান্ধব,unk,,,,,,' name="ব্যবসাবান্ধব"  poslcat="NM">	
+2	পরিচিত	JJ	<fs af='পরিচিত,adj,,,,,,'>	
+3	প্রধানমন্ত্রী	NN	<fs af='প্রধানমন্ত্রী,n,,sg,,d,0,0' name="প্রধানমন্ত্রী">	
+4	নরেন্দ্র	NNP	<fs af='নরেন্দ্র,unk,,,,,,' name="নরেন্দ্র"  poslcat="NM">	
+5	মোদি	NN	<fs af='মোদি,unk,,,,,,' poslcat="NM">	
+6	সরকারের	NN	<fs af='সরকার,n,,sg,,o,এর,era' name="সরকারের">	
+7	প্রথম	QO	<fs af='প্রথম,adj,,,,,,'>	
+8	বড্	JJ	<fs af='বড্,unk,,,,,,' poslcat="NM">	
+9	ধরনের	NN	<fs af='ধরন,n,,sg,,o,এর,era' name="ধরনের">	
+10	অর্থনৈতিক	JJ	<fs af='অর্থনৈতিক,adj,,,,,,'>	
+11	সংস্কার	NN	<fs af='সংস্কার,unk,,,,,,' name="সংস্কার"  poslcat="NM">	
+12	দেখা	VM	<fs af='দেখা,v,,,2,,ক,ka' name="দেখা">	
+13	হচ্ছে	VM	<fs af='হ,v,,,3,,ছে,Ce' name="হচ্ছে">	
+14	একে	PRP	<fs af='এ,pn,,sg,,d,কে,ke'>	
+15	.	SYM	<fs af='.,punc,,,,,,' name=".">	
+
+1	ভারতীয্	NN	<fs af='ভারতীয্,unk,,,,,,' name="ভারতীয্"  poslcat="NM">	
+2	পার্লামেন্টের	VM	<fs af='পার্লামেন্ট,n,,sg,,o,এর,era' name="পার্লামেন্টের"  poslcat="NM">	
+3	উচ্চকক্ষ	JJ	<fs af='উচ্চকক্ষ,unk,,,,,,' poslcat="NM">	
+4	গতকাল	NN	<fs af='গতকাল,adj,,,,,,' name="গতকাল"  poslcat="NM">	
+5	বিলটি	NN	<fs af='বিল,n,,sg,,d,0,0' name="বিলটি">	
+6	অনুমোদন	NN	<fs af='অনুমোদন,n,,sg,,d,0,0' name="অনুমোদন">	
+7	করে	VM	<fs af='কর্,v,,,3,,নে,ne' name="করে">	
+8	.	SYM	<fs af='.,punc,,,,,,'>	
 

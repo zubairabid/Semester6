@@ -28,6 +28,7 @@ layout: page
 - [L5: CV 1](L5)
 - [L6: Programming Paradigms](L6)
 - [L7: CV 2](L7)
+- [L8: Design Patterns](L8)
 
 
 ## Lecture Slides

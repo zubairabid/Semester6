@@ -32,18 +32,18 @@ with open('./corpus_20171076.txt', 'r') as corpus:
                 if 'align' in str(tag) and tag["align"] == "left":
                     if flip == 0:
                         flip = 1
-                        line += str(tag.text) + "\t"
+                        line += str(tag.text).strip() + "\t"
                         continue
                     if flip == 1:
                         flip = 0
                         accept = False
                         i += 1
-                        line += str(tag.text) + "\t"
+                        line += str(tag.text).strip() + "\t"
                         full += line + "\n"
 #                print(line)
                         line = ""
                 if 'align' in str(tag) and tag["align"] == "center":
-                    line += str(tag.text) + "\t"
+                    line += str(tag.text).strip() + "\t"
 
         full += "\n"
 
