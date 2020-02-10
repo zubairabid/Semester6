@@ -42,31 +42,31 @@
 16	দিতে	VM	<fs af='দে,v,,,2,,ত,wa' name="দিতে">	ccomp	5
 17	.	SYM	<fs af='.,punc,,,,,,'>	punct	5
 
-1	এভাবে	RB	<fs af='এ,adv,,,,,,' name="এভাবে">	
-2	প্রতিদিন	RB	<fs af='প্রতিদিন,adv,,,,,,' name="প্রতিদিন">	
-3	সাইকেলে	NN	<fs af='সাইকেলে,unk,,,,,,' name="সাইকেলে"  poslcat="NM">	
-4	করে	VM	<fs af='কর্,v,,,3,,নে,ne' name="করে">	
-5	আদিত্যের	NNP	<fs af='আদিত্য,n,,sg,,o,এর,era' name="আদিত্যের">	
-6	পাঠশালা	XC	<fs af='পাঠশালা,n,,sg,,d,0,0' poslcat="NM">	
-7	যায্	VAUX	<fs af='যায্,unk,,,,,,' poslcat="NM">	
-8	বস্তির	NN	<fs af='বস্তির,unk,,,,,,' name="বস্তির"  poslcat="NM">	
-9	সুবিধাবঞ্চিত	JJ	<fs af='সুবিধাবঞ্চিত,unk,,,,,,' poslcat="NM">	
-10	শিশুদের	NN	<fs af='শিশু,n,,pl,,o,এর,era' name="শিশুদের">	
-11	শিক্ষা	NN	<fs af='শিক্ষা,n,,sg,,d,0,0' name="শিক্ষা">	
-12	দিতে	VM	<fs af='দে,v,,,2,,ত,wa' name="দিতে">	
+1	এভাবে	RB	<fs af='এ,adv,,,,,,' name="এভাবে">	discourse	7
+2	প্রতিদিন	RB	<fs af='প্রতিদিন,adv,,,,,,' name="প্রতিদিন">	advmod	7
+3	সাইকেলে	NN	<fs af='সাইকেলে,unk,,,,,,' name="সাইকেলে"  poslcat="NM">	iobj	7
+4	করে	VM	<fs af='কর্,v,,,3,,নে,ne' name="করে">		case	3
+5	আদিত্যের	NNP	<fs af='আদিত্য,n,,sg,,o,এর,era' name="আদিত্যের">	compound	6
+6	পাঠশালা	XC	<fs af='পাঠশালা,n,,sg,,d,0,0' poslcat="NM">	obj	7
+7	যায্	VAUX	<fs af='যায্,unk,,,,,,' poslcat="NM">	root	0
+8	বস্তির	NN	<fs af='বস্তির,unk,,,,,,' name="বস্তির"  poslcat="NM">	amod	10
+9	সুবিধাবঞ্চিত	JJ	<fs af='সুবিধাবঞ্চিত,unk,,,,,,' poslcat="NM">	amod	10
+10	শিশুদের	NN	<fs af='শিশু,n,,pl,,o,এর,era' name="শিশুদের">	nsubj	13
+11	শিক্ষা	NN	<fs af='শিক্ষা,n,,sg,,d,0,0' name="শিক্ষা">		obj	13
+12	দিতে	VM	<fs af='দে,v,,,2,,ত,wa' name="দিতে">	advcl	7
 13	.	SYM	<fs af='.,punc,,,,,,'>	
 
-1	শিশুদের	NN	<fs af='শিশু,n,,pl,,o,এর,era' name="শিশুদের">	
-2	বিজ্ঞানে	NN	<fs af='বিজ্ঞানে,unk,,,,,,' name="বিজ্ঞানে"  poslcat="NM">	
-3	স্নাতক	JJ	<fs af='স্নাতক,adj,,,,,,' name="স্নাতক">	
-4	এই	DEM	<fs af='এই,pn,,sg,,d,0,0'>	
-5	ব্যক্তির	NN	<fs af='ব্যক্তি,n,,sg,,o,এর,era' name="ব্যক্তির">	
-6	উদ্যোগের	NN	<fs af='উদ্যোগ,n,,sg,,o,এর,era' name="উদ্যোগের">	
-7	গল্প	NN	<fs af='গল্প,unk,,,,,,' name="গল্প"  poslcat="NM">	
-8	উঠে	VM	<fs af='উঠ্,v,,,3,,নে,ne' name="উঠে">	
-9	এএফপির	NN	<fs af='এএফপির,unk,,,,,,' name="এএফপির"  poslcat="NM">	
-10	এক	QC	<fs af='এক,adj,,,,,,'>	
-11	প্রতিবেদনে	NN	<fs af='প্রতিবেদন,n,,sg,,d,মে,me' name="প্রতিবেদনে">	
+1	শিশুদের	NN	<fs af='শিশু,n,,pl,,o,এর,era' name="শিশুদের">	obj	7
+2	বিজ্ঞানে	NN	<fs af='বিজ্ঞানে,unk,,,,,,' name="বিজ্ঞানে"  poslcat="NM">	flat	3
+3	স্নাতক	JJ	<fs af='স্নাতক,adj,,,,,,' name="স্নাতক">	compound	5
+4	এই	DEM	<fs af='এই,pn,,sg,,d,0,0'>	case	5
+5	ব্যক্তির	NN	<fs af='ব্যক্তি,n,,sg,,o,এর,era' name="ব্যক্তির">	nsubj	6
+6	উদ্যোগের	NN	<fs af='উদ্যোগ,n,,sg,,o,এর,era' name="উদ্যোগের">	ccomp	8
+7	গল্প	NN	<fs af='গল্প,unk,,,,,,' name="গল্প"  poslcat="NM">	nmod	6
+8	উঠে	VM	<fs af='উঠ্,v,,,3,,নে,ne' name="উঠে">	root	0
+9	এএফপির	NN	<fs af='এএফপির,unk,,,,,,' name="এএফপির"  poslcat="NM">	nmod:poss	10
+10	এক	QC	<fs af='এক,adj,,,,,,'>	det	11
+11	প্রতিবেদনে	NN	<fs af='প্রতিবেদন,n,,sg,,d,মে,me' name="প্রতিবেদনে">	obj	8
 12	.	SYM	<fs af='.,punc,,,,,,'>	
 
 1	আদিত্য	NNP	<fs af='আদিত্য,n,,sg,,d,0,0' name="আদিত্য">	
