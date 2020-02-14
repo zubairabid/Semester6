@@ -30,6 +30,8 @@ layout: page
 - [L7: CV 2](L7)
 - [L8: Design Patterns](L8)
 - [L9: Design Patterns Continued](L9)
+- L10: Absent
+- [L11: Code Reading](L11)
 
 
 ## Lecture Slides
