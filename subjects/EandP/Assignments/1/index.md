@@ -13,7 +13,7 @@ Suggested Readings:
 - Radhakamal Mukherjee and Nirmal Sengupa, ‘The Basis of Community’ and ‘Technology, Management and Control’, Social Ecology (New Delhi: Oxford University Press, 1994), 120-131.
 - Elizabeth Whitecombe, ‘Canal Irrigation and Ecological Change in Colonial North India’, Social Ecology (New Delhi: Oxford University Press, 1994), 132-149.
 
-- [ ] [Readings here](../../Readings/a1option1.pdf)
+- [X] [Readings here](../../Readings/a1option1.pdf)
 
 # Question 2
 
@@ -26,3 +26,6 @@ Suggested Readings:
 
 - [ ] [Readings here](../../Readings/a1option2.pdf)
 
+# Final Submission
+
+[Here: marks received 18.5/20](./20171076_EnP_asgn1.pdf)

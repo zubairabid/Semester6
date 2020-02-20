@@ -31,6 +31,8 @@ layout: page
     - [Sequence to Sequence (Paper)](./Reading/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
     - [NMT by Jointly Learning to Align and Translate (Paper)](./Reading/1409.0473.pdf)
     - [Word2Vec Paper](./Reading/1301.3781_w2v.pdf)
+    - [Seq2seq](./Slides/IASNLP2018-NMT-Part1.pdf)
+    - [Attention](./Slides/IASNLP2018-NMT-Part2.pdf)
 
 
 

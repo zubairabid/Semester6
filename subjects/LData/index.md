@@ -30,6 +30,10 @@ Assignment due dates:
 ## Lecture Slides
 
 
+## Typed out
+
+[Here](Here)
+
 ## Written Notes
 
 [Downloadable xopp file](./ldnotes.xopp)
