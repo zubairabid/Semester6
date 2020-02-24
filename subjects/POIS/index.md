@@ -25,8 +25,14 @@ layout: page
 
 [poisrevision](poisrevision)
 
+## Question Banks
+
+[Mid](./Question Bank.pdf)
+
 ## Written Notes
 
 [Downloadable xopp file](./notes-pois.xopp)
 
 [Downloadable PDF](./notes-pois.pdf)
+
+[Athreya Notes till Mid](./Principles of Information Security-mid.pdf)

@@ -44,6 +44,11 @@ layout: page
     - [Clean Code Fundamental:tips](./Slides/Class-4-The-Art-of-Clean-Code-Fundamentals-Tips.pdf)
 - [Programming Paradigms](./Slides/Class-6-Programming Paradigms.pdf) 
     - [Handout: mindmap](./Slides/Languages-Mindmap-Venks.jpg)
+- Design Patterns:
+    - [Introduction](./Slides/Class 8 - Intro to Design Patterns.pdf)
+    - [Basically Everything else](./Slides/Class 9 - Intro to Design Patterns.pdf)
+- [SOLID](./Slides/Class 10 - Intro to SOLID Design Principles.pdf)
+- [Reading Code, how to](./Slides/Class 11 - Code Reading.pdf)
 
 ## Assignments
 
