@@ -27,7 +27,7 @@ layout: page
 
 ## Question Banks
 
-[Mid](./Question Bank.pdf)
+[Mid](./Question Bank.pdf): [Solutions](./midsemsolutions.pdf)
 
 ## Written Notes
 
