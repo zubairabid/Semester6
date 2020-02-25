@@ -38,7 +38,7 @@ layout: page
 - [Lecture 7: Themes in Indian Environmentalism IV](./Slides/Lecture 7 - Themes in Indian Environmentalism IV.pdf)
 - [Lecture 8: Justice and Rights](./Slides/Lecture 8 - Justice and Rights.pdf)
 - [Lecture 10: Environmental Rights and Justice](./Slides/Lecture 10 - Environmental Rights and Justice.pdf)
-- [Lecture 11: Environmental Rights and Justice I](./Slides/Lecture 11 - Environmental Rights and Justice - II.pdf)
+- [Lecture 11: Environmental Rights and Justice II](./Slides/Lecture 11 - Environmental Rights and Justice - II.pdf)
 - [Lecture 12: Environmental Legislation in India](./Slides/Lecture 12 - Environmental Legislation in India.pdf)
 
 ## Readings

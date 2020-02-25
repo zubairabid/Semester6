@@ -29,3 +29,5 @@ Suggested Readings:
 # Final Submission
 
 [Here: marks received 18.5/20](./20171076_EnP_asgn1.pdf)
+
+[Submission for Question 2 by Vijayraj](./20171026_assignment1.pdf)
