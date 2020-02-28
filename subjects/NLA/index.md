@@ -17,6 +17,15 @@ layout: page
 |           | %         |
 |           | %         |
 
+## Revision
+
+- [Better Word Based Model slides](./Slides/04-word-based-models.pdf)
+- [Better Phrased Based Model slides](./Slides/05-phrase-based-models.pdf)
+- [The same decoding slides](./Slides/06-decoding.pdf)
+- [Important Alignment Paper (Seq2Seq with Attention)](./Reading/1409.0473.pdf)
+- Improvements to Attention (just see abstracts):
+    - [Global Coverage](./Reading/1601.04811.pdf)
+    - [Agreement](./Reading/1512.04650.pdf)
 
 ## Lecture Slides and general readings
 
@@ -24,7 +33,7 @@ layout: page
     - [Word Based Models](./Slides/Word Based Model.pdf)
     - [Expectation Maximisation](./Slides/Expectation Maximization.pdf)
     - [Word Alignment (Chapter)](./Reading/Word Alignment Full Chapter PDF.pdf))
-    - [SMT and Word Alignment - Tutorial Workbook by Kevin Knight](./Reading/A statistical MT tutorial workbook%0A.pdf)
+    - [SMT and Word Alignment - Tutorial Workbook by Kevin Knight](./Reading/A statistical MT tutorial workbook.pdf)
     - [Phrase based, decoding](./Slides/06-decoding.pdf)
 - Neural Machine Translation:
     - [Word Embeddings and Word2Vec (Tutorial)](./Reading/Tutorial_1__Introduction_to_Word_Representation.pdf)

@@ -19,9 +19,9 @@ layout: page
 
 ## Written Notes
 
-[Downloadable xopp file](./epnotes.xopp)
+[Downloadable xopp file](./epnotes.xopp) [Downloadable xopp file, post-midsem](./epnotespostmid.xopp)
 
-[Downloadable PDF](./epnotes.pdf)
+[Downloadable PDF](./epnotes.pdf)  [Downloadable PDF, post-midsem](./epnotespostmid.pdf)
 
 ## Typed Revisions
 
@@ -46,8 +46,8 @@ layout: page
 - [X] [Forest, timber use in Western Himalayas](./Readings/Forest, timber use in Western Himalayas 3-8.pdf)
 - [X] [Gadgil on Caste and Environment](./Readings/Caste and Ecological Niches.pdf)
 - [ ] [Gadgil on Caste and Environment (full)](./Readings/Gadgil and Malhotra on caste and ecological niches.pdf)
-- [ ] [Kavus in Kerala](./Readings/Freeman - Gods, Groves and the Culture of Nature in Kerala.pdf)
-- [ ] [Heywood on Political Theories](./Readings/Andrew Heywood-Political Theory_ _ An Introduction-Palgrave Macmillan (2005).pdf)
+- [ ] [Kavus in Kerala](./Readings/Freeman - Gods, Groves and the Culture of Nature in Kerala.pdf) [Things I noted][./Readings/summary/kavus]
+- [ ] [Heywood on Political Theories](./Readings/Andrew Heywood-Political Theory_ _ An Introduction-Palgrave Macmillan (2005).pdf) [Things I noted][./Readings/summary/andrewheywood] 
 
 ## Assignments
 
