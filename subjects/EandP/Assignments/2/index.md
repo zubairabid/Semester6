@@ -21,6 +21,8 @@ Suggested Readings (**Forest Rights Act**):
 - [ ] [Shankar Gopalakrishnan, ‘The Forest Rights Act: The Political Economy of ‘Environmental Questions’, Economic and Political Weekly, 5 August (2017), pp. 71-76.](../../Readings/The Forest Rights Act The Political Economy of Environmental Questions.pdf)
 - [Sharadchandra Lele, ‘Forest Governance From Co-option and Conflict to Multilayered Governance?’, Economic and Political Weekly, 24 June (2017), pp. 55-58.](../../Readings/Forest Governance From Co-option and Conflict to Multilayered Governance_.pdf)
 - [Geetanjoy Sahu, Tushar Dash, Sanghamitra Dubey, ‘Political Economy of Community Forest Rights’, Economic and Political Weekly, 24 June (2017), pp. 44-47.](../../Readings/Political Economy of Community Forest Rights.pdf)
+
+
 ## Working
 
 [throwingideasaround](throwingideasaround)
