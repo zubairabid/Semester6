@@ -4,6 +4,9 @@ author: Zubair Abid
 layout: page
 ---
 
+- TOC
+{:toc}
+
 ## Background 
 
 - Currently, all rights given to Forest departments
@@ -91,7 +94,27 @@ layout: page
       
       But if they retain control, Industrial use is fair play as *paisa*. 
 
+## Justice and Rights
 
+### Initial snippers of ideas 
+
+- Utilitarian favours Corporate agenda in a climate where it is linked with 
+  development of the community
+- Rawl's conception favours individual liberty: so if the corporation is 
+  treated as an individual and given such rights then they have the liberty to
+  use the land. This is not the construction we have, as there is the thing 
+  with (i forgot) (okay wait) (it's the ) government control.
+- Social justice: justice for tribals and others living historically in the 
+  forests. 
+- Currently, we have government control of forests - with no rights to 
+  localites. This is kind of utilitarian? In the sense that it was laws framed 
+  to benefit solely the British usage of the land. 
+
+
+
+**Mention the idea that various uses of forests are inter-conflicting and 
+that resource usage in one way can mean the destruction of another form
+of living**
 
 - FRA's take on Justice and Rights:
     - 
