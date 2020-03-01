@@ -29,3 +29,5 @@ Suggested Readings (**Forest Rights Act**):
 
 # Final Submission
 
+[Mine, forest rights Act](./20171076_EnP_asgn2.pdf)
+

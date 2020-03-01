@@ -112,10 +112,54 @@ layout: page
 
 
 
+The FRA is
+
+- Resolving a social injustice
+- Brought about by decisions in the past that are now law
+- thereby extending to the affected persons basic rights that were previously 
+  unavailable due to their "illegal status"
+
+What was there before was in violation of:
+
+- **Rawl's conception** as it was in conflict with both parts of Principle 2
+- **Social Justice theories** 
+
+It was a *Utilitarian* idea presented, where the utility was solely a single
+metric as defined by the government.
+
+
+# Article Outline
+
+- Introduction:
+    - The issue is one of a fight between various stakeholders: (name the 
+      stakeholders)
+    - Maximization of any utility provided by forests harms the utility 
+      that the forest can then serve to other purposes.
+- Basic background to the FRA:
+    - The IFA, and taking away of rights from native inhabitants of a place 
+      and instantaneous classification as trespassers.
+    - The Utilitarian backing that can be given to this act (IFA)
+    - Generally, a violation of Rights that we have here. Refer to the Indian 
+      example where classification of Forests was made without surveys.
+- How the FRA conceptualizes Justice and Rights:
+    - What the FRA is now doing
+    - Basic concepts that the FRA might be for
+    - A shallow dive into why the FRA is about Social Justice:
+        - Evidence: in a IFA-controlled worled, the localites suffer
+        - The logistics of it: the push for FRA came from Tribal Ministry
+        - Quoting Manmohan Singh on the purpose of the FRA as to uplift
+    - A short note on the Rights that are also visible in the FRA:
+        - Group differentiated Rights, in a way: the FRA need not have been 
+          created if (an erstwhile) government had not decided to dispossess 
+          as many people with a single law as they had done. So this is not
+          really group-differentiated as much as it is remedial, making up
+          for past mistakes. But legislation did try to spin it that way once,
+          talking of tribals only, for instance
+        - Most prominently, the theory of Natural Rights: the right to remain 
+          as you are. 
+- Conclusion
+
 **Mention the idea that various uses of forests are inter-conflicting and 
 that resource usage in one way can mean the destruction of another form
 of living**
 
-- FRA's take on Justice and Rights:
-    - 
-    
