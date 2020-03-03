@@ -37,3 +37,15 @@ Experiencer Subject in South Asian Languages
 ## 2020-02-18
 
 
+## 2020-03-03
+
+- Third Assignment: Map UD to ANCORRA:
+    - UD has fewer tags than ANCORRA, figure something out
+    - Compile a sort of table from UD to ANCORRA, and a frequency too
+- Modifers:
+    - Pre Modifiers
+    - Post Modifiers
+- Next class: extract only ANCORRA equivalents for UD `nmod`
+- Modifier positioning:
+    - Might be fixed
+    - Might be unfixed
