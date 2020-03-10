@@ -33,6 +33,7 @@ layout: page
 - L10: Absent
 - [L11: Code Reading](L11)
 - [L12: The Art of High Level Design](L12)
+- [L13: The Art of High Level Design (continued)](L13)
 
 
 ## Lecture Slides
