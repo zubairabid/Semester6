@@ -40,6 +40,7 @@ layout: page
 - [Lecture 10: Environmental Rights and Justice](./Slides/Lecture 10 - Environmental Rights and Justice.pdf)
 - [Lecture 11: Environmental Rights and Justice II](./Slides/Lecture 11 - Environmental Rights and Justice - II.pdf)
 - [Lecture 12: Environmental Legislation in India](./Slides/Lecture 12 - Environmental Legislation in India.pdf)
+- [Lecture 13: Environmental Legislation in India II](./Slides/Lecture 13 - Environmental Legislation in India II.pdf)
 
 ## Readings
 
