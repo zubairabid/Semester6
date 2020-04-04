@@ -26,6 +26,7 @@ layout: page
 ## Typed Revisions
 
 - [Mid Revision](midrevision)
+- [L17](L17)
 
 ## Lecture Slides
 
@@ -54,3 +55,4 @@ layout: page
 
 - [Assignment 1](./Assignments/1/index)
 - [Assignment 2](./Assignments/2/index)
+- [Assignment 3](./Assignments/3/index)
