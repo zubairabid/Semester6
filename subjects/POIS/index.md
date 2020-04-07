@@ -11,11 +11,11 @@ layout: page
 
 ### Grading Scheme
 
-| Component | Weightage |
-|-----------|-----------|
-|           | %         |
-|           | %         |
-|           | %         |
+| Component             | Weightage |
+|-----------------------|-----------|
+| Quiz 1                | 15%       |
+| Midsem                | 40%       |
+| Evaluation sheets (6) | 45%       |
 
 ## Book
 
@@ -42,3 +42,5 @@ layout: page
 [Evaluation 1](./PQR1.pdf): [Solutions](./eval1/eval1.pdf)
 
 [Evaluation 2](./PQR2.pdf): [Solutions](./eval2/eval2.pdf)
+
+[Evaluation 3](./PQR3.pdf): Solutions
