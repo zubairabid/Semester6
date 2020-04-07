@@ -5,7 +5,7 @@ def corrupt(m_enc, e):
     return m_enc[0:len(m_enc)-e]
 
 def strencode(text, k):
-    print('encoding text')
+    print('#'*20,' encoding text ', '#'*20)
 
     # Padding with spaces
     textlen = len(text)
@@ -29,6 +29,8 @@ def strencode(text, k):
         print(' encoded: ', tx)
         encoded[i] = int(tx, 10)
 
+    print('#'*20, ' encoding done ', '#'*20)
+
     return encoded
 
 def strdecode(bits):
@@ -36,22 +38,24 @@ def strdecode(bits):
     return String version of whatever was encoded
     '''
     decoded = ''
+    print('#'*20,' decoding text ', '#'*20)
     for binary in bits:
         binary = str(int(binary))
-        print("original binary", binary)
         binlen = len(binary)
         leftover = 3-binlen%3
         if leftover == 3:
             leftover = 0
         binary = leftover*'0'+binary
         binlen = len(binary)
-        print("padded binary", binary)
+        print("\npadded binary", binary, ' evaluates to ', end='')
         
         for i in range(int(binlen/3)):
             l = 3*i
             u = 3*(i+1)
             decoded += chr(int(binary[l:u]))
+            print(chr(int(binary[l:u])), end='')
 
+    print('#'*20,' done decoding text ', '#'*20)
     
     return decoded
     
