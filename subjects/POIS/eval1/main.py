@@ -5,6 +5,7 @@ from verify import verify
 
 length = int(input("Enter number of bits: "))
 generator, prime = generate(length)
+print(generator, prime)
 
 # Key generation
 pri_key = random.randint(1,prime-1) #private key

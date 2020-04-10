@@ -56,3 +56,5 @@ layout: page
 - [Assignment 1](./Assignments/1/index)
 - [Assignment 2](./Assignments/2/index)
 - [Assignment 3](./Assignments/3/index)
+- Assignment 4
+- [Assignment 5](./Assignments/5/index)
