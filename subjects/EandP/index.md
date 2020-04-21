@@ -42,6 +42,12 @@ layout: page
 - [Lecture 11: Environmental Rights and Justice II](./Slides/Lecture 11 - Environmental Rights and Justice - II.pdf)
 - [Lecture 12: Environmental Legislation in India](./Slides/Lecture 12 - Environmental Legislation in India.pdf)
 - [Lecture 13: Environmental Legislation in India II](./Slides/Lecture 13 - Environmental Legislation in India II.pdf)
+- [Lecture 14: Green Parties in Europe](./Slides/Lecture 14 - Green Parties in Europe.pdf)
+- [Lecture 15: Environmental Movements and Politics in India](./Slides/Lecture 15 - Environmental Movements and Politics in India.pdf)
+- [Lecture 16: Red and Green Politics in India](./Slides/Lecture 16 - Red and Green Politics in India.pdf)
+- [Lecture 17: Green and Saffron Politics in India](./Slides/Lecture 17 - Green and Saffron Politics in India.pdf)
+- [Lecture 18:  Green and Saffron Politics in India II](./Slides/Lecture 18 - Green and Saffron Politics in India II.pdf)
+- [Lecture 19: Dalit and Green Politics in India](./Slides/Lecture 19 - Dalit and Green Politics in India.pdf)
 
 ## Readings
 
@@ -50,6 +56,7 @@ layout: page
 - [ ] [Gadgil on Caste and Environment (full)](./Readings/Gadgil and Malhotra on caste and ecological niches.pdf)
 - [ ] [Kavus in Kerala](./Readings/Freeman - Gods, Groves and the Culture of Nature in Kerala.pdf) [Things I noted][./Readings/summary/kavus]
 - [ ] [Heywood on Political Theories](./Readings/Andrew Heywood-Political Theory_ _ An Introduction-Palgrave Macmillan (2005).pdf) [Things I noted][./Readings/summary/andrewheywood] 
+- [ ] [Why Dalits dislike Environmentalists](./Readings/Why Dalits dislike environmentalists.pdf)
 
 ## Assignments
 
