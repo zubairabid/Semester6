@@ -1,0 +1,81 @@
+<h1 id="problem">Problem</h1>
+<p>We are trying to predict AnnCorra tags to be assigned across a sentence, given previously annotated data that also contains feature information of each word, including POS tags, gender, number, case, vibhakti, TAM, and chunk type.</p>
+<h1 id="solution">Solution</h1>
+<p>We build a CRF classifier that takes the features of the word as input, and returns as output the AnnCorra tag for the specific word.</p>
+<p>As the tagging depends on the features provided, we change that to check for differences in the result. Starting off with a baseline of including all features for consideration, we move on to include and exclude features to then compare their relative performance.</p>
+<h1 id="results">Results</h1>
+<table>
+<thead>
+<tr class="header">
+<th>Features</th>
+<th>Weighted Precision</th>
+<th>Weighted Recall</th>
+<th>Weighted F1</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>all (baseline)</td>
+<td>0.830</td>
+<td>0.840</td>
+<td>0.830</td>
+</tr>
+<tr class="even">
+<td>all but POS</td>
+<td>0.798</td>
+<td>0.807</td>
+<td>0.795</td>
+</tr>
+<tr class="odd">
+<td>all but chunkType</td>
+<td>0.821</td>
+<td>0.831</td>
+<td>0.830</td>
+</tr>
+<tr class="even">
+<td>all but chunkId</td>
+<td>0.812</td>
+<td>0.821</td>
+<td>0.811</td>
+</tr>
+<tr class="odd">
+<td>all but chunkId, POS</td>
+<td>0.785</td>
+<td>0.781</td>
+<td>0.768</td>
+</tr>
+<tr class="even">
+<td>only POS</td>
+<td>0.660</td>
+<td>0.685</td>
+<td>0.656</td>
+</tr>
+<tr class="odd">
+<td>only POS, Chunk, voice</td>
+<td>0.737</td>
+<td>0.735</td>
+<td>0.719</td>
+</tr>
+<tr class="even">
+<td>all but Chunk, voice</td>
+<td>0.793</td>
+<td>0.805</td>
+<td>0.791</td>
+</tr>
+<tr class="odd">
+<td>all+word but Chunk, voice</td>
+<td>0.820</td>
+<td>0.833</td>
+<td>0.824</td>
+</tr>
+<tr class="even">
+<td>all+word</td>
+<td>0.853</td>
+<td>0.862</td>
+<td>0.855</td>
+</tr>
+</tbody>
+</table>
+<h1 id="evaluating-the-model-and-notes-on-running-the-code">Evaluating the model, and notes on running the code</h1>
+<p>For ease of evaluation, a script and a test file have been provided. You can run it by typing <code>python eval.py crf_model.pkl testfile.pkl</code>, where <code>crf_model.pkl</code> is the downloaded model file, and <code>testfile.pkl</code> is the provided test file. It will output the F-Score, and a class-wise breakdown of the result.</p>
+<p>For running the python notebooks, we need to download the provided <code>AnnCorra.zip</code> provided and extract it into a folder. Then, create a <code>Data</code> folder. Now all that needs to be run is <code>./dataformatter.ipynb</code> and <code>./CRFTagger.ipynb</code>, in succession. The model takes about 10 minutes to train on an i7-5600U.</p>
