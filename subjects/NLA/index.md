@@ -29,6 +29,8 @@ layout: page
 
 ## Lecture Slides and general readings
 
+- [X] General Reading:
+    - [X] [Understanding LSTMS](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - (Statistical) Machine Translation:
     - [Word Based Models](./Slides/Word Based Model.pdf)
     - [Expectation Maximisation](./Slides/Expectation Maximization.pdf)
@@ -41,8 +43,10 @@ layout: page
     - [NMT by Jointly Learning to Align and Translate (Paper)](./Reading/1409.0473.pdf)
     - [Word2Vec Paper](./Reading/1301.3781_w2v.pdf)
     - [Seq2seq](./Slides/IASNLP2018-NMT-Part1.pdf)
-    - [Attention](./Slides/IASNLP2018-NMT-Part2.pdf)
-- Transformers:
+    - [ ] [Attention](./Slides/IASNLP2018-NMT-Part2.pdf) [notes](notes#attention-is-all-you-need):
+        - [ ] [Luong Attention](./Reading/1508.04025.pdf) (Not in resources, mentioned in class)
+        - [ ] Coverage
+- [ ] Transformers:
     - [ ] [Paper](./Reading/Attention_Is_All_You_Need.pdf)
     - [ ] [Illustrated transformers: Interactive web page](http://jalammar.github.io/illustrated-transformer/)
     - [ ] [Video explanation](https://www.youtube.com/watch?v=iDulhoQ2pro)

@@ -1,0 +1,156 @@
+\documentclass[a4 paper]{article}
+% Set target color model to RGB
+\usepackage[inner=2.0cm,outer=2.0cm,top=2.5cm,bottom=2.5cm]{geometry}
+\usepackage{setspace}
+\usepackage[rgb]{xcolor}
+\usepackage{verbatim}
+\usepackage{subcaption}
+\usepackage{amsgen,amsmath,amstext,amsbsy,amsopn,tikz,amssymb,tkz-linknodes}
+\usepackage{fancyhdr}
+\usepackage[colorlinks=true, urlcolor=blue,  linkcolor=blue, citecolor=blue]{hyperref}
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage{rotating}
+\usepackage{booktabs}
+\input{macros.tex}
+
+
+\begin{document}
+\homework{Course Project Report}{Due: 27/04/20}{Dr. Parameshwari}{}{Zubair Abid}{20171076}
+
+\textbf{Instructions}: Read all the instructions below carefully before you start working on the report, and before you make a submission.
+\begin{itemize}
+    \item Please typeset your submissions in \LaTeX. Use the template provided for your answers. Please include your name and Roll number with submission. 
+    \item This report is due on 27 April at 11:55 PM.
+    \item No extensions will be given for the submission under any circumstances.
+    \item Submissions via any other method other than Moodle submission will be deemed invalid.
+    \item Plagiarism of any sort will not be tolerated. Strict action will be taken for those caught in plagiarism.
+\end{itemize}
+
+\section{Tags}
+
+Discussing the different kind of tags in both UD and AnnCorra in Bengali. The 
+AnnCorra tags will be slightly less detailed, as I have not done the Assignment
+2 in full.
+
+\subsection{UD}
+
+With universal dependencies, a number of tags are applicable to bengali, where
+several are not. A major issue noticed when using UD tags was the number of
+situations lacking detail; i.e, a general tag had to be applied to a word or 
+a phrase that would normally call for more nuance.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|p{0.4\textwidth}|p{0.4\textwidth}|}
+\hline
+\textit{Tag} & \textit{Examples} & \textit{Linguistic Cues} \\ 
+\hline
+k1 & \begin{itemize} 
+  \item Multiple Example 1
+  \item Multiple Example 2
+  \end{itemize}
+  & \begin{itemize} 
+  \item Multiple Cue 1
+  \item Multiple Cue 2
+  \end{itemize} \\
+  \hline
+k2 & Single Examples & \begin{itemize} 
+  \item Multiple Cue 1
+  \item Multiple Cue 2
+  \end{itemize} \\
+  \hline
+k3 & \begin{itemize} 
+  \item Multiple Example 1
+  \item Multiple Example 2
+  \end{itemize}
+  & Single Cue 1 \\
+  \hline
+k4 & Single Example 1 & Single Cue 1 \\
+\hline
+\end{tabular}
+\caption{Discussion on UD tags}
+\end{table}
+
+\subsection{AnnCorra}
+Do the same for AnnCorra.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|c|p{0.4\textwidth}|p{0.4\textwidth}|}
+\hline
+\textit{Tag} & \textit{Examples} & \textit{Linguistic Cues} \\ 
+\hline
+k1 & \begin{itemize} 
+  \item Multiple Example 1
+  \item Multiple Example 2
+  \end{itemize}
+  & \begin{itemize} 
+  \item Multiple Cue 1
+  \item Multiple Cue 2
+  \end{itemize} \\
+  \hline
+k2 & Single Examples & \begin{itemize} 
+  \item Multiple Cue 1
+  \item Multiple Cue 2
+  \end{itemize} \\
+  \hline
+k3 & \begin{itemize} 
+  \item Multiple Example 1
+  \item Multiple Example 2
+  \end{itemize}
+  & Single Cue 1 \\
+  \hline
+k4 & Single Example 1 & Single Cue 1 \\
+\hline
+\end{tabular}
+\caption{Discussion on AnnCorra tags}
+\end{table}
+
+
+\section{Linguistic Challenges with Annotation}
+
+\subproblem{a} Differential Object marking
+\subproblem{b} Non-Nominative Subjects
+\subproblem{c} Complex Predicates
+\subproblem{d} Non-finite clauses: Conditional, Concessive, Relative, participial clauses
+\subproblem{e} Ambiguity (Coordination, Attachment)
+\subproblem{f} Ellipsis
+\subproblem{g} Non-projectivity
+	Ex 1: I saw a man yesterday who was singing
+	Ex 2: A hearing is scheduled on the issue today
+	Ex 3: To his wife, John gave a fantastic gift
+	Ex 4: Which house, John bought?
+\subproblem{h} Particles
+
+\section{Tag Statistics}
+
+\subsection{Tag and Markers}
+
+For each tag, indicate the markers used to identify that tag and the number of tokens identified by each marker. Example:
+
+There are a total of $100$ k1 tags. k1 comes with the markers $0, -ne$. $0$ marker is responsible for $56$ of the cases and $-ne$ is responsible for the remaining $44$.
+
+\subsection{Markers and Tag}
+
+For each marker, indicate the types of tags given to it and the number of cases for each tag. Example:
+
+There are a total of $100$ tokens with $-ne$ marker. These tokens are marked with $k1, k2$. $k1$ marker is responsible for $32$ of the cases and $k2$ is responsible for the remaining $68$.
+
+\subsection{N-gram of tags}
+Include statistics about the frequency of n-gram of tags. Take $n$ in the range [2,4].
+\newline \newline \newline
+\textbf{NOTE: You have to do the above 3 exercises for both UD and AnnCorra. This analysis has to be done on the training set given for both the types of tagging in Assignment 4.}
+
+\section{Error Analysis for automatic tagging}
+In this section, describe the errors in the output of your model trained in Assignment 4 on the test data. Give possible solutions, if any, to mitigate these errors in the future. 
+
+\section{Discussion}
+
+\subsection{Comparison of UD and AnnCorra}
+\subsection{Need for new tags}
+\subsubsection{Intra-Chunk}
+propose any new intra-chunk tags you can think of with examples
+\subsubsection{Inter-Chunk}
+propose any new inter-chunk tags you can think of with examples.
+
+\end{document} 
