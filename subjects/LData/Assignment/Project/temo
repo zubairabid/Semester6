@@ -1,0 +1,7 @@
+
+Based on the results of tagging 100 sentences with UD tags, we present the
+following results.\\
+It is to be noted that a number of issues arise from tying to tag bengali with
+UD tags, including but not limited to a dearth of tags for specific use cases,
+requiring the use of a general tag covering all the various nuanced use cases
+that are present in the language. A detailed analysis will be provided later.

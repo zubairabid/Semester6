@@ -10,7 +10,9 @@
 \usepackage[colorlinks=true, urlcolor=blue,  linkcolor=blue, citecolor=blue]{hyperref}
 \usepackage[colorinlistoftodos]{todonotes}
 \usepackage{rotating}
+\usepackage{longtable}
 \usepackage{booktabs}
+\usepackage{multirow}
 \input{macros.tex}
 
 
@@ -28,84 +30,99 @@
 
 \section{Tags}
 
-Discussing the different kind of tags in both UD and AnnCorra in Bengali. The 
-AnnCorra tags will be slightly less detailed, as I have not done the Assignment
-2 in full.
+Discussing the results of AnnCorra and UD tagging in my chosen Indian Language,
+Bengali.
 
 \subsection{UD}
 
-With universal dependencies, a number of tags are applicable to bengali, where
-several are not. A major issue noticed when using UD tags was the number of
-situations lacking detail; i.e, a general tag had to be applied to a word or 
-a phrase that would normally call for more nuance.
+Based on the results of tagging 100 sentences with UD tags, we present the
+following results.\\
+It is to be noted that a number of issues arise from tying to tag bengali with
+UD tags, including but not limited to a dearth of tags for specific use cases,
+requiring the use of a general tag covering all the various nuanced use cases
+that are present in the language. A detailed analysis will be provided later.
 
-\begin{table}[h]
-\centering
-\begin{tabular}{|c|p{0.4\textwidth}|p{0.4\textwidth}|}
-\hline
-\textit{Tag} & \textit{Examples} & \textit{Linguistic Cues} \\ 
-\hline
-k1 & \begin{itemize} 
-  \item Multiple Example 1
-  \item Multiple Example 2
-  \end{itemize}
-  & \begin{itemize} 
-  \item Multiple Cue 1
-  \item Multiple Cue 2
-  \end{itemize} \\
-  \hline
-k2 & Single Examples & \begin{itemize} 
-  \item Multiple Cue 1
-  \item Multiple Cue 2
-  \end{itemize} \\
-  \hline
-k3 & \begin{itemize} 
-  \item Multiple Example 1
-  \item Multiple Example 2
-  \end{itemize}
-  & Single Cue 1 \\
-  \hline
-k4 & Single Example 1 & Single Cue 1 \\
-\hline
-\end{tabular}
+\begin{longtable}{cp{0.35\textwidth}p{0.35\textwidth}}
+    \toprule
+    \textit{Tag} & \textit{Examples} & \textit{Linguistic Cues} \\ 
+    \toprule
+    % \multirow{2}{*}[-1em]{nsubj}
+    \addlinespace[0.5em]
+    \textbf{nsubj}
+                 & \textbf{bijepi} korbe kal shukrobar
+                 & POS: Noun, Pronoun\\
+    \addlinespace[0.5em]
+                 & ekti porjay porjonto \textbf{tader} shekhano hoy
+                 & Suffixes: -er, -r (possessive), \\
+    \addlinespace[0.5em]
+                 & \textbf{tini} tader byaboharic ingreji ou gonit poraten
+                 & \\
+    \midrule
+    \addlinespace[0.5em]
+    \textbf{obj}
+                 & tini \textbf{tader} byaboharic ingreji ou gonit shekhan
+                 & POS: Noun, Pronoun \\
+    \addlinespace[0.5em]
+                 & tar biddaloyer nirdhishto kono \textbf{pathshuchi} ba boi nei
+                 & Suffixes: -der, \\
+    \midrule
+    \addlinespace[0.5em]
+    \textbf{iobj}
+                 & ekta \textbf{porjay} porjonto tader shekhano hoy
+                 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 
+                 & Multiple Example 2\\
+    \midrule
+    \addlinespace[0.5em]
+    \textbf{csubj}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \addlinespace[0.5em]
+    \textbf{ccomp}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \addlinespace[0.5em]
+    \textbf{ccomp}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \addlinespace[0.5em]
+    \textbf{ccomp}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \addlinespace[0.5em]
+    \textbf{ccomp}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \addlinespace[0.5em]
+    \textbf{ccomp}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    
 \caption{Discussion on UD tags}
-\end{table}
+\label{tab:udtable}
+\end{longtable}
+
+If you do not want to write it in a tabular form, write a list of all the tags with their examples and linguistic cues.
+
+\subproblem{a} k1: example1, example 2. Cue 1, Cue 2.
+
+\subproblem{b} \dots
 
 \subsection{AnnCorra}
 Do the same for AnnCorra.
-
-\begin{table}[h]
-\centering
-\begin{tabular}{|c|p{0.4\textwidth}|p{0.4\textwidth}|}
-\hline
-\textit{Tag} & \textit{Examples} & \textit{Linguistic Cues} \\ 
-\hline
-k1 & \begin{itemize} 
-  \item Multiple Example 1
-  \item Multiple Example 2
-  \end{itemize}
-  & \begin{itemize} 
-  \item Multiple Cue 1
-  \item Multiple Cue 2
-  \end{itemize} \\
-  \hline
-k2 & Single Examples & \begin{itemize} 
-  \item Multiple Cue 1
-  \item Multiple Cue 2
-  \end{itemize} \\
-  \hline
-k3 & \begin{itemize} 
-  \item Multiple Example 1
-  \item Multiple Example 2
-  \end{itemize}
-  & Single Cue 1 \\
-  \hline
-k4 & Single Example 1 & Single Cue 1 \\
-\hline
-\end{tabular}
-\caption{Discussion on AnnCorra tags}
-\end{table}
-
 
 \section{Linguistic Challenges with Annotation}
 
