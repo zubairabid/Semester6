@@ -26,7 +26,7 @@ layout: page
 - asgn2
 - asgn3
 - [asgn4](./Assignment/4/index)
-- Project
+- [Project](./Assignment/Project/index)
 
 
 ## Lecture Slides

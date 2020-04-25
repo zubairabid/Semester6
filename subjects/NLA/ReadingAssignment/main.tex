@@ -1,0 +1,103 @@
+\documentclass[a4 paper]{article}
+% Set target color model to RGB
+\usepackage[inner=2.0cm,outer=2.0cm,top=2.5cm,bottom=2.5cm]{geometry}
+\usepackage{setspace}
+\usepackage[rgb]{xcolor}
+\usepackage{verbatim}
+\usepackage{subcaption}
+\usepackage{amsgen,amsmath,amstext,amsbsy,amsopn,tikz,amssymb,tkz-linknodes}
+\usepackage{fancyhdr}
+\usepackage[colorlinks=true, urlcolor=blue,  linkcolor=blue, citecolor=blue]{hyperref}
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage{rotating}
+\usepackage{booktabs}
+\input{macros.tex}
+
+
+\begin{document}
+\homework{NLA Reading Assignment}{Due: 24/04/20}{Dr. Manish Shrivastava}{}{Zubair Abid}{20171076}
+
+\section{Summary of: Attention over Attention}
+
+\subsection{Overview}
+
+(Cui et al., 2017) introduce a model to solve the \textit{reading comprehension}
+task, demonstrating improvement over the SOTA in several publicly available
+datasets. They work on cloze-style reading comprehension.
+
+\vspace{1em}
+
+They do this by:
+\begin{enumerate}
+    \item Introducing the \textbf{attention over attention} mechanism. It is an
+        improvement over existing systems, especially in the encoding phase.
+    \item Improvement to the decoding strategy by implementing an 
+        \textbf{N-best re-ranking strategy}, instead of simply picking the
+        one with highest probability.
+\end{enumerate}
+
+\subsection{Task details, datasets used}
+The task is cloze-style reading comprehension. Given a document $D$ and query
+$Q$, and answer $A$ has to be returned. It can be represented as a triple:
+$<D, Q, A>$. The answer can be a single word, requiring context information
+from both the Query and the Document.
+
+\vspace{1em}
+
+The datasets used are:
+
+\begin{itemize}
+    \item \textbf{CNN/Daily News dataset}, where the article is the document
+        and the summary by a human with an entity blanked out is the query.
+    \item \textbf{Children Book Test dataset}, with 20 sentences as the document
+        and a query formed from the 21st sentence.
+\end{itemize}
+
+\subsection{Encoder}
+
+The encoder is one of the main contributions, and with it - the attention over
+attention mechanism. Instead of using heuristics to merge representations as
+done by earlier works, attention is used instead to do the task. They use a 
+shared embedding matrix for both $Q$ and $D$. 
+
+\vspace{1em}
+
+Using a bi-directional GRU to get
+the word embeddings for both, a similarity score is calculated between each 
+word of $Q$ and $D$. We define the similarity between the $Q_i$th word and the
+$D_j$th document as $h_{doc}(i)^T\cdot h_{query}(j)$, where $h_{doc}, h_{query}$
+are the contextual embeddings of document and query gotten earlier.
+We then create a matrix $M$ of dimensions $|D|*|Q|$. The $i$th row contains the
+$i$th word in the document, and the $j$th column contains the $j$th word in the
+query, thus giving us a means for pairwise similarity of words $i$ and $j$: 
+$M_{ij}$
+
+\vspace{1em}
+
+Then, apply column-wise softmax to get for each query word the most relevant
+document word. Repeat this process for $T$ time spans, and we have $\alpha =
+[\alpha(1) \dotso \alpha(T)]$,where $\alpha(t) = softmax(M[1,t], M[2,t],\dotso,
+M[D,t]).$
+
+\vspace{1em}
+
+This is where \textit{Attention over Attention}, the crux of the paper, is.
+Where we had earlier done a softmax over columns, we now do a row-wise
+softmax instead to get a document-word attention. Instead of $\alpha$, we now
+use $\beta$, and over all time spans we get the final vector $\beta$ as well.
+Multiplying $\alpha$ with $\beta$, we get the final attention - attended, 
+document level attention, called attention over attention. In more formal terms,
+let this be denoted by $s=\alpha^T\beta$.
+
+\vspace{1em}
+
+The final prediction is made by simply summing over the attention weights for 
+the words in vocabulary. $P(w|D,Q)=\sum_i s_i$, where $i = I(w,D)$, $w\in 
+vocabulary$. $I$ is a function mapping the word to its index in the document,
+done in order to gain an increase in performance.
+
+\subsection{Decoder}
+
+
+\end{document} 
+

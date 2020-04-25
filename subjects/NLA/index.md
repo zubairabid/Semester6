@@ -43,12 +43,12 @@ layout: page
     - [NMT by Jointly Learning to Align and Translate (Paper)](./Reading/1409.0473.pdf)
     - [Word2Vec Paper](./Reading/1301.3781_w2v.pdf)
     - [Seq2seq](./Slides/IASNLP2018-NMT-Part1.pdf)
-    - [ ] [Attention](./Slides/IASNLP2018-NMT-Part2.pdf) [notes](notes#attention-is-all-you-need):
+    - [ ] [Attention](./Slides/IASNLP2018-NMT-Part2.pdf):
         - [ ] [Luong Attention](./Reading/1508.04025.pdf) (Not in resources, mentioned in class)
         - [ ] Coverage
 - [ ] Transformers:
-    - [ ] [Paper](./Reading/Attention_Is_All_You_Need.pdf)
-    - [ ] [Illustrated transformers: Interactive web page](http://jalammar.github.io/illustrated-transformer/)
+    - [ ] [Paper](./Reading/Attention_Is_All_You_Need.pdf) [notes](notes#attention-is-all-you-need)
+    - [ ] [transformers: Interactive web page](http://jalammar.github.io/illustrated-transformer/)
     - [ ] [Video explanation](https://www.youtube.com/watch?v=iDulhoQ2pro)
 - [ ] Question Answering:
     - [ ] [Slides](./Slides/QA-Overview-1.pdf)
