@@ -1,0 +1,308 @@
+ & pof\_\_cn & 18725\\ \midrule  & r6 & 10611\\ \midrule  & nmod & 4174\\ \midrule  & k7 & 5446\\ \midrule  & lwg\_\_psp & 48259\\ \midrule  & pof & 11196\\ \midrule  & ras-pof & 4\\ \midrule  & lwg\_\_vaux & 3577\\ \midrule  & lwg\_\_vaux\_cont & 3132\\ \midrule  & rsym & 16271\\ \midrule  & k1 & 14718\\ \midrule  & k4 & 1210\\ \midrule  & k2 & 11658\\ \midrule  & ccof & 11495\\ \midrule  & rs & 1432\\ \midrule  & nmod\_\_adj & 18419\\ \midrule  & k7t & 5123\\ \midrule  & r6-k2 & 1171\\ \midrule  & adv & 1807\\ \midrule  & vmod & 1391\\ \midrule  & lwg\_\_rp & 4144\\ \midrule  & lwg\_\_neg & 1945\\ \midrule  & main & 5309\\ \midrule  & k1s & 2410\\ \midrule  & k2s & 384\\ \midrule  & nmod\_\_relc & 353\\ \midrule  & k7p & 3439\\ \midrule  & jjmod\_\_intf & 332\\ \midrule  & k2p & 401\\ \midrule  & pof\_\_redup & 164\\ \midrule  & mod & 1835\\ \midrule  & sent-adv & 279\\ \midrule  & rd & 226\\ \midrule  & ras-k1 & 475\\ \midrule  & rt & 791\\ \midrule  & jjmod & 788\\ \midrule  & k3 & 374\\ \midrule  & rh & 683\\ \midrule  & k5 & 833\\ \midrule  & fragof & 166\\ \midrule  & k7a & 430\\ \midrule  & nmod\_\_k2inv & 21\\ \midrule  & r6-k1 & 278\\ \midrule  & nmod\_\_k1inv & 184\\ \midrule  & k2g & 34\\ \midrule  & rsp & 127\\ \midrule  & k4a & 167\\ \midrule  & ras-k2 & 111\\ \midrule  & ras-neg & 45\\ \midrule  & mod\_\_wq & 35\\ \midrule  & nmod\_\_emph & 43\\ \midrule  & k2u & 34\\ \midrule  & k1u & 65\\ \midrule  & ras-r6 & 3\\ \midrule  & rtu & 1\\ \midrule  & rbmod & 31\\ \midrule  & r6v & 20\\ \midrule  & jk1 & 6\\ \midrule  & rbmod\_\_relc & 11\\ \midrule  & ras-k7 & 6\\ \midrule  & vmod\_\_adv & 1\\ \midrule  & psp\_\_cl & 2\\ \midrule  & k7u & 8\\ \midrule  & rad & 5\\ \midrule  & ras-k4 & 4\\ \midrule  & k7pu & 6\\ \midrule  & ras-k7p & 5\\ \midrule  & pk1 & 6\\ \midrule  & k3u & 1\\ \midrule  & ras\_\_k7 & 2\\ \midrule  & k7tu & 1\\ \midrule  & k4u & 1\\ \midrule  & ras-rt & 1\\ \midrule  & ras-k4a & 1\\ \midrule  & ras-r6-k2 & 1\\ \midrule  & enm & 1\\ \midrule  & undef & 1\\ \midrule 
+I & lwg\_\_psp & 7113\\ \midrule I & main & 1275\\ \midrule I & lwg\_\_vaux\_cont & 354\\ \midrule I & ccof & 956\\ \midrule I & fragof & 40\\ \midrule I & r6-k2 & 14\\ \midrule I & lwg\_\_vaux & 1258\\ \midrule I & nmod\_\_k2inv & 75\\ \midrule I & nmod\_\_adj & 869\\ \midrule I & nmod\_\_relc & 96\\ \midrule I & r6 & 353\\ \midrule I & k1 & 26\\ \midrule I & nmod\_\_k1inv & 170\\ \midrule I & rs & 5\\ \midrule I & k7t & 1\\ \midrule I & pof\_\_cn & 57\\ \midrule I & k7 & 1\\ \midrule I & k2 & 15\\ \midrule I & pof & 62\\ \midrule I & adv & 5\\ \midrule I & nmod & 45\\ \midrule I & k1s & 40\\ \midrule I & rbmod\_\_relc & 5\\ \midrule I & jjmod\_\_intf & 8\\ \midrule I & rd & 4\\ \midrule I & vmod & 18\\ \midrule I & rbmod & 1\\ \midrule I & lwg\_\_rp & 8\\ \midrule I & rsp & 1\\ \midrule I & k7p & 2\\ \midrule I & r6-k1 & 5\\ \midrule I & mod & 15\\ \midrule I & k5 & 1\\ \midrule I & pof\_\_redup & 6\\ \midrule I & psp\_\_cl & 2\\ \midrule I & nmod\_\_pofinv & 2\\ \midrule I & mod\_\_wq & 2\\ \midrule I & sent-adv & 4\\ \midrule I & rh & 2\\ \midrule I & jjmod & 2\\ \midrule 
+yoM & r6-k2 & 8\\ \midrule yoM & k2 & 30\\ \midrule yoM & ccof & 24\\ \midrule yoM & nmod & 7\\ \midrule yoM & k7 & 30\\ \midrule yoM & r6 & 11\\ \midrule yoM & k4 & 12\\ \midrule yoM & rh & 7\\ \midrule yoM & vmod & 3\\ \midrule yoM & ras-k2 & 1\\ \midrule yoM & k1 & 9\\ \midrule yoM & mod & 1\\ \midrule yoM & ras-k1 & 4\\ \midrule yoM & rd & 1\\ \midrule yoM & r6-k1 & 2\\ \midrule yoM & rt & 1\\ \midrule yoM & k5 & 1\\ \midrule 
+ne & rt & 870\\ \midrule ne & r6-k2 & 578\\ \midrule ne & lwg\_\_vaux & 437\\ \midrule ne & k7 & 447\\ \midrule ne & rh & 178\\ \midrule ne & r6 & 910\\ \midrule ne & ccof & 395\\ \midrule ne & k1 & 94\\ \midrule ne & main & 84\\ \midrule ne & nmod & 481\\ \midrule ne & jjmod & 26\\ \midrule ne & vmod & 116\\ \midrule ne & ras-k2 & 17\\ \midrule ne & k1s & 13\\ \midrule ne & pof & 3\\ \midrule ne & k7t & 324\\ \midrule ne & r6-k1 & 59\\ \midrule ne & k2 & 135\\ \midrule ne & nmod\_\_k1inv & 34\\ \midrule ne & k5 & 18\\ \midrule ne & k7p & 3\\ \midrule ne & r6v & 2\\ \midrule ne & k7a & 2\\ \midrule ne & lwg\_\_vaux\_cont & 7\\ \midrule ne & k1u & 3\\ \midrule ne & rs & 1\\ \midrule ne & nmod\_\_relc & 7\\ \midrule ne & adv & 4\\ \midrule ne & ras-k1 & 9\\ \midrule ne & nmod\_\_k2inv & 3\\ \midrule ne & sent-adv & 1\\ \midrule ne & k2s & 2\\ \midrule ne & k4 & 8\\ \midrule ne & ras-neg & 7\\ \midrule ne & k2g & 1\\ \midrule ne & rsp & 1\\ \midrule ne & nmod\_\_pofinv & 1\\ \midrule 
+e & lwg\_\_psp & 7520\\ \midrule e & pof & 78\\ \midrule e & r6 & 1028\\ \midrule e & sent-adv & 5\\ \midrule e & mod & 42\\ \midrule e & k2 & 446\\ \midrule e & main & 478\\ \midrule e & ras-pof & 1\\ \midrule e & k1 & 482\\ \midrule e & k7t & 254\\ \midrule e & lwg\_\_vaux & 1040\\ \midrule e & nmod\_\_adj & 1293\\ \midrule e & ccof & 573\\ \midrule e & k7 & 935\\ \midrule e & k7a & 18\\ \midrule e & k7p & 242\\ \midrule e & nmod\_\_k1inv & 304\\ \midrule e & nmod & 154\\ \midrule e & r6-k2 & 114\\ \midrule e & vmod & 72\\ \midrule e & nmod\_\_k2inv & 110\\ \midrule e & nmod\_\_relc & 62\\ \midrule e & k4 & 27\\ \midrule e & adv & 69\\ \midrule e & lwg\_\_vaux\_cont & 359\\ \midrule e & jjmod & 44\\ \midrule e & pof\_\_cn & 35\\ \midrule e & rt & 44\\ \midrule e & rh & 55\\ \midrule e & rd & 14\\ \midrule e & lwg\_\_rp & 12\\ \midrule e & pof\_\_redup & 20\\ \midrule e & fragof & 70\\ \midrule e & rs & 5\\ \midrule e & k5 & 57\\ \midrule e & k1s & 41\\ \midrule e & k3 & 19\\ \midrule e & k1u & 3\\ \midrule e & r6-k1 & 18\\ \midrule e & ras-k2 & 13\\ \midrule e & ras-neg & 9\\ \midrule e & rsp & 6\\ \midrule e & ras-k1 & 11\\ \midrule e & psp\_\_cl & 4\\ \midrule e & k2s & 5\\ \midrule e & k2u & 2\\ \midrule e & k7u & 1\\ \midrule e & mod\_\_wq & 4\\ \midrule e & k2p & 7\\ \midrule e & k4a & 2\\ \midrule e & k7tu & 1\\ \midrule e & rbmod\_\_relc & 2\\ \midrule e & nmod\_\_pofinv & 2\\ \midrule e & enm & 1\\ \midrule e & jjmod\_\_intf & 1\\ \midrule 
+iyA & main & 1055\\ \midrule iyA & ccof & 746\\ \midrule iyA & lwg\_\_vaux & 770\\ \midrule iyA & vmod & 7\\ \midrule iyA & nmod\_\_relc & 92\\ \midrule iyA & rs & 2\\ \midrule iyA & k1 & 8\\ \midrule iyA & nmod\_\_k2inv & 3\\ \midrule iyA & k2 & 5\\ \midrule iyA & nmod\_\_k1inv & 4\\ \midrule iyA & rbmod\_\_relc & 2\\ \midrule iyA & nmod & 1\\ \midrule iyA & rh & 1\\ \midrule iyA & k2s & 1\\ \midrule iyA & k1s & 1\\ \midrule iyA & nmod\_\_pofinv & 1\\ \midrule 
+oM & r6 & 1461\\ \midrule oM & ccof & 632\\ \midrule oM & k7 & 818\\ \midrule oM & k7p & 492\\ \midrule oM & ras-k2 & 19\\ \midrule oM & rt & 142\\ \midrule oM & k5 & 130\\ \midrule oM & r6-k1 & 60\\ \midrule oM & k1 & 812\\ \midrule oM & k2 & 740\\ \midrule oM & lwg\_\_psp & 51\\ \midrule oM & nmod\_\_adj & 89\\ \midrule oM & k4 & 468\\ \midrule oM & r6-k2 & 258\\ \midrule oM & nmod & 106\\ \midrule oM & rs & 3\\ \midrule oM & k4a & 76\\ \midrule oM & rh & 75\\ \midrule oM & k7t & 195\\ \midrule oM & k3 & 76\\ \midrule oM & k7a & 170\\ \midrule oM & ras-k1 & 109\\ \midrule oM & ras-pof & 1\\ \midrule oM & rd & 35\\ \midrule oM & vmod & 77\\ \midrule oM & jjmod & 43\\ \midrule oM & lwg\_\_vaux\_cont & 3\\ \midrule oM & adv & 7\\ \midrule oM & k1u & 12\\ \midrule oM & k2p & 9\\ \midrule oM & pof\_\_cn & 3\\ \midrule oM & mod & 2\\ \midrule oM & lwg\_\_vaux & 1\\ \midrule oM & pof & 3\\ \midrule oM & k2u & 2\\ \midrule oM & jk1 & 2\\ \midrule oM & k7tu & 1\\ \midrule oM & k2g & 2\\ \midrule oM & k1s & 1\\ \midrule oM & mk1 & 1\\ \midrule oM & ras-neg & 2\\ \midrule oM & ras-k7 & 4\\ \midrule oM & k4u & 1\\ \midrule oM & r6v & 2\\ \midrule oM & pk1 & 1\\ \midrule oM & k2s & 1\\ \midrule oM & nmod\_\_relc & 1\\ \midrule oM & k7u & 1\\ \midrule oM & ras-k4 & 1\\ \midrule 
+gay & lwg\_\_vaux & 1167\\ \midrule gay & lwg\_\_vaux\_cont & 167\\ \midrule gay & ccof & 9\\ \midrule gay & main & 8\\ \midrule 
+unoMne & k1 & 1268\\ \midrule unoMne & r6-k1 & 1\\ \midrule unoMne & pk1 & 1\\ \midrule 
+A & main & 2685\\ \midrule A & lwg\_\_vaux & 405\\ \midrule A & nmod\_\_relc & 91\\ \midrule A & pof\_\_cn & 2\\ \midrule A & rs & 4\\ \midrule A & ccof & 618\\ \midrule A & nmod\_\_k2inv & 8\\ \midrule A & vmod & 20\\ \midrule A & lwg\_\_vaux\_cont & 226\\ \midrule A & nmod\_\_k1inv & 37\\ \midrule A & k1 & 7\\ \midrule A & nmod & 1\\ \midrule A & k2 & 3\\ \midrule A & nmod\_\_adj & 4\\ \midrule A & k2s & 1\\ \midrule A & lwg\_\_psp & 1\\ \midrule A & jjmod\_\_relc & 1\\ \midrule A & pof & 1\\ \midrule A & rt & 1\\ \midrule A & k7 & 1\\ \midrule A & lwg\_\_rp & 1\\ \midrule A & mod & 1\\ \midrule A & k1s & 1\\ \midrule A & adv & 1\\ \midrule 
+is & nmod\_\_adj & 2021\\ \midrule is & k7 & 207\\ \midrule is & nmod & 10\\ \midrule is & k1 & 17\\ \midrule is & mod & 324\\ \midrule is & k4a & 9\\ \midrule is & mod\_\_wq & 24\\ \midrule is & fragof & 3\\ \midrule is & r6-k1 & 2\\ \midrule is & k2 & 12\\ \midrule is & r6 & 5\\ \midrule is & rt & 1\\ \midrule is & k4 & 12\\ \midrule is & jjmod & 1\\ \midrule is & k5 & 3\\ \midrule is & vmod & 2\\ \midrule is & r6-k2 & 3\\ \midrule is & rbmod & 1\\ \midrule is & k7p & 5\\ \midrule is & ras-k1 & 1\\ \midrule is & rh & 1\\ \midrule 
+, & rsym & 3356\\ \midrule , & k2 & 5\\ \midrule , & rs & 1\\ \midrule , & mod & 8\\ \midrule , & r6 & 3\\ \midrule , & nmod & 5\\ \midrule , & nmod\_\_adj & 40\\ \midrule , & lwg\_\_vaux\_cont & 1\\ \midrule , & k1 & 7\\ \midrule , & jjmod & 2\\ \midrule , & main & 7\\ \midrule , & ccof & 4\\ \midrule , & k7 & 1\\ \midrule , & k4 & 1\\ \midrule , & k3 & 1\\ \midrule , & rsp & 1\\ \midrule 
+wI & lwg\_\_vaux & 203\\ \midrule wI & main & 138\\ \midrule wI & ccof & 178\\ \midrule wI & vmod & 8\\ \midrule wI & nmod\_\_relc & 27\\ \midrule wI & nmod\_\_k1inv & 18\\ \midrule wI & rbmod\_\_relc & 1\\ \midrule wI & lwg\_\_vaux\_cont & 53\\ \midrule wI & k2 & 4\\ \midrule wI & nmod & 1\\ \midrule wI & fragof & 1\\ \midrule wI & nmod\_\_k2inv & 2\\ \midrule 
+M & lwg\_\_vaux\_cont & 1006\\ \midrule M & lwg\_\_vaux & 672\\ \midrule M & nmod\_\_adj & 27\\ \midrule M & k7p & 318\\ \midrule M & main & 352\\ \midrule M & ccof & 351\\ \midrule M & nmod & 28\\ \midrule M & k7 & 50\\ \midrule M & k1 & 30\\ \midrule M & k2p & 29\\ \midrule M & r6 & 87\\ \midrule M & k2 & 39\\ \midrule M & rbmod\_\_relc & 2\\ \midrule M & r6-k2 & 7\\ \midrule M & pof & 31\\ \midrule M & k5 & 25\\ \midrule M & pof\_\_cn & 77\\ \midrule M & adv & 22\\ \midrule M & nmod\_\_relc & 35\\ \midrule M & jjmod & 13\\ \midrule M & sent-adv & 36\\ \midrule M & k3 & 5\\ \midrule M & rh & 1\\ \midrule M & rsp & 2\\ \midrule M & vmod & 10\\ \midrule M & k1s & 3\\ \midrule M & rt & 7\\ \midrule M & k7t & 10\\ \midrule M & jjmod\_\_intf & 1\\ \midrule M & ras-neg & 1\\ \midrule M & k4 & 1\\ \midrule M & pof\_\_redup & 1\\ \midrule M & k7a & 1\\ \midrule M & mod & 2\\ \midrule M & nmod\_\_k1inv & 1\\ \midrule M & r6-k1 & 7\\ \midrule M & fragof & 1\\ \midrule 
+yA & main & 938\\ \midrule yA & ccof & 283\\ \midrule yA & nmod\_\_relc & 42\\ \midrule yA & lwg\_\_vaux & 57\\ \midrule yA & nmod\_\_k2inv & 4\\ \midrule yA & nmod\_\_k1inv & 3\\ \midrule yA & vmod & 1\\ \midrule yA & nmod & 2\\ \midrule yA & k2 & 4\\ \midrule yA & r6 & 1\\ \midrule yA & k1 & 3\\ \midrule yA & rs & 1\\ \midrule 
+uneM & k4a & 71\\ \midrule uneM & k2 & 127\\ \midrule uneM & k1 & 63\\ \midrule uneM & k4 & 135\\ \midrule uneM & nmod & 1\\ \midrule uneM & k2p & 1\\ \midrule uneM & ccof & 5\\ \midrule 
+NULL & ccof & 209\\ \midrule NULL & main & 89\\ \midrule NULL & k1 & 155\\ \midrule NULL & k2s & 3\\ \midrule NULL & k1s & 33\\ \midrule NULL & k2 & 43\\ \midrule NULL & nmod & 18\\ \midrule NULL & r6 & 15\\ \midrule NULL & k7 & 6\\ \midrule NULL & vmod & 13\\ \midrule NULL & k7p & 19\\ \midrule NULL & ras-k1 & 4\\ \midrule NULL & rs & 6\\ \midrule NULL & k7t & 18\\ \midrule NULL & r6-k2 & 4\\ \midrule NULL & pof & 11\\ \midrule NULL & k3 & 2\\ \midrule NULL & nmod\_\_k1inv & 3\\ \midrule NULL & k4 & 2\\ \midrule NULL & rd & 1\\ \midrule NULL & sent-adv & 1\\ \midrule NULL & jjmod & 1\\ \midrule NULL & adv & 1\\ \midrule NULL & nmod\_\_relc & 1\\ \midrule 
+Mge & ccof & 54\\ \midrule Mge & lwg\_\_vaux & 33\\ \midrule Mge & main & 45\\ \midrule Mge & lwg\_\_vaux\_cont & 2\\ \midrule Mge & k2 & 1\\ \midrule Mge & nmod\_\_relc & 3\\ \midrule 
+iske & sent-adv & 68\\ \midrule iske & k7t & 122\\ \midrule iske & k7a & 34\\ \midrule iske & r6 & 76\\ \midrule iske & rt & 102\\ \midrule iske & k7 & 19\\ \midrule iske & vmod & 128\\ \midrule iske & nmod & 1\\ \midrule iske & r6-k2 & 2\\ \midrule iske & rh & 13\\ \midrule iske & ccof & 1\\ \midrule iske & adv & 1\\ \midrule iske & r6-k1 & 2\\ \midrule iske & ras-k1 & 3\\ \midrule iske & k3 & 6\\ \midrule iske & jjmod & 2\\ \midrule iske & k7p & 4\\ \midrule iske & k1 & 2\\ \midrule iske & ras-neg & 1\\ \midrule iske & ras-k2 & 1\\ \midrule iske & k2 & 1\\ \midrule 
+unke & r6 & 275\\ \midrule unke & ras-k1 & 20\\ \midrule unke & k1 & 17\\ \midrule unke & vmod & 24\\ \midrule unke & k7 & 14\\ \midrule unke & r6-k1 & 1\\ \midrule unke & ccof & 7\\ \midrule unke & k7p & 1\\ \midrule unke & rt & 18\\ \midrule unke & k3 & 4\\ \midrule unke & k4 & 1\\ \midrule unke & r6-k2 & 3\\ \midrule unke & k7a & 9\\ \midrule unke & nmod & 2\\ \midrule unke & jjmod & 6\\ \midrule unke & ras-k4 & 1\\ \midrule unke & rd & 1\\ \midrule unke & ras-k2 & 1\\ \midrule unke & k2 & 1\\ \midrule unke & k5 & 1\\ \midrule unke & sent-adv & 1\\ \midrule 
+eM & ccof & 135\\ \midrule eM & k2 & 143\\ \midrule eM & lwg\_\_vaux & 35\\ \midrule eM & k1 & 261\\ \midrule eM & k4a & 19\\ \midrule eM & main & 19\\ \midrule eM & nmod\_\_adj & 19\\ \midrule eM & k4 & 12\\ \midrule eM & pof & 28\\ \midrule eM & nmod & 4\\ \midrule eM & rs & 1\\ \midrule eM & nmod\_\_relc & 3\\ \midrule eM & vmod & 8\\ \midrule eM & k2s & 1\\ \midrule eM & pof\_\_cn & 3\\ \midrule eM & lwg\_\_vaux\_cont & 6\\ \midrule eM & k7p & 4\\ \midrule eM & k1s & 1\\ \midrule eM & k5 & 1\\ \midrule eM & jjmod & 1\\ \midrule eM & r6 & 1\\ \midrule eM & rh & 1\\ \midrule 
+inmeM & k7 & 52\\ \midrule inmeM & nmod & 6\\ \midrule inmeM & k5 & 25\\ \midrule inmeM & k1 & 1\\ \midrule 
+ise & k2 & 171\\ \midrule ise & k1 & 10\\ \midrule ise & k4 & 14\\ \midrule ise & k4a & 4\\ \midrule ise & k2s & 2\\ \midrule 
+kara & rsp & 14\\ \midrule kara & vmod & 821\\ \midrule kara & k2 & 2\\ \midrule kara & pof & 1\\ \midrule kara & adv & 15\\ \midrule kara & nmod & 9\\ \midrule kara & nmod\_\_k1inv & 3\\ \midrule kara & ccof & 8\\ \midrule kara & lwg\_\_vaux & 4\\ \midrule kara & jjmod & 4\\ \midrule kara & k7t & 1\\ \midrule kara & main & 1\\ \midrule kara & rt & 1\\ \midrule kara & rh & 2\\ \midrule kara & k1s & 1\\ \midrule 
+we & lwg\_\_vaux & 233\\ \midrule we & vmod & 628\\ \midrule we & main & 219\\ \midrule we & ccof & 251\\ \midrule we & pof\_\_redup & 6\\ \midrule we & k7t & 19\\ \midrule we & lwg\_\_vaux\_cont & 18\\ \midrule we & nmod\_\_k1inv & 75\\ \midrule we & adv & 5\\ \midrule we & nmod & 4\\ \midrule we & nmod\_\_relc & 35\\ \midrule we & nmod\_\_k2inv & 10\\ \midrule we & k7 & 1\\ \midrule we & k2 & 4\\ \midrule we & mod & 1\\ \midrule 
+egA & ccof & 137\\ \midrule egA & rs & 3\\ \midrule egA & lwg\_\_vaux\_cont & 53\\ \midrule egA & main & 77\\ \midrule egA & lwg\_\_vaux & 287\\ \midrule egA & rbmod\_\_relc & 2\\ \midrule egA & nmod\_\_relc & 6\\ \midrule egA & pof\_\_cn & 1\\ \midrule egA & vmod & 1\\ \midrule 
+ue & lwg\_\_vaux & 688\\ \midrule ue & main & 30\\ \midrule ue & nmod\_\_k1inv & 104\\ \midrule ue & nmod\_\_k2inv & 24\\ \midrule ue & ccof & 25\\ \midrule ue & nmod\_\_relc & 7\\ \midrule ue & vmod & 3\\ \midrule ue & nmod\_\_pofinv & 3\\ \midrule ue & lwg\_\_vaux\_cont & 1\\ \midrule ue & nmod & 1\\ \midrule ue & ras-neg & 1\\ \midrule 
+gaI & lwg\_\_vaux & 668\\ \midrule gaI & ccof & 4\\ \midrule gaI & lwg\_\_vaux\_cont & 82\\ \midrule gaI & nmod\_\_k1inv & 1\\ \midrule gaI & main & 2\\ \midrule 
+iegA & ccof & 3\\ \midrule iegA & main & 2\\ \midrule 
+nA & k1 & 499\\ \midrule nA & ccof & 272\\ \midrule nA & main & 135\\ \midrule nA & k2 & 183\\ \midrule nA & lwg\_\_vaux & 123\\ \midrule nA & k2s & 5\\ \midrule nA & rs & 3\\ \midrule nA & pof & 10\\ \midrule nA & k1s & 12\\ \midrule nA & vmod & 12\\ \midrule nA & nmod\_\_relc & 19\\ \midrule nA & nmod & 1\\ \midrule nA & k7t & 1\\ \midrule nA & lwg\_\_vaux\_cont & 2\\ \midrule 
+iyoM & r6 & 288\\ \midrule iyoM & k2 & 132\\ \midrule iyoM & k1 & 265\\ \midrule iyoM & vmod & 28\\ \midrule iyoM & k7 & 94\\ \midrule iyoM & rt & 21\\ \midrule iyoM & k4 & 99\\ \midrule iyoM & ccof & 147\\ \midrule iyoM & ras-k1 & 41\\ \midrule iyoM & k5 & 27\\ \midrule iyoM & nmod & 13\\ \midrule iyoM & rh & 9\\ \midrule iyoM & r6-k2 & 36\\ \midrule iyoM & ras-k2 & 5\\ \midrule iyoM & r6-k1 & 7\\ \midrule iyoM & k2p & 1\\ \midrule iyoM & k4a & 7\\ \midrule iyoM & k7p & 21\\ \midrule iyoM & k7a & 13\\ \midrule iyoM & rd & 9\\ \midrule iyoM & ras-neg & 1\\ \midrule iyoM & k3 & 7\\ \midrule iyoM & k7t & 8\\ \midrule iyoM & k1u & 2\\ \midrule iyoM & jjmod & 5\\ \midrule iyoM & mod & 1\\ \midrule iyoM & k2u & 1\\ \midrule iyoM & nmod\_\_adj & 1\\ \midrule 
+wA & main & 139\\ \midrule wA & lwg\_\_vaux\_cont & 140\\ \midrule wA & lwg\_\_vaux & 342\\ \midrule wA & ccof & 211\\ \midrule wA & nmod\_\_relc & 25\\ \midrule wA & mod & 3\\ \midrule wA & vmod & 9\\ \midrule wA & nmod\_\_k1inv & 3\\ \midrule wA & k2 & 2\\ \midrule wA & k2s & 1\\ \midrule wA & pof\_\_cn & 1\\ \midrule wA & k1s & 1\\ \midrule wA & pof & 1\\ \midrule 
+gae & lwg\_\_vaux & 667\\ \midrule gae & ccof & 15\\ \midrule gae & nmod\_\_k1inv & 10\\ \midrule gae & main & 13\\ \midrule gae & lwg\_\_vaux\_cont & 21\\ \midrule gae & nmod\_\_relc & 4\\ \midrule gae & vmod & 1\\ \midrule 
+Z & mod & 21\\ \midrule Z & k2 & 74\\ \midrule Z & r6 & 83\\ \midrule Z & nmod\_\_adj & 237\\ \midrule Z & nmod\_\_relc & 8\\ \midrule Z & pof & 124\\ \midrule Z & vmod & 12\\ \midrule Z & ccof & 101\\ \midrule Z & lwg\_\_psp & 40\\ \midrule Z & k7 & 41\\ \midrule Z & k7t & 12\\ \midrule Z & pof\_\_cn & 32\\ \midrule Z & lwg\_\_vaux & 9\\ \midrule Z & main & 48\\ \midrule Z & r6-k1 & 8\\ \midrule Z & rh & 11\\ \midrule Z & nmod & 16\\ \midrule Z & k7p & 22\\ \midrule Z & k1 & 89\\ \midrule Z & r6-k2 & 5\\ \midrule Z & k1s & 26\\ \midrule Z & rt & 6\\ \midrule Z & jjmod & 6\\ \midrule Z & adv & 13\\ \midrule Z & k2s & 3\\ \midrule Z & k5 & 2\\ \midrule Z & k7u & 1\\ \midrule Z & nmod\_\_k2inv & 1\\ \midrule Z & sent-adv & 1\\ \midrule Z & k7a & 1\\ \midrule Z & lwg\_\_rp & 6\\ \midrule Z & nmod\_\_k1inv & 1\\ \midrule Z & rs & 1\\ \midrule Z & k3 & 2\\ \midrule Z & jjmod\_\_intf & 2\\ \midrule Z & k4 & 4\\ \midrule Z & ras-r6-k2 & 1\\ \midrule Z & rsp & 1\\ \midrule Z & pof\_\_redup & 1\\ \midrule Z & ras-k7 & 1\\ \midrule 
+ke & r6 & 8\\ \midrule ke & ras-k1 & 1\\ \midrule ke & vmod & 63\\ \midrule ke & k4a & 1\\ \midrule ke & rt & 4\\ \midrule ke & lwg\_\_psp & 1\\ \midrule ke & k7p & 1\\ \midrule ke & k7 & 3\\ \midrule ke & ccof & 1\\ \midrule 
+unkI & r6 & 238\\ \midrule unkI & r6-k2 & 20\\ \midrule unkI & nmod & 4\\ \midrule unkI & r6-k1 & 9\\ \midrule unkI & ccof & 2\\ \midrule unkI & k1 & 4\\ \midrule unkI & k2 & 1\\ \midrule unkI & rd & 4\\ \midrule unkI & rh & 1\\ \midrule unkI & rt & 1\\ \midrule 
+u & nmod\_\_adj & 1\\ \midrule u & pof & 1\\ \midrule 
+isameM & k7 & 93\\ \midrule isameM & k5 & 6\\ \midrule isameM & k7p & 5\\ \midrule isameM & nmod & 2\\ \midrule isameM & k1 & 2\\ \midrule 
+noM & nmod\_\_adj & 321\\ \midrule noM & k1 & 24\\ \midrule noM & k5 & 2\\ \midrule noM & k1s & 4\\ \midrule noM & k7 & 8\\ \midrule noM & k4 & 4\\ \midrule noM & k2 & 6\\ \midrule noM & r6-k2 & 2\\ \midrule noM & r6 & 10\\ \midrule noM & jjmod & 1\\ \midrule noM & r6-k1 & 2\\ \midrule noM & k2g & 1\\ \midrule noM & rt & 1\\ \midrule 
+IM & lwg\_\_vaux\_cont & 33\\ \midrule IM & lwg\_\_vaux & 52\\ \midrule IM & vmod & 1\\ \midrule IM & ccof & 30\\ \midrule IM & main & 38\\ \midrule IM & pof\_\_cn & 19\\ \midrule IM & nmod\_\_adj & 11\\ \midrule IM & sent-adv & 5\\ \midrule IM & r6 & 5\\ \midrule IM & k7p & 4\\ \midrule IM & k2 & 1\\ \midrule IM & k7 & 2\\ \midrule IM & nmod\_\_k1inv & 3\\ \midrule IM & nmod\_\_relc & 3\\ \midrule IM & k5 & 1\\ \midrule 
+isse & k7t & 85\\ \midrule isse & rh & 113\\ \midrule isse & nmod & 5\\ \midrule isse & vmod & 2\\ \midrule isse & jjmod & 7\\ \midrule isse & k3 & 6\\ \midrule isse & k5 & 9\\ \midrule isse & k1u & 3\\ \midrule isse & ras-k1 & 3\\ \midrule isse & mod & 1\\ \midrule isse & k7 & 4\\ \midrule isse & k2 & 6\\ \midrule isse & rt & 1\\ \midrule isse & sent-adv & 4\\ \midrule isse & k1 & 1\\ \midrule 
+uI & main & 138\\ \midrule uI & ccof & 105\\ \midrule uI & nmod\_\_k1inv & 101\\ \midrule uI & lwg\_\_vaux & 39\\ \midrule uI & nmod\_\_k2inv & 13\\ \midrule uI & nmod\_\_relc & 19\\ \midrule uI & nmod & 1\\ \midrule uI & k1 & 1\\ \midrule uI & nmod\_\_pofinv & 2\\ \midrule uI & rbmod\_\_relc & 2\\ \midrule uI & rs & 1\\ \midrule uI & k7t & 1\\ \midrule 
+ie & r6-k2 & 10\\ \midrule ie & vmod & 9\\ \midrule ie & ccof & 73\\ \midrule ie & nmod\_\_k1inv & 27\\ \midrule ie & nmod\_\_k2inv & 37\\ \midrule ie & r6 & 25\\ \midrule ie & main & 76\\ \midrule ie & rh & 9\\ \midrule ie & rad & 1\\ \midrule ie & k7t & 8\\ \midrule ie & nmod\_\_relc & 8\\ \midrule ie & k7 & 8\\ \midrule ie & lwg\_\_vaux & 3\\ \midrule ie & k2 & 3\\ \midrule ie & nmod\_\_pofinv & 5\\ \midrule ie & nmod & 17\\ \midrule ie & k4 & 3\\ \midrule ie & rd & 1\\ \midrule ie & rs & 2\\ \midrule ie & jjmod & 2\\ \midrule 
+isI & rh & 6\\ \midrule isI & nmod\_\_adj & 134\\ \midrule isI & r6 & 3\\ \midrule isI & k2 & 4\\ \midrule isI & sent-adv & 2\\ \midrule isI & k7a & 5\\ \midrule isI & k7 & 3\\ \midrule isI & r6-k2 & 1\\ \midrule isI & vmod & 1\\ \midrule 
+in & nmod\_\_adj & 389\\ \midrule in & pof\_\_cn & 2\\ \midrule in & rt & 1\\ \midrule in & k7 & 4\\ \midrule in & k5 & 1\\ \midrule in & k7p & 1\\ \midrule 
+' & rsym & 688\\ \midrule 
+gI & nmod & 1\\ \midrule gI & main & 57\\ \midrule gI & ccof & 91\\ \midrule gI & lwg\_\_vaux & 21\\ \midrule gI & nmod\_\_relc & 8\\ \midrule gI & lwg\_\_vaux\_cont & 1\\ \midrule gI & k2 & 1\\ \midrule 
+vAyA & ccof & 8\\ \midrule vAyA & main & 17\\ \midrule vAyA & nmod\_\_k2inv & 1\\ \midrule 
+iskI & r6 & 80\\ \midrule iskI & r6-k2 & 28\\ \midrule iskI & r6-k1 & 3\\ \midrule iskI & rh & 4\\ \midrule iskI & rt & 1\\ \midrule iskI & nmod & 2\\ \midrule iskI & r6v & 1\\ \midrule iskI & k1 & 1\\ \midrule 
+egI & main & 63\\ \midrule egI & ccof & 102\\ \midrule egI & lwg\_\_vaux & 159\\ \midrule egI & r6 & 1\\ \midrule egI & nmod\_\_relc & 7\\ \midrule egI & k2 & 3\\ \midrule egI & lwg\_\_vaux\_cont & 11\\ \midrule egI & rs & 1\\ \midrule egI & rh & 1\\ \midrule 
+eMge & main & 121\\ \midrule eMge & lwg\_\_vaux & 84\\ \midrule eMge & ccof & 173\\ \midrule eMge & rs & 1\\ \midrule eMge & vmod & 1\\ \midrule eMge & lwg\_\_vaux\_cont & 8\\ \midrule eMge & nmod\_\_relc & 16\\ \midrule eMge & k2 & 2\\ \midrule 
+unkA & k1 & 53\\ \midrule unkA & r6 & 69\\ \midrule unkA & r6-k2 & 12\\ \midrule unkA & r6-k1 & 6\\ \midrule 
+ZiyAz & k2 & 1\\ \midrule ZiyAz & k1 & 1\\ \midrule 
+us & nmod\_\_adj & 136\\ \midrule us & k7 & 26\\ \midrule us & r6 & 1\\ \midrule us & nmod & 3\\ \midrule us & k7p & 3\\ \midrule 
+eMgI & lwg\_\_vaux & 17\\ \midrule eMgI & ccof & 16\\ \midrule eMgI & main & 16\\ \midrule eMgI & nmod\_\_relc & 1\\ \midrule eMgI & k2 & 1\\ \midrule eMgI & lwg\_\_vaux\_cont & 1\\ \midrule 
+Ze & ccof & 21\\ \midrule Ze & nmod\_\_adj & 50\\ \midrule Ze & pof\_\_redup & 1\\ \midrule Ze & lwg\_\_vaux & 8\\ \midrule Ze & main & 12\\ \midrule Ze & pof & 9\\ \midrule Ze & nmod\_\_k1inv & 26\\ \midrule Ze & nmod & 4\\ \midrule Ze & nmod\_\_relc & 2\\ \midrule Ze & k7p & 2\\ \midrule Ze & r6 & 14\\ \midrule Ze & k7 & 5\\ \midrule Ze & k2u & 1\\ \midrule Ze & k7t & 2\\ \midrule Ze & r6-k2 & 2\\ \midrule Ze & nmod\_\_k2inv & 5\\ \midrule Ze & pof\_\_cn & 1\\ \midrule Ze & mod & 1\\ \midrule Ze & lwg\_\_psp & 1\\ \midrule Ze & k1 & 5\\ \midrule Ze & lwg\_\_vaux\_cont & 1\\ \midrule Ze & k2 & 8\\ \midrule Ze & rs & 1\\ \midrule Ze & jjmod\_\_intf & 1\\ \midrule Ze & rt & 1\\ \midrule Ze & rh & 1\\ \midrule 
+i & nmod & 7\\ \midrule i & main & 62\\ \midrule i & vmod & 17\\ \midrule i & ccof & 29\\ \midrule i & nmod\_\_k1inv & 17\\ \midrule i & lwg\_\_vaux & 71\\ \midrule i & k2 & 4\\ \midrule i & mod\_\_wq & 7\\ \midrule i & r6 & 11\\ \midrule i & nmod\_\_k2inv & 19\\ \midrule i & r6-k2 & 4\\ \midrule i & ras-neg & 1\\ \midrule i & lwg\_\_psp & 2\\ \midrule i & k7 & 5\\ \midrule i & k7a & 1\\ \midrule i & k7t & 7\\ \midrule i & k1 & 2\\ \midrule i & rh & 2\\ \midrule i & nmod\_\_adj & 2\\ \midrule i & rs & 1\\ \midrule i & jjmod & 1\\ \midrule i & nmod\_\_relc & 3\\ \midrule i & pof\_\_redup & 1\\ \midrule i & ras-k1 & 1\\ \midrule 
+s & pof\_\_cn & 26\\ \midrule s & r6 & 21\\ \midrule s & k2 & 3\\ \midrule s & ccof & 9\\ \midrule s & k7 & 4\\ \midrule s & k5 & 3\\ \midrule s & k4 & 1\\ \midrule s & k7p & 2\\ \midrule s & nmod & 2\\ \midrule s & vmod & 1\\ \midrule s & rt & 3\\ \midrule s & k1 & 3\\ \midrule s & k3 & 2\\ \midrule s & nmod\_\_adj & 1\\ \midrule 
+uske & r6 & 97\\ \midrule uske & k7 & 18\\ \midrule uske & k7a & 3\\ \midrule uske & ccof & 5\\ \midrule uske & k7p & 3\\ \midrule uske & k7t & 28\\ \midrule uske & vmod & 9\\ \midrule uske & rh & 1\\ \midrule uske & ras-k1 & 5\\ \midrule uske & rt & 7\\ \midrule uske & k2 & 3\\ \midrule uske & r6-k2 & 2\\ \midrule uske & ras-k2 & 1\\ \midrule uske & k1 & 2\\ \midrule uske & r6-k1 & 2\\ \midrule uske & rd & 1\\ \midrule uske & nmod & 2\\ \midrule 
+gA & ccof & 105\\ \midrule gA & lwg\_\_vaux & 88\\ \midrule gA & main & 74\\ \midrule gA & lwg\_\_vaux\_cont & 4\\ \midrule gA & nmod\_\_relc & 10\\ \midrule gA & k2 & 1\\ \midrule gA & vmod & 1\\ \midrule gA & rbmod\_\_relc & 1\\ \midrule gA & rs & 2\\ \midrule 
+uJe & k4a & 17\\ \midrule uJe & k4 & 15\\ \midrule uJe & k2 & 10\\ \midrule uJe & k1 & 4\\ \midrule 
+ere & r6 & 10\\ \midrule ere & ras-k1 & 1\\ \midrule ere & rt & 2\\ \midrule ere & k7p & 1\\ \midrule 
+Are & r6 & 33\\ \midrule Are & k7p & 2\\ \midrule Are & ras-k1 & 4\\ \midrule Are & k7 & 6\\ \midrule Are & jjmod & 1\\ \midrule Are & rt & 3\\ \midrule Are & k1 & 1\\ \midrule Are & nmod & 1\\ \midrule Are & nmod\_\_adj & 1\\ \midrule 
+ineM & k1 & 4\\ \midrule ineM & k4 & 7\\ \midrule ineM & k2 & 20\\ \midrule ineM & k4a & 1\\ \midrule 
+ZI & nmod\_\_adj & 48\\ \midrule ZI & ccof & 13\\ \midrule ZI & lwg\_\_vaux & 11\\ \midrule ZI & nmod\_\_k1inv & 9\\ \midrule ZI & main & 6\\ \midrule ZI & k2s & 1\\ \midrule ZI & nmod\_\_k2inv & 2\\ \midrule ZI & nmod\_\_relc & 3\\ \midrule ZI & vmod & 1\\ \midrule ZI & pof\_\_redup & 1\\ \midrule ZI & k2 & 1\\ \midrule 
+iyAM & k1 & 71\\ \midrule iyAM & k2 & 47\\ \midrule iyAM & ccof & 22\\ \midrule iyAM & pof & 9\\ \midrule iyAM & k1s & 1\\ \midrule iyAM & nmod & 1\\ \midrule iyAM & pof\_\_cn & 1\\ \midrule iyAM & k4 & 1\\ \midrule iyAM & rs & 1\\ \midrule 
+ZoM & k7p & 3\\ \midrule ZoM & nmod\_\_adj & 30\\ \midrule ZoM & r6 & 16\\ \midrule ZoM & k2p & 1\\ \midrule ZoM & vmod & 1\\ \midrule ZoM & k1 & 1\\ \midrule ZoM & nmod & 2\\ \midrule ZoM & k7 & 13\\ \midrule ZoM & ccof & 5\\ \midrule ZoM & k2 & 2\\ \midrule ZoM & k7t & 1\\ \midrule ZoM & k4 & 1\\ \midrule ZoM & rt & 1\\ \midrule 
+ismeM & k7 & 152\\ \midrule ismeM & k5 & 4\\ \midrule ismeM & jjmod & 3\\ \midrule ismeM & nmod & 3\\ \midrule ismeM & k7p & 2\\ \midrule 
+nI & ccof & 77\\ \midrule nI & main & 62\\ \midrule nI & k2 & 8\\ \midrule nI & lwg\_\_vaux & 33\\ \midrule nI & nmod\_\_relc & 4\\ \midrule nI & vmod & 3\\ \midrule nI & k1 & 5\\ \midrule nI & lwg\_\_vaux\_cont & 1\\ \midrule 
+inhMne & k1 & 10\\ \midrule inhMne & k1s & 1\\ \midrule 
+Mne & k7t & 4\\ \midrule Mne & rt & 1\\ \midrule Mne & k1 & 1\\ \midrule Mne & k7 & 1\\ \midrule Mne & main & 1\\ \midrule Mne & k2 & 1\\ \midrule Mne & rh & 1\\ \midrule 
+uA & ccof & 96\\ \midrule uA & lwg\_\_vaux & 68\\ \midrule uA & vmod & 4\\ \midrule uA & main & 95\\ \midrule uA & nmod\_\_relc & 14\\ \midrule uA & nmod\_\_k1inv & 3\\ \midrule uA & nmod\_\_k2inv & 1\\ \midrule uA & lwg\_\_vaux\_cont & 1\\ \midrule 
+MI & main & 2\\ \midrule MI & nmod & 1\\ \midrule MI & nmod\_\_k1inv & 1\\ \midrule 
+Me & ccof & 4\\ \midrule Me & r6 & 2\\ \midrule Me & k7 & 4\\ \midrule Me & nmod\_\_k1inv & 8\\ \midrule Me & main & 2\\ \midrule Me & pof & 1\\ \midrule Me & nmod\_\_adj & 1\\ \midrule Me & r6-k2 & 2\\ \midrule Me & k5 & 1\\ \midrule 
+uskA & r6 & 39\\ \midrule uskA & r6-k1 & 7\\ \midrule uskA & r6-k2 & 12\\ \midrule uskA & k1 & 5\\ \midrule 
+ZwA & main & 3\\ \midrule ZwA & ccof & 7\\ \midrule ZwA & lwg\_\_vaux & 5\\ \midrule ZwA & nmod\_\_relc & 1\\ \midrule 
+usne & k1 & 113\\ \midrule usne & ccof & 1\\ \midrule 
+isa & nmod\_\_adj & 59\\ \midrule isa & k7 & 13\\ \midrule isa & k7p & 2\\ \midrule isa & nmod & 1\\ \midrule 
+usmeM & k7p & 1\\ \midrule usmeM & k7 & 21\\ \midrule usmeM & jjmod & 3\\ \midrule 
+Zne & nmod & 9\\ \midrule Zne & ccof & 10\\ \midrule Zne & r6 & 30\\ \midrule Zne & rh & 8\\ \midrule Zne & r6-k2 & 13\\ \midrule Zne & rt & 25\\ \midrule Zne & r6-k1 & 7\\ \midrule Zne & main & 2\\ \midrule Zne & k7 & 12\\ \midrule Zne & vmod & 3\\ \midrule Zne & nmod\_\_k1inv & 1\\ \midrule Zne & k7t & 5\\ \midrule Zne & k7a & 2\\ \midrule Zne & jjmod & 1\\ \midrule Zne & k2 & 3\\ \midrule Zne & k4 & 1\\ \midrule 
+usse & rh & 6\\ \midrule usse & k2 & 11\\ \midrule usse & k4 & 5\\ \midrule usse & k3 & 1\\ \midrule usse & nmod & 11\\ \midrule usse & k1 & 1\\ \midrule usse & k5 & 3\\ \midrule usse & k1u & 1\\ \midrule usse & ras-k1 & 2\\ \midrule usse & jjmod & 4\\ \midrule usse & ras-k2 & 1\\ \midrule 
+ko & k1 & 9\\ \midrule ko & k4a & 8\\ \midrule ko & k4 & 7\\ \midrule ko & k2 & 3\\ \midrule 
+iskA & r6 & 82\\ \midrule iskA & r6-k2 & 43\\ \midrule iskA & r6-k1 & 16\\ \midrule iskA & k1 & 1\\ \midrule iskA & nmod & 2\\ \midrule 
+Zwe & lwg\_\_vaux & 1\\ \midrule Zwe & vmod & 6\\ \midrule Zwe & ccof & 3\\ \midrule Zwe & main & 1\\ \midrule Zwe & nmod\_\_k1inv & 7\\ \midrule 
+inkA & r6 & 6\\ \midrule inkA & r6-k2 & 4\\ \midrule inkA & k1 & 2\\ \midrule inkA & r6-k1 & 3\\ \midrule 
+ZiyoM & k5 & 3\\ \midrule ZiyoM & k1 & 4\\ \midrule ZiyoM & r6 & 7\\ \midrule ZiyoM & k2 & 5\\ \midrule ZiyoM & k7 & 2\\ \midrule ZiyoM & r6-k1 & 1\\ \midrule ZiyoM & k7p & 2\\ \midrule ZiyoM & k4 & 3\\ \midrule ZiyoM & rt & 2\\ \midrule ZiyoM & ras-k1 & 1\\ \midrule ZiyoM & ccof & 1\\ \midrule ZiyoM & vmod & 1\\ \midrule 
+Zie & vmod & 1\\ \midrule 
+ZA & main & 22\\ \midrule ZA & lwg\_\_vaux & 34\\ \midrule ZA & nmod\_\_k1inv & 1\\ \midrule ZA & nmod & 1\\ \midrule ZA & pof & 1\\ \midrule ZA & ccof & 12\\ \midrule ZA & nmod\_\_relc & 1\\ \midrule ZA & k1 & 1\\ \midrule ZA & vmod & 1\\ \midrule 
+isake & k7t & 7\\ \midrule isake & k7a & 12\\ \midrule isake & vmod & 4\\ \midrule isake & r6 & 8\\ \midrule isake & k7 & 2\\ \midrule isake & rh & 15\\ \midrule isake & k1 & 2\\ \midrule isake & k3 & 6\\ \midrule isake & rt & 3\\ \midrule 
+gaIM & lwg\_\_vaux & 18\\ \midrule gaIM & lwg\_\_vaux\_cont & 2\\ \midrule gaIM & main & 1\\ \midrule 
+inke & k7 & 1\\ \midrule inke & r6 & 10\\ \midrule inke & vmod & 7\\ \midrule inke & k1 & 1\\ \midrule 
+ZyA & ccof & 4\\ \midrule ZyA & vmod & 1\\ \midrule ZyA & main & 3\\ \midrule ZyA & nmod & 1\\ \midrule 
+usI & nmod\_\_adj & 30\\ \midrule usI & k1 & 2\\ \midrule usI & k7 & 1\\ \midrule usI & rt & 1\\ \midrule usI & k7p & 1\\ \midrule usI & r6 & 4\\ \midrule 
+\_JOIN\_ & rsym & 101\\ \midrule 
+inkI & r6 & 22\\ \midrule inkI & nmod & 1\\ \midrule 
+o & nmod\_\_adj & 5\\ \midrule o & ccof & 18\\ \midrule o & r6 & 27\\ \midrule o & rt & 6\\ \midrule o & lwg\_\_psp & 2\\ \midrule o & k1 & 3\\ \midrule o & k7 & 18\\ \midrule o & k7t & 23\\ \midrule o & k2 & 5\\ \midrule o & k7p & 2\\ \midrule o & pof\_\_cn & 6\\ \midrule o & nmod & 6\\ \midrule o & r6-k2 & 3\\ \midrule o & k7a & 2\\ \midrule o & k4 & 1\\ \midrule o & k1u & 1\\ \midrule o & lwg\_\_vaux & 1\\ \midrule 
+ina & nmod\_\_adj & 32\\ \midrule ina & k7 & 6\\ \midrule ina & mod & 1\\ \midrule 
+isak & k4 & 1\\ \midrule isak & k2 & 2\\ \midrule 
+uskI & r6-k2 & 16\\ \midrule uskI & r6 & 68\\ \midrule uskI & r6-k1 & 8\\ \midrule uskI & rd & 1\\ \midrule uskI & k7 & 1\\ \midrule uskI & ccof & 1\\ \midrule uskI & jjmod & 1\\ \midrule uskI & k1 & 1\\ \midrule 
+use & k4 & 50\\ \midrule use & k1 & 24\\ \midrule use & k2 & 91\\ \midrule use & ccof & 1\\ \midrule use & k4a & 16\\ \midrule use & k5 & 1\\ \midrule use & jk1 & 1\\ \midrule 
+wIM & nmod\_\_relc & 1\\ \midrule wIM & main & 3\\ \midrule wIM & lwg\_\_vaux & 5\\ \midrule wIM & ccof & 3\\ \midrule 
+unse & k2 & 14\\ \midrule unse & ras-k1 & 6\\ \midrule unse & jk1 & 1\\ \midrule unse & jjmod & 1\\ \midrule unse & k4 & 10\\ \midrule unse & k5 & 7\\ \midrule unse & r6 & 1\\ \midrule unse & nmod & 1\\ \midrule unse & k1 & 3\\ \midrule unse & ccof & 1\\ \midrule unse & k7t & 1\\ \midrule 
+n & nmod & 2\\ \midrule n & pof\_\_cn & 22\\ \midrule n & k7 & 3\\ \midrule n & k1 & 5\\ \midrule n & k5 & 1\\ \midrule n & nmod\_\_adj & 4\\ \midrule n & ccof & 3\\ \midrule n & k2 & 1\\ \midrule n & pof & 2\\ \midrule n & k1s & 1\\ \midrule n & r6 & 1\\ \midrule 
+isase & rh & 61\\ \midrule isase & k3 & 5\\ \midrule isase & k2 & 3\\ \midrule isase & sent-adv & 1\\ \midrule isase & k5 & 1\\ \midrule 
+,000 & nmod\_\_adj & 4\\ \midrule ,000 & mod & 1\\ \midrule ,000 & pof\_\_cn & 1\\ \midrule 
+ZZ & k3 & 1\\ \midrule ZZ & k5 & 1\\ \midrule ZZ & ccof & 4\\ \midrule ZZ & pof & 7\\ \midrule ZZ & vmod & 1\\ \midrule ZZ & k1 & 13\\ \midrule ZZ & r6 & 4\\ \midrule ZZ & pof\_\_cn & 2\\ \midrule ZZ & rh & 3\\ \midrule ZZ & nmod & 2\\ \midrule ZZ & k2 & 7\\ \midrule ZZ & rt & 1\\ \midrule ZZ & lwg\_\_psp & 9\\ \midrule ZZ & k7 & 2\\ \midrule ZZ & nmod\_\_adj & 1\\ \midrule 
+inheM & k2 & 23\\ \midrule inheM & k4 & 6\\ \midrule inheM & k4a & 2\\ \midrule inheM & k1 & 2\\ \midrule 
+un & nmod\_\_adj & 61\\ \midrule un & k7 & 18\\ \midrule un & k2 & 1\\ \midrule un & k7p & 2\\ \midrule un & ccof & 2\\ \midrule un & k2p & 1\\ \midrule 
+unko & k4 & 3\\ \midrule unko & k2 & 3\\ \midrule unko & k1 & 2\\ \midrule unko & k4a & 5\\ \midrule unko & ccof & 1\\ \midrule 
+ArI & rd & 1\\ \midrule ArI & r6 & 39\\ \midrule ArI & nmod & 1\\ \midrule 
+egeM & nmod\_\_relc & 1\\ \midrule egeM & ccof & 1\\ \midrule egeM & lwg\_\_vaux & 1\\ \midrule egeM & vmod & 1\\ \midrule 
+BI & nmod\_\_adj & 12\\ \midrule BI & k1 & 12\\ \midrule BI & k4 & 1\\ \midrule BI & r6 & 5\\ \midrule BI & r6-k2 & 1\\ \midrule BI & k2 & 8\\ \midrule BI & k7p & 1\\ \midrule BI & rt & 3\\ \midrule BI & k7t & 2\\ \midrule BI & k7 & 2\\ \midrule BI & k4a & 3\\ \midrule BI & ras-k1 & 1\\ \midrule BI & k2s & 1\\ \midrule 
+yAM & k2 & 13\\ \midrule yAM & k1 & 7\\ \midrule yAM & ccof & 1\\ \midrule 
+pawni & k1s & 1\\ \midrule pawni & r6-k2 & 1\\ \midrule 
+UM & ccof & 9\\ \midrule UM & lwg\_\_vaux\_cont & 11\\ \midrule UM & lwg\_\_vaux & 19\\ \midrule UM & k2 & 1\\ \midrule UM & main & 4\\ \midrule 
+uJame & k7 & 1\\ \midrule 
+iyAz & k1 & 13\\ \midrule iyAz & ccof & 5\\ \midrule iyAz & k2 & 4\\ \midrule iyAz & pof & 1\\ \midrule 
+uIM & main & 1\\ \midrule uIM & ccof & 3\\ \midrule 
+Ms & pof\_\_cn & 2\\ \midrule Ms & r6 & 6\\ \midrule Ms & ccof & 6\\ \midrule Ms & k7 & 1\\ \midrule Ms & k1 & 2\\ \midrule Ms & nmod\_\_adj & 1\\ \midrule Ms & k4 & 1\\ \midrule Ms & nmod & 2\\ \midrule Ms & ras-k1 & 1\\ \midrule Ms & jjmod & 1\\ \midrule Ms & rt & 1\\ \midrule 
+isakI & rh & 3\\ \midrule isakI & r6-k2 & 3\\ \midrule isakI & r6 & 7\\ \midrule isakI & r6-k1 & 1\\ \midrule 
+inameM & k7p & 2\\ \midrule inameM & k7 & 22\\ \midrule inameM & k5 & 6\\ \midrule inameM & k1 & 1\\ \midrule 
+Zkara & adv & 3\\ \midrule Zkara & vmod & 32\\ \midrule Zkara & ccof & 1\\ \midrule Zkara & nmod & 1\\ \midrule 
+wIn & nmod\_\_adj & 2\\ \midrule 
+eMgIM & main & 1\\ \midrule eMgIM & lwg\_\_vaux & 2\\ \midrule 
+vAI & ccof & 1\\ \midrule vAI & nmod\_\_k2inv & 1\\ \midrule 
+vA & ccof & 3\\ \midrule vA & main & 2\\ \midrule 
+gayI & lwg\_\_vaux & 31\\ \midrule gayI & lwg\_\_vaux\_cont & 6\\ \midrule 
+unIM & nmod\_\_adj & 8\\ \midrule unIM & r6 & 1\\ \midrule 
+inase & ras-k2 & 1\\ \midrule inase & rh & 2\\ \midrule inase & k3 & 2\\ \midrule inase & k1 & 1\\ \midrule 
+N & r6 & 1\\ \midrule N & ccof & 2\\ \midrule 
+me & nmod\_\_adj & 2\\ \midrule 
+m & k7 & 1\\ \midrule m & pof & 1\\ \midrule m & k1 & 2\\ \midrule m & r6 & 1\\ \midrule m & k7t & 3\\ \midrule m & k1s & 1\\ \midrule m & nmod\_\_adj & 2\\ \midrule m & pof\_\_cn & 2\\ \midrule 
+yAz & k2 & 1\\ \midrule yAz & ccof & 1\\ \midrule yAz & k1 & 3\\ \midrule 
+AoM & ccof & 1\\ \midrule 
+ZeM & ccof & 1\\ \midrule ZeM & k1 & 3\\ \midrule ZeM & k2 & 1\\ \midrule 
+uoM & k4 & 1\\ \midrule uoM & k7 & 5\\ \midrule uoM & r6 & 9\\ \midrule uoM & ccof & 2\\ \midrule uoM & rt & 1\\ \midrule uoM & ras-k1 & 1\\ \midrule uoM & k1 & 1\\ \midrule uoM & k2 & 1\\ \midrule 
+. & pof\_\_cn & 21\\ \midrule . & nmod & 1\\ \midrule . & rsym & 2\\ \midrule . & rs & 1\\ \midrule 
+erA & pof\_\_cn & 1\\ \midrule erA & r6 & 5\\ \midrule erA & ccof & 1\\ \midrule erA & k1 & 1\\ \midrule erA & nmod & 1\\ \midrule 
+ez & k2 & 3\\ \midrule ez & k1 & 7\\ \midrule ez & lwg\_\_vaux & 1\\ \midrule ez & main & 11\\ \midrule ez & ccof & 5\\ \midrule ez & nmod\_\_relc & 1\\ \midrule 
+yoMki & rh & 1\\ \midrule 
+isakA & r6 & 12\\ \midrule isakA & r6-k2 & 7\\ \midrule isakA & k1 & 2\\ \midrule isakA & r6-k1 & 1\\ \midrule 
+? & rsym & 10\\ \midrule 
+nevAle & nmod & 1\\ \midrule 
+inoMne & k1 & 4\\ \midrule 
+OY & pof\_\_cn & 3\\ \midrule OY & r6 & 1\\ \midrule OY & k2 & 1\\ \midrule 
+ArA & r6 & 16\\ \midrule ArA & k1 & 2\\ \midrule ArA & r6v & 1\\ \midrule 
+mI & nmod\_\_adj & 1\\ \midrule mI & nmod & 1\\ \midrule 
+inakA & k1 & 2\\ \midrule inakA & r6 & 6\\ \midrule 
+,898 & nmod\_\_adj & 1\\ \midrule 
+MnI & ccof & 1\\ \midrule 
+kI & r6 & 13\\ \midrule kI & r6-k2 & 1\\ \midrule 
+isko & k2 & 10\\ \midrule isko & r6 & 1\\ \midrule 
+uJa & k7 & 4\\ \midrule 
+U & k5 & 1\\ \midrule 
+S & pof\_\_cn & 1\\ \midrule 
+vAwI & main & 1\\ \midrule 
+se & k4 & 2\\ \midrule se & k5 & 2\\ \midrule se & k7p & 1\\ \midrule se & k2 & 1\\ \midrule se & lwg\_\_psp & 1\\ \midrule se & k7 & 1\\ \midrule se & ras-k1 & 1\\ \midrule se & k1s & 1\\ \midrule 
+0, & nmod\_\_adj & 6\\ \midrule 0, & mod & 3\\ \midrule 0, & jjmod & 2\\ \midrule 0, & rsp & 1\\ \midrule 0, & k2 & 1\\ \midrule 0, & rs & 1\\ \midrule 
+ZAnA & ccof & 1\\ \midrule 
+iy & nmod & 1\\ \midrule iy & main & 2\\ \midrule iy & lwg\_\_vaux & 1\\ \midrule iy & r6 & 1\\ \midrule iy & nmod\_\_k2inv & 1\\ \midrule iy & ccof & 2\\ \midrule 
+yI & ccof & 5\\ \midrule yI & nmod\_\_relc & 1\\ \midrule yI & main & 4\\ \midrule yI & lwg\_\_vaux & 2\\ \midrule yI & nmod & 2\\ \midrule 
+erI & k1 & 1\\ \midrule erI & r6 & 8\\ \midrule erI & r6-k2 & 2\\ \midrule erI & nmod & 1\\ \midrule 
+	 & \_ & 4\\ \midrule 
+MyA & main & 1\\ \midrule MyA & ccof & 1\\ \midrule 
+haa & k1 & 1\\ \midrule 
+UMgI & ccof & 5\\ \midrule UMgI & lwg\_\_vaux & 3\\ \midrule UMgI & main & 1\\ \midrule 
+1 & rsp & 1\\ \midrule 
+ja & r6 & 8\\ \midrule ja & pof\_\_cn & 6\\ \midrule ja & k4 & 2\\ \midrule ja & k1 & 2\\ \midrule ja & k7 & 1\\ \midrule ja & k5 & 2\\ \midrule ja & ccof & 3\\ \midrule ja & jjmod & 1\\ \midrule ja & k1u & 1\\ \midrule ja & k7t & 1\\ \midrule 
+w & ccof & 1\\ \midrule 
+r & nmod\_\_adj & 1\\ \midrule r & pof\_\_cn & 1\\ \midrule r & ccof & 1\\ \midrule 
+z & nmod\_\_adj & 1\\ \midrule z & lwg\_\_vaux\_cont & 1\\ \midrule z & ccof & 1\\ \midrule z & main & 1\\ \midrule 
+ZeMge & ccof & 1\\ \midrule 
+yegA & lwg\_\_vaux & 3\\ \midrule yegA & lwg\_\_vaux\_cont & 1\\ \midrule 
+Ane & ccof & 1\\ \midrule Ane & rt & 1\\ \midrule Ane & r6 & 3\\ \midrule Ane & vmod & 2\\ \midrule Ane & nmod & 1\\ \midrule Ane & k7 & 1\\ \midrule 
+UMgA & ccof & 4\\ \midrule UMgA & main & 1\\ \midrule 
+MgI & ccof & 4\\ \midrule MgI & main & 8\\ \midrule MgI & lwg\_\_vaux & 3\\ \midrule MgI & nmod\_\_relc & 1\\ \midrule 
+ZegA & main & 4\\ \midrule ZegA & ccof & 15\\ \midrule ZegA & lwg\_\_vaux & 4\\ \midrule ZegA & nmod\_\_relc & 1\\ \midrule 
+333602 & nmod & 1\\ \midrule 
+ej & rs & 1\\ \midrule ej & k7p & 1\\ \midrule ej & pof\_\_cn & 3\\ \midrule 
+ZegI & ccof & 2\\ \midrule ZegI & lwg\_\_vaux & 1\\ \midrule ZegI & main & 1\\ \midrule ZegI & rs & 1\\ \midrule 
+ioM & ccof & 1\\ \midrule ioM & r6 & 1\\ \midrule 
+vAeMge & ccof & 1\\ \midrule 
+- & r6 & 1\\ \midrule - & pof & 1\\ \midrule - & rsym & 1\\ \midrule 
+unmeM & k7 & 22\\ \midrule unmeM & k2 & 1\\ \midrule unmeM & k5 & 1\\ \midrule unmeM & k7p & 1\\ \midrule unmeM & k1 & 1\\ \midrule 
+inakI & rh & 1\\ \midrule inakI & r6 & 4\\ \midrule inakI & r6-k1 & 1\\ \midrule 
+vAne & ccof & 2\\ \midrule vAne & r6 & 1\\ \midrule vAne & r6-k1 & 1\\ \midrule 
+yIM & ccof & 1\\ \midrule 
+k & lwg\_\_psp & 1\\ \midrule 
+isae & k1 & 4\\ \midrule 
+prwbxXa & k1s & 1\\ \midrule 
+inse & k5 & 3\\ \midrule inse & k2 & 1\\ \midrule 
+Zye & ccof & 1\\ \midrule 
+ye & r6 & 3\\ \midrule ye & nmod\_\_k2inv & 1\\ \midrule ye & r6-k2 & 1\\ \midrule ye & lwg\_\_vaux\_cont & 1\\ \midrule ye & lwg\_\_vaux & 3\\ \midrule ye & ccof & 4\\ \midrule ye & main & 4\\ \midrule ye & r6-k1 & 1\\ \midrule 
+() & rs & 1\\ \midrule 
+iye & main & 6\\ \midrule iye & ccof & 3\\ \midrule iye & lwg\_\_vaux & 1\\ \midrule iye & k7 & 1\\ \midrule iye & r6 & 1\\ \midrule 
+e. & pof\_\_cn & 1\\ \midrule 
+inake & r6 & 6\\ \midrule inake & rh & 1\\ \midrule inake & vmod & 4\\ \midrule inake & k3 & 2\\ \midrule inake & k7 & 2\\ \midrule inake & r6v & 1\\ \midrule 
+Ah & r6-k2 & 1\\ \midrule 
+ZnA & k2 & 4\\ \midrule ZnA & ccof & 8\\ \midrule ZnA & pof & 1\\ \midrule ZnA & k1 & 2\\ \midrule 
+la & pof & 1\\ \midrule 
+ezge & lwg\_\_vaux & 1\\ \midrule 
+ZwI & nmod\_\_relc & 1\\ \midrule ZwI & nmod\_\_k1inv & 9\\ \midrule ZwI & ccof & 3\\ \midrule ZwI & nmod\_\_k2inv & 1\\ \midrule ZwI & lwg\_\_vaux & 2\\ \midrule ZwI & main & 1\\ \midrule 
+meM & k7 & 1\\ \midrule 
+akara & vmod & 1\\ \midrule 
+iw & adv & 6\\ \midrule 
+ZU & pof\_\_cn & 1\\ \midrule ZU & mod & 1\\ \midrule ZU & nmod\_\_adj & 1\\ \midrule 
+inIM & k7 & 1\\ \midrule inIM & nmod\_\_adj & 8\\ \midrule inIM & k3 & 1\\ \midrule 
+ya & lwg\_\_vaux\_cont & 1\\ \midrule ya & lwg\_\_vaux & 1\\ \midrule ya & k1 & 1\\ \midrule 
+gaye & lwg\_\_vaux & 12\\ \midrule 
+,, & nmod\_\_adj & 6\\ \midrule 
+usko & k2 & 1\\ \midrule usko & k4 & 1\\ \midrule 
+uhAre & r6 & 1\\ \midrule 
+heM & k4a & 1\\ \midrule 
+umane & k1 & 1\\ \midrule 
+isne & k1 & 3\\ \midrule 
+unoneM & k1 & 1\\ \midrule 
+iMyoM & k2 & 1\\ \midrule iMyoM & k4 & 1\\ \midrule 
+aBI & nmod\_\_adj & 2\\ \midrule 
+AyA & ccof & 2\\ \midrule 
+es & ccof & 1\\ \midrule es & pof\_\_cn & 2\\ \midrule 
+jAegA & lwg\_\_vaux & 1\\ \midrule 
+mAwra & adv & 1\\ \midrule 
+kA & r6 & 8\\ \midrule kA & r6-k1 & 1\\ \midrule 
+Put & nmod\_\_adj & 1\\ \midrule 
+aI & r6 & 1\\ \midrule 
+AnA & ccof & 1\\ \midrule 
+hIM & nmod\_\_adj & 1\\ \midrule 
+ZAyA & ccof & 1\\ \midrule 
+inko & k1 & 1\\ \midrule inko & k2 & 1\\ \midrule 
+ZIM & ccof & 1\\ \midrule 
+\_NULL\_ & lwg\_\_vaux & 1\\ \midrule 
+isane & k1 & 13\\ \midrule 
+eg & ccof & 1\\ \midrule 
+MsoM & k7p & 1\\ \midrule 
+vAkara & vmod & 2\\ \midrule 
+ija & k4a & 1\\ \midrule 
+av & ccof & 1\\ \midrule 
+iM & k1 & 1\\ \midrule 
+jZa & k7p & 1\\ \midrule 
+rrsa & pof\_\_cn & 1\\ \midrule 
+,480 & nmod\_\_adj & 1\\ \midrule 
+\_\_ & rsym & 4\\ \midrule 
+MgeM & lwg\_\_vaux & 1\\ \midrule MgeM & main & 1\\ \midrule 
+zI & main & 1\\ \midrule 
+zvo & k7p & 1\\ \midrule 
+inak & k4 & 1\\ \midrule 
+Iji & lwg\_\_vaux & 3\\ \midrule Iji & ccof & 1\\ \midrule 
+maka & nmod\_\_adj & 1\\ \midrule 
+hAre & k7 & 1\\ \midrule 
+vAnA & k1 & 1\\ \midrule vAnA & k2 & 2\\ \midrule 
+nane & r6-k2 & 1\\ \midrule 
+null & main & 1\\ \midrule 
+6.8 & k1s & 1\\ \midrule 
+aX & pof & 1\\ \midrule 
+jAnabUJaara & vmod & 1\\ \midrule 
+musli & nmod\_\_adj & 1\\ \midrule 
+j & nmod\_\_k1inv & 1\\ \midrule 
+zA & nmod\_\_relc & 1\\ \midrule 
+xillI & k7t & 1\\ \midrule 
+riM & ccof & 2\\ \midrule 
+uMgI & k2 & 1\\ \midrule 
+gIM & main & 1\\ \midrule 
+yU & ccof & 1\\ \midrule 
+EsI & nmod\_\_adj & 1\\ \midrule 
+yeMge & lwg\_\_vaux & 1\\ \midrule 
+yeMgI & lwg\_\_vaux & 1\\ \midrule 
+nevAlI & nmod & 2\\ \midrule 
+ZnI & k1 & 1\\ \midrule 
+ejZ & pof\_\_cn & 1\\ \midrule 
+d & k1 & 1\\ \midrule 
+vIM & nmod\_\_adj & 1\\ \midrule 
+EM & nmod\_\_adj & 1\\ \midrule 
+ZZiyoM & ccof & 1\\ \midrule ZZiyoM & k2 & 1\\ \midrule ZZiyoM & rh & 1\\ \midrule 
+ave & nmod\_\_k1inv & 1\\ \midrule 
+AIM & main & 1\\ \midrule 
+oz & ras-k1 & 1\\ \midrule 
+nirmiwa & nmod\_\_adj & 1\\ \midrule 
+ue... & ccof & 1\\ \midrule 
+kra & vmod & 1\\ \midrule 
+MA & main & 1\\ \midrule 
+Ijie & ccof & 1\\ \midrule 
+va & pof\_\_cn & 1\\ \midrule 
+ze & k1 & 1\\ \midrule 
+na & rt & 1\\ \midrule 
+hiyoM & r6 & 1\\ \midrule 
+iA & nmod\_\_k1inv & 1\\ \midrule 
+ww & nmod\_\_adj & 1\\ \midrule 
+y & k2 & 1\\ \midrule 
+OoM & k2 & 1\\ \midrule 
+sa & pof\_\_cn & 2\\ \midrule 
+... & rsym & 1\\ \midrule 
+MvAe & ccof & 1\\ \midrule MvAe & main & 1\\ \midrule 
+MvAI & main & 1\\ \midrule 
+NA & ccof & 1\\ \midrule 
+uJase & k2 & 1\\ \midrule 
+Uz & lwg\_\_vaux & 1\\ \midrule 
+vAwA & main & 1\\ \midrule 
+329 & pof\_\_cn & 1\\ \midrule 
+a & r6 & 2\\ \midrule a & k7p & 1\\ \midrule a & nmod\_\_adj & 1\\ \midrule 
+bord & r6 & 1\\ \midrule 
+ane & r6 & 1\\ \midrule 
+Aw & k7 & 1\\ \midrule 
+! & rsym & 2\\ \midrule 
+) & rsym & 2\\ \midrule 
+XaX & pof\_\_cn & 1\\ \midrule 
+MnA & main & 1\\ \midrule 
+jI & r6 & 1\\ \midrule jI & r6-k2 & 1\\ \midrule 
+rAMj & vmod & 1\\ \midrule 

@@ -1,7 +1,6 @@
 import pickle
 from anncorrastats import anncorra_to_ud
 from anncorrastats import filestolist
-from anncorrastats import mapping
 
 anntag = filestolist('Bengali/Data/Training')
 with open('./anncorra.pkl', 'wb') as f:

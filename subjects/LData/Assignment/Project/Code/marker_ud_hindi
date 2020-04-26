@@ -1,0 +1,293 @@
+ & det & 2625\\ \midrule  & nmod & 19232\\ \midrule  & advmod & 3105\\ \midrule  & case & 41856\\ \midrule  & root & 4270\\ \midrule  & cop & 1921\\ \midrule  & punct & 15436\\ \midrule  & compound & 28206\\ \midrule  & nsubj & 12559\\ \midrule  & aux & 2883\\ \midrule  & nummod & 3866\\ \midrule  & cc & 5167\\ \midrule  & amod & 8910\\ \midrule  & obl & 17975\\ \midrule  & mark & 9758\\ \midrule  & acl & 770\\ \midrule  & dep & 3873\\ \midrule  & aux:pass & 3468\\ \midrule  & dislocated & 160\\ \midrule  & conj & 4171\\ \midrule  & obj & 9014\\ \midrule  & acl:relcl & 334\\ \midrule  & nsubj:pass & 362\\ \midrule  & xcomp & 571\\ \midrule  & advcl & 478\\ \midrule  & iobj & 1122\\ \midrule  & vocative & 5\\ \midrule 
+I & case & 5600\\ \midrule I & amod & 716\\ \midrule I & nmod & 372\\ \midrule I & acl & 296\\ \midrule I & compound & 122\\ \midrule I & mark & 1100\\ \midrule I & aux & 1105\\ \midrule I & root & 1394\\ \midrule I & dep & 8\\ \midrule I & acl:relcl & 104\\ \midrule I & advmod & 13\\ \midrule I & obl & 14\\ \midrule I & det & 158\\ \midrule I & dislocated & 39\\ \midrule I & nsubj:pass & 3\\ \midrule I & advcl & 50\\ \midrule I & aux:pass & 447\\ \midrule I & conj & 169\\ \midrule I & cop & 114\\ \midrule I & xcomp & 17\\ \midrule I & obj & 319\\ \midrule I & nsubj & 48\\ \midrule I & punct & 3\\ \midrule I & cc & 1\\ \midrule 
+oM & nmod & 2061\\ \midrule oM & obj & 723\\ \midrule oM & acl:relcl & 3\\ \midrule oM & obl & 2123\\ \midrule oM & conj & 369\\ \midrule oM & compound & 5\\ \midrule oM & nsubj:pass & 52\\ \midrule oM & nsubj & 811\\ \midrule oM & iobj & 449\\ \midrule oM & nummod & 69\\ \midrule oM & mark & 39\\ \midrule oM & root & 10\\ \midrule oM & case & 11\\ \midrule oM & det & 2\\ \midrule oM & aux:pass & 3\\ \midrule oM & advmod & 4\\ \midrule oM & acl & 3\\ \midrule oM & xcomp & 1\\ \midrule oM & aux & 1\\ \midrule oM & cop & 1\\ \midrule 
+ise & obj & 157\\ \midrule ise & acl & 2\\ \midrule ise & iobj & 13\\ \midrule ise & nsubj:pass & 5\\ \midrule ise & nsubj & 9\\ \midrule 
+yA & root & 962\\ \midrule yA & obj & 91\\ \midrule yA & advcl & 14\\ \midrule yA & conj & 55\\ \midrule yA & acl & 38\\ \midrule yA & acl:relcl & 38\\ \midrule yA & aux:pass & 13\\ \midrule yA & aux & 39\\ \midrule yA & nsubj & 15\\ \midrule yA & nsubj:pass & 1\\ \midrule yA & nmod & 2\\ \midrule yA & amod & 2\\ \midrule 
+iskA & nmod & 131\\ \midrule iskA & nsubj:pass & 1\\ \midrule 
+isameM & nmod & 17\\ \midrule isameM & obl & 81\\ \midrule isameM & nsubj & 1\\ \midrule isameM & nsubj:pass & 1\\ \midrule 
+eM & root & 41\\ \midrule eM & nsubj & 245\\ \midrule eM & obj & 180\\ \midrule eM & conj & 29\\ \midrule eM & advcl & 14\\ \midrule eM & nsubj:pass & 6\\ \midrule eM & compound & 30\\ \midrule eM & nmod & 7\\ \midrule eM & aux & 19\\ \midrule eM & acl & 17\\ \midrule eM & aux:pass & 15\\ \midrule eM & amod & 17\\ \midrule eM & obl & 9\\ \midrule eM & acl:relcl & 5\\ \midrule eM & iobj & 12\\ \midrule 
+M & cop & 536\\ \midrule M & conj & 22\\ \midrule M & aux:pass & 925\\ \midrule M & aux & 628\\ \midrule M & root & 56\\ \midrule M & advmod & 18\\ \midrule M & nmod & 178\\ \midrule M & nsubj & 31\\ \midrule M & amod & 11\\ \midrule M & compound & 104\\ \midrule M & dep & 1\\ \midrule M & obl & 439\\ \midrule M & acl:relcl & 7\\ \midrule M & obj & 76\\ \midrule M & advcl & 5\\ \midrule M & acl & 6\\ \midrule M & case & 1\\ \midrule M & nummod & 1\\ \midrule M & iobj & 2\\ \midrule 
+ne & advcl & 1146\\ \midrule ne & amod & 460\\ \midrule ne & nmod & 1538\\ \midrule ne & obl & 806\\ \midrule ne & nsubj & 85\\ \midrule ne & conj & 166\\ \midrule ne & root & 101\\ \midrule ne & obj & 176\\ \midrule ne & acl & 47\\ \midrule ne & iobj & 7\\ \midrule ne & advmod & 29\\ \midrule ne & aux:pass & 311\\ \midrule ne & acl:relcl & 8\\ \midrule ne & aux & 113\\ \midrule ne & compound & 4\\ \midrule ne & xcomp & 1\\ \midrule ne & nsubj:pass & 2\\ \midrule 
+e & amod & 1011\\ \midrule e & case & 6434\\ \midrule e & obl & 1634\\ \midrule e & acl & 448\\ \midrule e & conj & 137\\ \midrule e & obj & 545\\ \midrule e & root & 479\\ \midrule e & nsubj & 443\\ \midrule e & acl:relcl & 50\\ \midrule e & det & 241\\ \midrule e & compound & 124\\ \midrule e & nmod & 1325\\ \midrule e & cop & 136\\ \midrule e & aux & 873\\ \midrule e & advmod & 10\\ \midrule e & mark & 677\\ \midrule e & dep & 17\\ \midrule e & punct & 5\\ \midrule e & aux:pass & 428\\ \midrule e & xcomp & 12\\ \midrule e & dislocated & 66\\ \midrule e & advcl & 80\\ \midrule e & iobj & 26\\ \midrule e & nummod & 4\\ \midrule e & nsubj:pass & 6\\ \midrule e & cc & 1\\ \midrule 
+wA & root & 163\\ \midrule wA & aux:pass & 243\\ \midrule wA & aux & 201\\ \midrule wA & conj & 40\\ \midrule wA & acl:relcl & 26\\ \midrule wA & advcl & 36\\ \midrule wA & compound & 2\\ \midrule wA & det & 1\\ \midrule wA & obj & 72\\ \midrule wA & case & 1\\ \midrule wA & nmod & 1\\ \midrule wA & acl & 22\\ \midrule wA & nsubj & 2\\ \midrule 
+inheM & obj & 23\\ \midrule inheM & iobj & 5\\ \midrule inheM & nsubj & 2\\ \midrule inheM & nsubj:pass & 1\\ \midrule 
+A & acl:relcl & 83\\ \midrule A & root & 2689\\ \midrule A & acl & 89\\ \midrule A & advcl & 45\\ \midrule A & aux & 410\\ \midrule A & conj & 129\\ \midrule A & obj & 197\\ \midrule A & nsubj & 23\\ \midrule A & aux:pass & 217\\ \midrule A & case & 2\\ \midrule A & advmod & 1\\ \midrule A & obl & 2\\ \midrule A & nmod & 1\\ \midrule A & amod & 4\\ \midrule A & dep & 1\\ \midrule A & nsubj:pass & 1\\ \midrule A & compound & 2\\ \midrule 
+iyA & root & 1148\\ \midrule iyA & aux & 525\\ \midrule iyA & aux:pass & 218\\ \midrule iyA & conj & 111\\ \midrule iyA & nsubj & 29\\ \midrule iyA & acl:relcl & 92\\ \midrule iyA & obj & 323\\ \midrule iyA & compound & 1\\ \midrule iyA & acl & 72\\ \midrule iyA & advcl & 46\\ \midrule iyA & nmod & 1\\ \midrule iyA & obl & 1\\ \midrule iyA & amod & 1\\ \midrule 
+is & det & 1947\\ \midrule is & obl & 198\\ \midrule is & case & 123\\ \midrule is & nsubj & 69\\ \midrule is & mark & 32\\ \midrule is & nmod & 52\\ \midrule is & iobj & 10\\ \midrule is & dep & 20\\ \midrule is & advcl & 7\\ \midrule is & cc & 16\\ \midrule is & punct & 10\\ \midrule is & dislocated & 4\\ \midrule is & obj & 14\\ \midrule is & amod & 6\\ \midrule 
+, & punct & 2541\\ \midrule , & cc & 31\\ \midrule , & aux:pass & 1\\ \midrule , & obj & 1\\ \midrule , & advmod & 2\\ \midrule , & nsubj & 1\\ \midrule , & nummod & 34\\ \midrule , & det & 1\\ \midrule , & case & 6\\ \midrule , & nmod & 1\\ \midrule , & mark & 1\\ \midrule 
+Z & obl & 96\\ \midrule Z & amod & 76\\ \midrule Z & nummod & 138\\ \midrule Z & nmod & 117\\ \midrule Z & root & 78\\ \midrule Z & compound & 153\\ \midrule Z & obj & 101\\ \midrule Z & advcl & 13\\ \midrule Z & acl:relcl & 9\\ \midrule Z & nsubj & 76\\ \midrule Z & conj & 37\\ \midrule Z & case & 45\\ \midrule Z & det & 9\\ \midrule Z & advmod & 13\\ \midrule Z & acl & 10\\ \midrule Z & aux & 1\\ \midrule Z & nsubj:pass & 2\\ \midrule Z & xcomp & 8\\ \midrule Z & dep & 6\\ \midrule Z & mark & 3\\ \midrule Z & iobj & 3\\ \midrule Z & cc & 4\\ \midrule 
+s & obl & 12\\ \midrule s & nmod & 27\\ \midrule s & obj & 2\\ \midrule s & compound & 26\\ \midrule s & root & 2\\ \midrule s & nsubj & 2\\ \midrule s & conj & 4\\ \midrule s & iobj & 1\\ \midrule 
+uA & aux & 61\\ \midrule uA & root & 114\\ \midrule uA & acl & 7\\ \midrule uA & obj & 37\\ \midrule uA & conj & 12\\ \midrule uA & advcl & 11\\ \midrule uA & acl:relcl & 13\\ \midrule uA & aux:pass & 1\\ \midrule uA & nsubj & 4\\ \midrule 
+gae & aux:pass & 408\\ \midrule gae & aux & 242\\ \midrule gae & root & 23\\ \midrule gae & acl & 11\\ \midrule gae & acl:relcl & 3\\ \midrule gae & conj & 2\\ \midrule gae & obj & 1\\ \midrule gae & advcl & 1\\ \midrule 
+ke & advcl & 59\\ \midrule ke & obl & 5\\ \midrule ke & nmod & 11\\ \midrule ke & case & 1\\ \midrule ke & root & 1\\ \midrule ke & nsubj & 1\\ \midrule ke & obj & 1\\ \midrule 
+isse & obl & 217\\ \midrule isse & obj & 6\\ \midrule isse & nmod & 13\\ \midrule isse & cc & 1\\ \midrule isse & nsubj & 1\\ \midrule isse & root & 1\\ \midrule 
+gay & aux:pass & 978\\ \midrule gay & aux & 290\\ \midrule gay & root & 10\\ \midrule gay & obj & 4\\ \midrule gay & conj & 1\\ \midrule gay & acl & 1\\ \midrule 
+kara & advcl & 772\\ \midrule kara & nmod & 12\\ \midrule kara & root & 5\\ \midrule kara & amod & 8\\ \midrule kara & obl & 1\\ \midrule kara & xcomp & 1\\ \midrule kara & compound & 1\\ \midrule kara & advmod & 17\\ \midrule kara & acl & 2\\ \midrule kara & aux & 4\\ \midrule kara & conj & 3\\ \midrule kara & obj & 2\\ \midrule 
+iyoM & obj & 135\\ \midrule iyoM & obl & 260\\ \midrule iyoM & conj & 86\\ \midrule iyoM & nmod & 359\\ \midrule iyoM & nsubj & 251\\ \midrule iyoM & iobj & 96\\ \midrule iyoM & nummod & 1\\ \midrule iyoM & nsubj:pass & 14\\ \midrule iyoM & acl & 1\\ \midrule iyoM & root & 2\\ \midrule 
+we & aux & 199\\ \midrule we & root & 238\\ \midrule we & conj & 47\\ \midrule we & aux:pass & 30\\ \midrule we & advcl & 632\\ \midrule we & acl:relcl & 39\\ \midrule we & obj & 87\\ \midrule we & obl & 18\\ \midrule we & acl & 103\\ \midrule we & advmod & 5\\ \midrule we & amod & 4\\ \midrule we & compound & 6\\ \midrule we & nsubj & 3\\ \midrule we & mark & 1\\ \midrule 
+iyAz & conj & 3\\ \midrule iyAz & nsubj & 9\\ \midrule iyAz & root & 4\\ \midrule iyAz & obj & 4\\ \midrule iyAz & nmod & 1\\ \midrule iyAz & compound & 1\\ \midrule 
+inameM & obl & 17\\ \midrule inameM & nmod & 10\\ \midrule inameM & nsubj:pass & 1\\ \midrule 
+ue & aux & 645\\ \midrule ue & acl:relcl & 8\\ \midrule ue & acl & 124\\ \midrule ue & nsubj & 1\\ \midrule ue & obj & 9\\ \midrule ue & root & 32\\ \midrule ue & advcl & 3\\ \midrule ue & compound & 3\\ \midrule ue & conj & 7\\ \midrule ue & obl & 1\\ \midrule ue & aux:pass & 1\\ \midrule ue & amod & 1\\ \midrule 
+wI & root & 170\\ \midrule wI & conj & 16\\ \midrule wI & advcl & 33\\ \midrule wI & aux & 158\\ \midrule wI & acl & 31\\ \midrule wI & aux:pass & 78\\ \midrule wI & obj & 61\\ \midrule wI & acl:relcl & 25\\ \midrule wI & nsubj & 5\\ \midrule wI & amod & 1\\ \midrule 
+ez & root & 12\\ \midrule ez & nsubj & 6\\ \midrule ez & aux & 1\\ \midrule ez & advcl & 1\\ \midrule ez & conj & 3\\ \midrule ez & obj & 3\\ \midrule 
+IM & compound & 18\\ \midrule IM & acl:relcl & 2\\ \midrule IM & root & 34\\ \midrule IM & aux & 51\\ \midrule IM & amod & 10\\ \midrule IM & obl & 10\\ \midrule IM & aux:pass & 30\\ \midrule IM & obj & 2\\ \midrule IM & cop & 17\\ \midrule IM & conj & 8\\ \midrule IM & acl & 4\\ \midrule IM & advcl & 3\\ \midrule IM & xcomp & 1\\ \midrule IM & nmod & 4\\ \midrule 
+vAI & acl & 1\\ \midrule vAI & advcl & 1\\ \midrule 
+gaI & aux:pass & 451\\ \midrule gaI & aux & 262\\ \midrule gaI & root & 6\\ \midrule gaI & acl & 1\\ \midrule 
+unke & nmod & 281\\ \midrule unke & obl & 76\\ \midrule unke & conj & 3\\ \midrule unke & root & 3\\ \midrule unke & nsubj:pass & 2\\ \midrule unke & nsubj & 13\\ \midrule unke & obj & 2\\ \midrule unke & iobj & 1\\ \midrule 
+iskI & nmod & 106\\ \midrule iskI & obl & 5\\ \midrule 
+i & aux & 37\\ \midrule i & advcl & 16\\ \midrule i & amod & 8\\ \midrule i & root & 65\\ \midrule i & obj & 14\\ \midrule i & obl & 16\\ \midrule i & case & 1\\ \midrule i & conj & 6\\ \midrule i & mark & 2\\ \midrule i & det & 8\\ \midrule i & acl & 34\\ \midrule i & aux:pass & 29\\ \midrule i & nmod & 14\\ \midrule i & acl:relcl & 3\\ \midrule i & compound & 1\\ \midrule i & nsubj & 1\\ \midrule 
+wIM & root & 4\\ \midrule wIM & aux & 4\\ \midrule wIM & obj & 2\\ \midrule wIM & acl:relcl & 1\\ \midrule wIM & aux:pass & 1\\ \midrule 
+vAyA & root & 18\\ \midrule vAyA & obj & 2\\ \midrule vAyA & acl & 4\\ \midrule vAyA & conj & 1\\ \midrule 
+uI & aux & 38\\ \midrule uI & root & 167\\ \midrule uI & acl & 120\\ \midrule uI & conj & 11\\ \midrule uI & obj & 35\\ \midrule uI & nsubj & 3\\ \midrule uI & acl:relcl & 20\\ \midrule uI & compound & 2\\ \midrule uI & amod & 1\\ \midrule uI & advcl & 5\\ \midrule uI & nsubj:pass & 1\\ \midrule uI & obl & 1\\ \midrule 
+yAz & root & 1\\ \midrule yAz & conj & 1\\ \midrule yAz & nsubj & 2\\ \midrule yAz & obj & 1\\ \midrule 
+iske & nmod & 115\\ \midrule iske & obl & 427\\ \midrule iske & obj & 1\\ \midrule iske & root & 2\\ \midrule iske & nsubj & 2\\ \midrule iske & conj & 1\\ \midrule 
+nA & nsubj & 466\\ \midrule nA & acl:relcl & 18\\ \midrule nA & compound & 9\\ \midrule nA & obj & 286\\ \midrule nA & root & 178\\ \midrule nA & aux & 28\\ \midrule nA & conj & 47\\ \midrule nA & acl & 20\\ \midrule nA & obl & 4\\ \midrule nA & nmod & 4\\ \midrule nA & advcl & 21\\ \midrule nA & aux:pass & 84\\ \midrule nA & xcomp & 3\\ \midrule nA & nsubj:pass & 1\\ \midrule nA & mark & 1\\ \midrule nA & amod & 1\\ \midrule 
+isake & obl & 41\\ \midrule isake & nmod & 8\\ \midrule isake & nsubj & 1\\ \midrule 
+isI & det & 126\\ \midrule isI & nmod & 5\\ \midrule isI & obl & 15\\ \midrule isI & obj & 4\\ \midrule 
+es & conj & 1\\ \midrule es & compound & 2\\ \midrule 
+ie & root & 82\\ \midrule ie & conj & 16\\ \midrule ie & acl & 69\\ \midrule ie & advcl & 17\\ \midrule ie & obl & 17\\ \midrule ie & nmod & 34\\ \midrule ie & obj & 26\\ \midrule ie & amod & 16\\ \midrule ie & nsubj & 4\\ \midrule ie & compound & 4\\ \midrule ie & iobj & 3\\ \midrule ie & advmod & 2\\ \midrule ie & vocative & 1\\ \midrule ie & acl:relcl & 7\\ \midrule ie & aux & 2\\ \midrule ie & aux:pass & 1\\ \midrule 
+jI & nmod & 2\\ \midrule 
+se & root & 1\\ \midrule se & nmod & 2\\ \midrule se & case & 1\\ \midrule se & obl & 3\\ \midrule se & iobj & 1\\ \midrule se & obj & 1\\ \midrule 
+. & nmod & 2\\ \midrule . & compound & 20\\ \midrule . & punct & 1\\ \midrule 
+uske & nmod & 103\\ \midrule uske & obl & 64\\ \midrule uske & conj & 5\\ \midrule uske & nsubj:pass & 2\\ \midrule uske & obj & 3\\ \midrule 
+iye & root & 6\\ \midrule iye & advcl & 1\\ \midrule iye & nmod & 1\\ \midrule iye & obl & 1\\ \midrule iye & obj & 1\\ \midrule 
+unkI & nmod & 245\\ \midrule unkI & obl & 5\\ \midrule unkI & obj & 1\\ \midrule unkI & nsubj & 2\\ \midrule unkI & conj & 1\\ \midrule unkI & nsubj:pass & 1\\ \midrule 
+in & det & 373\\ \midrule in & obl & 7\\ \midrule in & compound & 1\\ \midrule 
+n & nummod & 2\\ \midrule n & xcomp & 1\\ \midrule n & amod & 2\\ \midrule n & compound & 22\\ \midrule n & nsubj & 5\\ \midrule n & obl & 3\\ \midrule n & nmod & 4\\ \midrule n & obj & 1\\ \midrule 
+Mge & aux & 32\\ \midrule Mge & root & 50\\ \midrule Mge & aux:pass & 2\\ \midrule Mge & acl & 5\\ \midrule Mge & obj & 21\\ \midrule Mge & conj & 10\\ \midrule Mge & acl:relcl & 2\\ \midrule Mge & xcomp & 1\\ \midrule Mge & advcl & 1\\ \midrule 
+kA & nmod & 7\\ \midrule 
+gA & aux & 84\\ \midrule gA & root & 82\\ \midrule gA & conj & 21\\ \midrule gA & acl:relcl & 10\\ \midrule gA & acl & 15\\ \midrule gA & obj & 42\\ \midrule gA & aux:pass & 4\\ \midrule gA & nsubj & 1\\ \midrule gA & advcl & 1\\ \midrule gA & nmod & 1\\ \midrule 
+Are & obl & 8\\ \midrule Are & det & 1\\ \midrule Are & nmod & 35\\ \midrule Are & nsubj:pass & 1\\ \midrule Are & obj & 1\\ \midrule 
+inIM & det & 8\\ \midrule inIM & obl & 2\\ \midrule 
+noM & obj & 6\\ \midrule noM & acl & 1\\ \midrule noM & nummod & 310\\ \midrule noM & nmod & 17\\ \midrule noM & iobj & 4\\ \midrule noM & obl & 7\\ \midrule noM & nsubj & 24\\ \midrule noM & root & 1\\ \midrule noM & xcomp & 3\\ \midrule noM & advmod & 1\\ \midrule 
+ZiyoM & obl & 8\\ \midrule ZiyoM & nmod & 10\\ \midrule ZiyoM & obj & 5\\ \midrule ZiyoM & iobj & 3\\ \midrule ZiyoM & nsubj & 3\\ \midrule 
+uskA & nmod & 55\\ \midrule uskA & nsubj & 5\\ \midrule 
+Iji & aux & 3\\ \midrule Iji & root & 1\\ \midrule 
+kI & nmod & 12\\ \midrule 
+ko & iobj & 5\\ \midrule ko & nsubj & 15\\ \midrule ko & obj & 2\\ \midrule 
+us & obl & 24\\ \midrule us & det & 132\\ \midrule us & nmod & 7\\ \midrule 
+iegA & root & 5\\ \midrule 
+' & punct & 638\\ \midrule 
+eMge & root & 134\\ \midrule eMge & obj & 94\\ \midrule eMge & acl & 29\\ \midrule eMge & aux & 55\\ \midrule eMge & advcl & 3\\ \midrule eMge & conj & 17\\ \midrule eMge & acl:relcl & 13\\ \midrule eMge & aux:pass & 33\\ \midrule eMge & nsubj & 1\\ \midrule eMge & xcomp & 1\\ \midrule eMge & nsubj:pass & 1\\ \midrule eMge & obl & 1\\ \midrule 
+egI & root & 72\\ \midrule egI & aux & 55\\ \midrule egI & aux:pass & 111\\ \midrule egI & obj & 66\\ \midrule egI & acl:relcl & 7\\ \midrule egI & conj & 9\\ \midrule egI & nsubj & 4\\ \midrule egI & acl & 11\\ \midrule egI & nmod & 1\\ \midrule 
+inmeM & nmod & 46\\ \midrule inmeM & obl & 28\\ \midrule inmeM & nsubj & 1\\ \midrule 
+yoM & obj & 28\\ \midrule yoM & conj & 10\\ \midrule yoM & nmod & 35\\ \midrule yoM & obl & 39\\ \midrule yoM & iobj & 11\\ \midrule yoM & nsubj & 8\\ \midrule yoM & case & 1\\ \midrule 
+egA & advcl & 5\\ \midrule egA & root & 97\\ \midrule egA & aux & 82\\ \midrule egA & obj & 62\\ \midrule egA & aux:pass & 240\\ \midrule egA & acl & 21\\ \midrule egA & conj & 18\\ \midrule egA & compound & 1\\ \midrule egA & nmod & 1\\ \midrule egA & acl:relcl & 7\\ \midrule 
+la & compound & 1\\ \midrule 
+use & iobj & 50\\ \midrule use & nsubj & 31\\ \midrule use & obj & 87\\ \midrule use & obl & 2\\ \midrule 
+BI & nmod & 7\\ \midrule BI & det & 12\\ \midrule BI & iobj & 1\\ \midrule BI & obl & 8\\ \midrule BI & nsubj & 14\\ \midrule BI & obj & 8\\ \midrule BI & nsubj:pass & 1\\ \midrule 
+ezge & aux & 1\\ \midrule 
+oz & obl & 1\\ \midrule 
+Ms & obl & 4\\ \midrule Ms & nmod & 10\\ \midrule Ms & conj & 3\\ \midrule Ms & iobj & 1\\ \midrule Ms & nsubj & 2\\ \midrule Ms & compound & 2\\ \midrule Ms & obj & 1\\ \midrule 
+ja & obl & 5\\ \midrule ja & nmod & 9\\ \midrule ja & iobj & 2\\ \midrule ja & compound & 5\\ \midrule ja & nsubj & 2\\ \midrule ja & conj & 1\\ \midrule 
+ZA & root & 24\\ \midrule ZA & advcl & 2\\ \midrule ZA & obj & 6\\ \midrule ZA & conj & 2\\ \midrule ZA & acl & 2\\ \midrule ZA & acl:relcl & 1\\ \midrule ZA & compound & 1\\ \midrule ZA & nsubj & 1\\ \midrule ZA & amod & 1\\ \midrule 
+ineM & nsubj & 4\\ \midrule ineM & iobj & 7\\ \midrule ineM & obj & 19\\ \midrule 
+ue... & advcl & 1\\ \midrule 
+isase & obj & 3\\ \midrule isase & obl & 62\\ \midrule isase & nmod & 1\\ \midrule 
+inkI & nmod & 22\\ \midrule 
+inke & nmod & 11\\ \midrule inke & obl & 6\\ \midrule inke & nsubj:pass & 1\\ \midrule 
+o & obl & 40\\ \midrule o & case & 2\\ \midrule o & det & 4\\ \midrule o & nsubj & 2\\ \midrule o & nmod & 38\\ \midrule o & compound & 5\\ \midrule o & obj & 6\\ \midrule o & amod & 5\\ \midrule o & conj & 5\\ \midrule o & nummod & 1\\ \midrule o & root & 2\\ \midrule o & aux & 1\\ \midrule o & iobj & 1\\ \midrule 
+unoMne & nsubj & 1198\\ \midrule unoMne & obl & 1\\ \midrule 
+xillI & obl & 1\\ \midrule 
+isa & det & 53\\ \midrule isa & nmod & 4\\ \midrule isa & obl & 11\\ \midrule isa & amod & 1\\ \midrule 
+gI & aux & 20\\ \midrule gI & obj & 37\\ \midrule gI & conj & 13\\ \midrule gI & acl:relcl & 7\\ \midrule gI & root & 73\\ \midrule gI & advcl & 1\\ \midrule gI & acl & 9\\ \midrule gI & nsubj & 2\\ \midrule 
+m & nsubj & 2\\ \midrule m & nmod & 2\\ \midrule m & obl & 4\\ \midrule m & amod & 1\\ \midrule m & compound & 3\\ \midrule m & xcomp & 1\\ \midrule 
+ismeM & obl & 104\\ \midrule ismeM & nmod & 48\\ \midrule 
+na & obl & 1\\ \midrule 
+un & det & 61\\ \midrule un & obl & 19\\ \midrule un & obj & 1\\ \midrule un & nmod & 3\\ \midrule 
+inse & obj & 1\\ \midrule inse & obl & 3\\ \midrule 
+maka & amod & 1\\ \midrule 
+ya & nsubj & 1\\ \midrule ya & aux:pass & 2\\ \midrule 
+ZI & root & 9\\ \midrule ZI & amod & 41\\ \midrule ZI & obj & 9\\ \midrule ZI & det & 1\\ \midrule ZI & compound & 1\\ \midrule ZI & acl & 12\\ \midrule ZI & acl:relcl & 3\\ \midrule ZI & conj & 1\\ \midrule 
+? & punct & 9\\ \midrule 
+vAwA & root & 1\\ \midrule 
+isakA & nmod & 19\\ \midrule isakA & nsubj & 2\\ \midrule 
+sa & compound & 2\\ \midrule 
+Ze & amod & 50\\ \midrule Ze & conj & 8\\ \midrule Ze & acl & 34\\ \midrule Ze & obl & 11\\ \midrule Ze & root & 14\\ \midrule Ze & compound & 9\\ \midrule Ze & nmod & 15\\ \midrule Ze & advmod & 1\\ \midrule Ze & obj & 11\\ \midrule Ze & acl:relcl & 2\\ \midrule Ze & nsubj & 3\\ \midrule Ze & punct & 1\\ \midrule Ze & case & 1\\ \midrule Ze & det & 1\\ \midrule Ze & advcl & 1\\ \midrule 
+ArI & nmod & 37\\ \midrule 
+ZoM & obl & 17\\ \midrule ZoM & obj & 3\\ \midrule ZoM & nmod & 20\\ \midrule ZoM & nummod & 29\\ \midrule ZoM & nsubj & 1\\ \midrule ZoM & conj & 2\\ \midrule ZoM & root & 1\\ \midrule ZoM & iobj & 1\\ \midrule 
+isakI & nmod & 10\\ \midrule isakI & obl & 3\\ \midrule 
+ave & acl & 1\\ \midrule 
+uneM & nsubj & 116\\ \midrule uneM & iobj & 123\\ \midrule uneM & obj & 122\\ \midrule uneM & nmod & 1\\ \midrule uneM & nsubj:pass & 6\\ \midrule uneM & conj & 1\\ \midrule uneM & obl & 1\\ \midrule 
+OoM & obj & 1\\ \midrule 
+inkA & nmod & 13\\ \midrule inkA & nsubj & 2\\ \midrule 
+usI & det & 28\\ \midrule usI & obl & 2\\ \midrule usI & nsubj & 2\\ \midrule usI & nmod & 4\\ \midrule 
+gaIM & aux & 8\\ \midrule gaIM & aux:pass & 11\\ \midrule gaIM & root & 1\\ \midrule 
+yAM & root & 1\\ \midrule yAM & obj & 13\\ \midrule yAM & nsubj & 5\\ \midrule 
+ija & nsubj & 1\\ \midrule 
+nI & conj & 16\\ \midrule nI & root & 69\\ \midrule nI & obj & 44\\ \midrule nI & aux:pass & 26\\ \midrule nI & aux & 5\\ \midrule nI & acl:relcl & 4\\ \midrule nI & nsubj & 5\\ \midrule nI & advcl & 4\\ \midrule nI & acl & 8\\ \midrule nI & obl & 1\\ \midrule nI & amod & 1\\ \midrule 
+gaye & aux:pass & 9\\ \midrule gaye & aux & 2\\ \midrule 
+Zwe & advcl & 6\\ \midrule Zwe & acl & 7\\ \midrule Zwe & root & 1\\ \midrule Zwe & conj & 2\\ \midrule Zwe & aux & 1\\ \midrule 
+UM & aux & 19\\ \midrule UM & cop & 9\\ \midrule UM & aux:pass & 10\\ \midrule UM & root & 2\\ \midrule UM & obj & 1\\ \midrule UM & conj & 1\\ \midrule 
+uskI & nmod & 90\\ \midrule uskI & obl & 1\\ \midrule uskI & nsubj & 1\\ \midrule 
+unkA & nmod & 77\\ \midrule unkA & nsubj & 50\\ \midrule unkA & obl & 1\\ \midrule 
+Zkara & advcl & 32\\ \midrule Zkara & advmod & 3\\ \midrule Zkara & amod & 1\\ \midrule 
+usmeM & obl & 20\\ \midrule 
+iyAM & obj & 43\\ \midrule iyAM & nsubj:pass & 3\\ \midrule iyAM & nsubj & 67\\ \midrule iyAM & compound & 9\\ \midrule iyAM & conj & 16\\ \midrule iyAM & root & 1\\ \midrule iyAM & nmod & 2\\ \midrule iyAM & obl & 2\\ \midrule iyAM & iobj & 1\\ \midrule 
+uoM & obl & 6\\ \midrule uoM & nmod & 7\\ \midrule uoM & conj & 1\\ \midrule uoM & nsubj & 1\\ \midrule uoM & obj & 1\\ \midrule 
+ZAyA & obj & 1\\ \midrule 
+\_JOIN\_ & punct & 94\\ \midrule 
+Zne & nmod & 49\\ \midrule Zne & amod & 9\\ \midrule Zne & advcl & 36\\ \midrule Zne & obl & 20\\ \midrule Zne & obj & 4\\ \midrule Zne & root & 4\\ \midrule Zne & iobj & 1\\ \midrule Zne & conj & 2\\ \midrule Zne & advmod & 1\\ \midrule Zne & acl & 1\\ \midrule 
+inhMne & xcomp & 1\\ \midrule inhMne & nsubj & 10\\ \midrule 
+ina & det & 27\\ \midrule ina & obl & 5\\ \midrule ina & cc & 1\\ \midrule ina & nmod & 1\\ \midrule 
+usne & nsubj & 103\\ \midrule 
+Ijie & root & 1\\ \midrule 
+nevAlI & amod & 2\\ \midrule 
+ZegA & root & 5\\ \midrule ZegA & obj & 6\\ \midrule ZegA & acl & 6\\ \midrule ZegA & conj & 2\\ \midrule ZegA & acl:relcl & 1\\ \midrule 
+333602 & nmod & 1\\ \midrule 
+Ane & obl & 1\\ \midrule Ane & advcl & 3\\ \midrule Ane & nmod & 3\\ \midrule Ane & amod & 1\\ \midrule Ane & conj & 1\\ \midrule 
+gayI & aux & 12\\ \midrule gayI & aux:pass & 22\\ \midrule 
+! & punct & 2\\ \midrule 
+uJe & iobj & 13\\ \midrule uJe & obj & 10\\ \midrule uJe & nsubj & 17\\ \midrule uJe & nsubj:pass & 1\\ \midrule 
+ArA & nmod & 14\\ \midrule ArA & nsubj & 2\\ \midrule ArA & obl & 1\\ \midrule 
+ZZ & obj & 9\\ \midrule ZZ & compound & 8\\ \midrule ZZ & nmod & 6\\ \midrule ZZ & obl & 8\\ \midrule ZZ & root & 1\\ \midrule ZZ & case & 9\\ \midrule ZZ & det & 1\\ \midrule ZZ & conj & 3\\ \midrule ZZ & nsubj & 11\\ \midrule 
+ZnA & obj & 10\\ \midrule ZnA & conj & 2\\ \midrule ZnA & compound & 1\\ \midrule ZnA & nsubj & 1\\ \midrule 
+riM & nmod & 1\\ \midrule riM & conj & 1\\ \midrule 
+ZeM & nsubj & 2\\ \midrule ZeM & obj & 1\\ \midrule ZeM & root & 1\\ \midrule 
+ye & root & 6\\ \midrule ye & nmod & 5\\ \midrule ye & aux & 3\\ \midrule ye & aux:pass & 1\\ \midrule ye & acl & 1\\ \midrule ye & obj & 1\\ \midrule 
+Mne & obl & 4\\ \midrule Mne & nsubj & 1\\ \midrule Mne & advcl & 2\\ \midrule Mne & root & 1\\ \midrule 
+e. & compound & 1\\ \midrule 
+unse & obl & 15\\ \midrule unse & iobj & 10\\ \midrule unse & obj & 13\\ \midrule unse & nsubj & 3\\ \midrule unse & nmod & 2\\ \midrule unse & conj & 1\\ \midrule 
+0, & nummod & 6\\ \midrule 0, & obj & 1\\ \midrule 0, & nmod & 2\\ \midrule 0, & case & 3\\ \midrule 0, & advmod & 1\\ \midrule 0, & obl & 1\\ \midrule 
+ZyA & root & 3\\ \midrule ZyA & nsubj & 1\\ \midrule ZyA & advcl & 1\\ \midrule ZyA & acl & 1\\ \midrule ZyA & conj & 1\\ \midrule ZyA & amod & 1\\ \midrule 
+unmeM & obl & 11\\ \midrule unmeM & nmod & 10\\ \midrule unmeM & nsubj & 1\\ \midrule 
+Zye & obj & 1\\ \midrule 
+yegA & aux & 1\\ \midrule yegA & aux:pass & 3\\ \midrule 
+erI & nmod & 10\\ \midrule erI & nsubj & 1\\ \midrule 
+isane & nsubj & 12\\ \midrule 
+ZwI & acl & 11\\ \midrule ZwI & advcl & 1\\ \midrule ZwI & root & 2\\ \midrule ZwI & acl:relcl & 1\\ \midrule 
+inoMne & nsubj & 4\\ \midrule 
+usse & obj & 11\\ \midrule usse & nmod & 12\\ \midrule usse & obl & 16\\ \midrule usse & iobj & 4\\ \midrule usse & nsubj & 1\\ \midrule 
+UMgI & root & 2\\ \midrule UMgI & aux & 2\\ \midrule UMgI & obj & 2\\ \midrule UMgI & conj & 1\\ \midrule 
+erA & nmod & 7\\ \midrule erA & nsubj & 1\\ \midrule 
+pawni & nmod & 1\\ \midrule 
+eMgIM & root & 1\\ \midrule eMgIM & aux & 2\\ \midrule 
+eMgI & aux & 12\\ \midrule eMgI & aux:pass & 4\\ \midrule eMgI & obj & 11\\ \midrule eMgI & acl:relcl & 1\\ \midrule eMgI & acl & 2\\ \midrule eMgI & root & 17\\ \midrule 
+a & nmod & 4\\ \midrule 
+vA & root & 3\\ \midrule vA & conj & 1\\ \midrule 
+,000 & compound & 1\\ \midrule ,000 & punct & 1\\ \midrule ,000 & nummod & 3\\ \midrule 
+,, & nummod & 6\\ \midrule 
+Me & acl & 8\\ \midrule Me & amod & 1\\ \midrule Me & conj & 1\\ \midrule Me & nmod & 5\\ \midrule Me & obl & 4\\ \midrule Me & root & 2\\ \midrule Me & compound & 1\\ \midrule 
+- & compound & 1\\ \midrule - & nmod & 1\\ \midrule 
+aI & nmod & 1\\ \midrule 
+AnA & root & 1\\ \midrule 
+y & obj & 1\\ \midrule 
+unko & obj & 3\\ \midrule unko & iobj & 3\\ \midrule unko & nsubj & 7\\ \midrule 
+j & acl & 1\\ \midrule 
+ere & nmod & 11\\ \midrule ere & obl & 2\\ \midrule ere & acl:relcl & 1\\ \midrule 
+isae & nsubj & 4\\ \midrule 
+ZU & amod & 2\\ \midrule 
+\_\_ & punct & 4\\ \midrule 
+ane & nmod & 1\\ \midrule 
+unIM & det & 8\\ \midrule unIM & nmod & 1\\ \midrule 
+vAne & obl & 1\\ \midrule vAne & nmod & 2\\ \midrule vAne & conj & 1\\ \midrule 
+yI & root & 7\\ \midrule yI & amod & 2\\ \midrule yI & acl:relcl & 1\\ \midrule yI & aux & 2\\ \midrule yI & acl & 1\\ \midrule yI & obj & 1\\ \midrule 
+ZwA & conj & 2\\ \midrule ZwA & root & 5\\ \midrule ZwA & obj & 1\\ \midrule ZwA & acl:relcl & 1\\ \midrule ZwA & acl & 1\\ \midrule ZwA & advcl & 1\\ \midrule 
+ZnI & nsubj & 1\\ \midrule 
+MyA & conj & 1\\ \midrule MyA & root & 1\\ \midrule 
+MnA & root & 1\\ \midrule 
+vIM & amod & 1\\ \midrule 
+isko & obj & 8\\ \midrule isko & obl & 1\\ \midrule 
+UMgA & root & 1\\ \midrule UMgA & conj & 1\\ \midrule UMgA & advcl & 1\\ \midrule UMgA & obj & 2\\ \midrule 
+ZegI & obj & 2\\ \midrule ZegI & acl & 1\\ \midrule ZegI & root & 1\\ \midrule 
+ZAnA & conj & 1\\ \midrule 
+me & amod & 1\\ \midrule 
+inakI & nmod & 5\\ \midrule inakI & obl & 1\\ \midrule 
+zA & acl:relcl & 1\\ \midrule 
+jAnabUJaara & obl & 1\\ \midrule 
+musli & amod & 1\\ \midrule 
+r & conj & 1\\ \midrule r & compound & 1\\ \midrule r & amod & 1\\ \midrule 
+rAMj & obl & 1\\ \midrule 
+1 & nmod & 1\\ \midrule 
+() & nmod & 1\\ \midrule 
+Ah & nmod & 1\\ \midrule 
+U & obl & 1\\ \midrule 
+,480 & nummod & 1\\ \midrule 
+ZeMge & obj & 1\\ \midrule 
+Put & nmod & 1\\ \midrule 
+hiyoM & nmod & 1\\ \midrule 
+inko & nsubj & 1\\ \midrule inko & obj & 1\\ \midrule 
+nevAle & amod & 1\\ \midrule 
+MgI & root & 10\\ \midrule MgI & obj & 1\\ \midrule MgI & aux & 3\\ \midrule 
+hAre & obl & 1\\ \midrule 
+vAnA & nsubj & 1\\ \midrule vAnA & obj & 2\\ \midrule 
+inake & nmod & 9\\ \midrule inake & obl & 7\\ \midrule 
+EsI & det & 1\\ \midrule 
+MsoM & obl & 1\\ \midrule 
+z & cop & 2\\ \midrule z & aux:pass & 1\\ \midrule z & amod & 1\\ \midrule 
+rrsa & compound & 1\\ \midrule 
+hIM & det & 1\\ \midrule 
+AyA & acl & 1\\ \midrule AyA & conj & 1\\ \midrule 
+iy & root & 2\\ \midrule iy & nmod & 1\\ \midrule iy & acl & 1\\ \midrule iy & aux:pass & 1\\ \midrule iy & amod & 1\\ \midrule 
+uJase & obj & 1\\ \midrule 
+Uz & aux & 1\\ \midrule 
+iM & nsubj & 1\\ \midrule 
+mI & amod & 2\\ \midrule 
+) & punct & 2\\ \midrule 
+ZiyAz & nsubj & 1\\ \midrule 
+akara & advcl & 1\\ \midrule 
+Zie & advcl & 1\\ \midrule 
+vAwI & root & 1\\ \midrule 
+ej & compound & 2\\ \midrule ej & nmod & 1\\ \midrule ej & obl & 1\\ \midrule 
+ZIM & obj & 1\\ \midrule 
+MA & root & 1\\ \midrule 
+MvAe & root & 1\\ \midrule 
+MvAI & root & 1\\ \midrule 
+inase & nsubj & 1\\ \midrule inase & obl & 5\\ \midrule 
+MI & root & 2\\ \midrule MI & amod & 1\\ \midrule MI & acl & 1\\ \midrule 
+uIM & advcl & 1\\ \midrule uIM & root & 2\\ \midrule 
+eg & obj & 1\\ \midrule 
+k & mark & 1\\ \midrule 
+329 & compound & 1\\ \midrule 
+bord & nmod & 1\\ \midrule 
+wIn & nummod & 2\\ \midrule 
+inakA & nmod & 3\\ \midrule inakA & nsubj & 2\\ \midrule 
+aBI & det & 2\\ \midrule 
+prwbxXa & obj & 1\\ \midrule 
+OY & compound & 3\\ \midrule OY & obj & 1\\ \midrule OY & nmod & 1\\ \midrule 
+isak & iobj & 1\\ \midrule isak & obj & 2\\ \midrule 
+nane & nmod & 1\\ \midrule 
+vAkara & advcl & 2\\ \midrule 
+MgeM & aux & 1\\ \midrule MgeM & root & 1\\ \midrule 
+ioM & nmod & 1\\ \midrule ioM & conj & 1\\ \midrule 
+S & compound & 1\\ \midrule 
+yeMge & aux:pass & 1\\ \midrule 
+yeMgI & aux & 1\\ \midrule 
+ZZiyoM & obj & 2\\ \midrule ZZiyoM & obl & 1\\ \midrule 
+,898 & nummod & 1\\ \midrule 
+MnI & conj & 1\\ \midrule 
+uJa & obl & 4\\ \midrule 
+va & compound & 1\\ \midrule 
+yIM & obj & 1\\ \midrule 
+vAeMge & acl & 1\\ \midrule 
+d & nsubj & 1\\ \midrule 
+N & nmod & 1\\ \midrule 
+nirmiwa & amod & 1\\ \midrule 
+unoneM & nsubj & 1\\ \midrule 
+u & nmod & 1\\ \midrule 
+ww & amod & 1\\ \midrule 
+iw & advmod & 4\\ \midrule 
+egeM & aux & 1\\ \midrule egeM & root & 1\\ \midrule egeM & acl:relcl & 1\\ \midrule 
+... & punct & 1\\ \midrule 
+uMgI & obj & 1\\ \midrule 
+gIM & root & 1\\ \midrule 
+isne & nsubj & 3\\ \midrule 
+zI & root & 1\\ \midrule 
+zvo & obl & 1\\ \midrule 
+inak & iobj & 1\\ \midrule 
+meM & obl & 1\\ \midrule 
+aX & compound & 1\\ \midrule 
+XaX & compound & 1\\ \midrule 
+usko & obj & 1\\ \midrule 
+umane & nsubj & 1\\ \midrule 
+jAegA & aux & 1\\ \midrule 
+mAwra & advmod & 1\\ \midrule 
+ze & nsubj & 1\\ \midrule 
+Aw & obl & 1\\ \midrule 
+EM & amod & 1\\ \midrule 
+av & root & 1\\ \midrule 
+haa & nsubj & 1\\ \midrule 
+jZa & nmod & 1\\ \midrule 
+iMyoM & obj & 1\\ \midrule iMyoM & iobj & 1\\ \midrule 
+ejZ & compound & 1\\ \midrule 
+kra & advcl & 1\\ \midrule 
