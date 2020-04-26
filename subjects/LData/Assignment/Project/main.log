@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.4.1)  26 APR 2020 03:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.4.1)  27 APR 2020 00:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -666,82 +666,107 @@ LaTeX Info: Redefining \nameref on input line 19.
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 24.
- (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
- (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
- (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
 []|\OT1/cmr/m/n/10 tar bid-daloyer nird-hishto kono
  []
 
 
-Underfull \vbox (badness 10000) detected at line 112
+Underfull \vbox (badness 10000) detected at line 103
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+[]|\OT1/cmr/m/n/10 AnandamaTha \OT1/cmr/bx/n/10 baNki-machan-dra
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+[]|\OT1/cmr/m/n/10 AmAra \OT1/cmr/bx/n/10 ghara \OT1/cmr/m/n/10 theke mandi-rera
  []
 
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
-[]|\OT1/cmr/m/n/10 AnandamaTha \OT1/cmr/bx/n/10 baNki-machan-dra
+Underfull \vbox (badness 10000) detected at line 193
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--177
-[]|\OT1/cmr/m/n/10 AmAra \OT1/cmr/bx/n/10 ghara \OT1/cmr/m/n/10 theke mandi-rera
- []
-
-
-Underfull \vbox (badness 10000) detected at line 202
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 210--211
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
 []|\OT1/cmr/m/n/10 ratana \OT1/cmr/bx/n/10 un-natira \OT1/cmr/m/n/10 janya kaThora
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 305--308
-
+Underfull \vbox (badness 10000) detected at line 293
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 305--308
-
+[3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39] [40] [41] [42] [43]
+Underfull \vbox (badness 10000) detected at line 383
  []
 
-[3] [4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 321.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 321.
+[44] [45] [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71]
+Underfull \vbox (badness 10000) detected at line 422
+ []
+
+[72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111] [112]
+Underfull \vbox (badness 10000) detected at line 739
+ []
+
+[113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139] [140]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 1038.
+ (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 1038.
+ (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \vbox (badness 10000) detected at line 1062
+ []
+
+[141] [142] [143] [144] [145] [146] [147] [148] [149] [150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170] [171] [172] [173] [174] [175] [176] [177] [178] [179] [180] [181]
+Underfull \vbox (badness 10000) detected at line 2763
+ []
+
+[182] [183] [184] [185] [186] [187] [188] [189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199] [200] [201] [202] [203] [204] [205] [206] [207] [208] [209] [210] [211] [212] [213] [214] [215] [216] [217] [218] [219] [220] [221] [222] [223]
+Underfull \vbox (badness 10000) detected at line 4464
+ []
+
+[224] [225] [226] [227] [228] [229] [230] [231] [232] [233] [234] [235] [236] [237] [238] [239] [240] [241] [242] [243] [244] [245] [246] [247] [248] [249] [250] [251] [252] [253] [254] [255] [256] [257] [258] [259] [260] [261] [262] [263] [264]
+Underfull \vbox (badness 10000) detected at line 6165
+ []
+
+[265] [266] [267] [268] [269] [270] [271] [272] [273] [274] [275] [276] [277] [278] [279] [280] [281] [282] [283] [284] [285] [286] [287] [288] [289] [290] [291] [292] [293] [294] [295] [296] [297] [298] [299] [300] [301] [302] [303] [304] [305]
+Underfull \vbox (badness 10000) detected at line 7866
+ []
+
+[306] [307] [308] [309] [310] [311] [312] [313] [314] [315] [316] [317] [318] [319] [320] [321] [322] [323] [324] [325] [326] [327] [328] [329] [330] [331] [332] [333] [334] [335] [336] [337] [338] [339] [340] [341] [342] [343] [344] [345] [346] [347]
+Underfull \vbox (badness 10000) detected at line 9567
+ []
+
+[348] [349] [350] [351] [352] [353] [354] [355] [356] [357] [358] [359] [360] [361] [362] [363] [364] [365] [366] [367] [368] [369] [370] [371] [372] [373] [374] [375] [376] [377] [378] [379] [380] [381] [382] [383] [384] [385] [386] [387] [388] [389]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 11259.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 11259.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 321.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 321.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 11259.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 11259.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 49E2847D7DC4438F6F0D30EEA633E93F;864.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 321.
+(rerunfilecheck)             Checksum: 74908C316139B5BCEC75B695CCDC6277;1308.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 11259.
  ) 
 Here is how much of TeX's memory you used:
- 19823 strings out of 492167
- 367683 string characters out of 6131559
- 457336 words of memory out of 5000000
- 23813 multiletter control sequences out of 15000+600000
+ 20233 strings out of 492167
+ 370927 string characters out of 6131559
+ 474408 words of memory out of 5000000
+ 23825 multiletter control sequences out of 15000+600000
  7864 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,9n,87p,406b,456s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (4 pages, 131478 bytes).
+ 60i,9n,87p,3270b,458s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (389 pages, 750721 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
- 122 compressed objects within 2 object streams
- 21 named destinations out of 1000 (max. 500000)
- 221 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1894 PDF objects out of 2073 (max. 8388607)
+ 1464 compressed objects within 15 object streams
+ 422 named destinations out of 1000 (max. 500000)
+ 269 words of extra memory for PDF output out of 10000 (max. 10000000)
 
