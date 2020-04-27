@@ -78,36 +78,145 @@ that are present in the language. A detailed analysis will be provided later.
                  & Multiple Example 1 & Multiple Example 2\\
     \midrule
     \addlinespace[0.5em]
-    \textbf{ccomp}
+    \textbf{xcomp}
                  & Multiple Example 1 & Multiple Example 2\\
     \addlinespace[0.5em]
                  & Multiple Example 1 & Multiple Example 2\\
     \midrule
     \addlinespace[0.5em]
-    \textbf{ccomp}
+    \textbf{obl}
                  & Multiple Example 1 & Multiple Example 2\\
     \addlinespace[0.5em]
                  & Multiple Example 1 & Multiple Example 2\\
     \midrule
     \addlinespace[0.5em]
-    \textbf{ccomp}
+    \textbf{advcl}
                  & Multiple Example 1 & Multiple Example 2\\
     \addlinespace[0.5em]
                  & Multiple Example 1 & Multiple Example 2\\
     \midrule
-    \addlinespace[0.5em]
-    \textbf{ccomp}
+    \textbf{advmod}
                  & Multiple Example 1 & Multiple Example 2\\
     \addlinespace[0.5em]
                  & Multiple Example 1 & Multiple Example 2\\
     \midrule
+    \textbf{aux}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \textbf{mark}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \textbf{cop}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \textbf{discourse}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \textbf{dislocated}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \textbf{nmod}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \textbf{nummod}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \textbf{appos}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \textbf{acl}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \textbf{amod}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \textbf{det}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \textbf{case}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \textbf{conj}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \textbf{cc}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \textbf{fixed}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \textbf{flat}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \textbf{compound}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \textbf{list}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \textbf{punct}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \textbf{root}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \midrule
+    \textbf{dep}
+                 & Multiple Example 1 & Multiple Example 2\\
+    \addlinespace[0.5em]
+                 & Multiple Example 1 & Multiple Example 2\\
+    \bottomrule
     
 \caption{Discussion on UD tags}
 \label{tab:udtable}
 \end{longtable}
 
 \subsection{AnnCorra}
-Do the same for AnnCorra.
+Based on the results of tagging 100 sentences with AnnCorra tags, we present the
+following results.\\
+While the issues with AnnCorra are less pronounced than that of UD with regards
+to ambiguity, several concerns remain: including but not limited to a general
+confusion over the applicability of tags in cases and weak intra-chunk
+relations. A detailed analysis will be provided later.
 
 \begin{longtable}{cp{0.35\textwidth}p{0.35\textwidth}}
     \toprule
@@ -281,7 +390,10 @@ Do the same for AnnCorra.
 \section{Tag Statistics}
 
 Statistics have been compiled for UD and AnnCorra tagging of the provided Hindi
-datasets.
+datasets.\\
+In order to get the markers, I took a text diff (difflib.ndiff) of the provided
+hindi word and its base form as given in the dataset. In order to do that, a
+conversion to wx format was necessary.
 
 \subsection{Tag and Markers}
 
@@ -11245,7 +11357,12 @@ k7t nmod\_\_emph  & 1 \\ \midrule
 
 
 \section{Error Analysis for automatic tagging}
-In this section, describe the errors in the output of your model trained in Assignment 4 on the test data. Give possible solutions, if any, to mitigate these errors in the future. 
+We have a detailed report of the automatic tagging done for assignment 4,
+where we trained a CRF model on tagged hindi data and attempted to predict 
+results for an unseen test set.\\
+For purposes of error analysis, I went through examples of sentences in the 
+test set where \textit{less than 60\%} of the predicted tags were correct. There
+are \textbf{14} such sentences, and we attempt to analyse each one of them.
 
 \section{Discussion}
 

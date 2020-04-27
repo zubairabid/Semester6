@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1587929342 "main.tex" "main.pdf" "main" 1587929347
+["pdflatex"] 1588023179 "main.tex" "main.pdf" "main" 1588023186
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1572595918 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1572595918 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1572595918 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -153,11 +153,11 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1585745894 4700588 6cff29fd2f933ef89e76aa832077506f ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1585745869 8044938 658a185153bad0829dbe02c7a28c5701 ""
   "macros.tex" 1587093650 1484 215be4339f38fd3cf8f12fac76c165a7 ""
-  "main.aux" 1587929347 7279 5b85664292888ba66c7361409dbc4389 "pdflatex"
-  "main.out" 1587929347 1308 74908c316139b5bcec75b695ccdc6277 "pdflatex"
-  "main.tex" 1587929336 474408 e66596f06e9c0d367f78d3b14826a7ec ""
+  "main.aux" 1588023186 7279 e023e1cf69bc60c36e53b1e62e99a521 "pdflatex"
+  "main.out" 1588023186 1308 74908c316139b5bcec75b695ccdc6277 "pdflatex"
+  "main.tex" 1588023178 478931 9eeb828e723f1d5663c4dc46e9dd9d03 ""
   (generated)
-  "main.pdf"
-  "main.out"
   "main.aux"
+  "main.pdf"
   "main.log"
+  "main.out"
