@@ -13,8 +13,10 @@
 \BOOKMARK [3][-]{subsubsection.3.3.5}{3-grams, AnnCorra}{subsection.3.3}% 13
 \BOOKMARK [3][-]{subsubsection.3.3.6}{4-grams, AnnCorra}{subsection.3.3}% 14
 \BOOKMARK [1][-]{section.4}{Error Analysis for automatic tagging}{}% 15
-\BOOKMARK [1][-]{section.5}{Discussion}{}% 16
-\BOOKMARK [2][-]{subsection.5.1}{Comparison of UD and AnnCorra}{section.5}% 17
-\BOOKMARK [2][-]{subsection.5.2}{Need for new tags}{section.5}% 18
-\BOOKMARK [3][-]{subsubsection.5.2.1}{Intra-Chunk}{subsection.5.2}% 19
-\BOOKMARK [3][-]{subsubsection.5.2.2}{Inter-Chunk}{subsection.5.2}% 20
+\BOOKMARK [2][-]{subsection.4.1}{Comparison against UD Data}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.2}{Example analysis}{section.4}% 17
+\BOOKMARK [1][-]{section.5}{Discussion}{}% 18
+\BOOKMARK [2][-]{subsection.5.1}{Comparison of UD and AnnCorra}{section.5}% 19
+\BOOKMARK [2][-]{subsection.5.2}{Need for new tags}{section.5}% 20
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Intra-Chunk}{subsection.5.2}% 21
+\BOOKMARK [3][-]{subsubsection.5.2.2}{Inter-Chunk}{subsection.5.2}% 22
