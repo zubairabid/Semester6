@@ -12,9 +12,9 @@ layout: page
 
 | Component     | Weightage |
 |---------------|-----------|
-| End Sem Exam  | 40%       |
-| 4 Assignments | 40%       |
-| Midsem        | 20%       |
+| End Project   | 25%       |
+| 5 Assignments | 45%       |
+| Midsem        | 30%       |
 
 
 ## Written Notes
@@ -54,7 +54,7 @@ layout: page
 - [X] [Forest, timber use in Western Himalayas](./Readings/Forest, timber use in Western Himalayas 3-8.pdf)
 - [X] [Gadgil on Caste and Environment](./Readings/Caste and Ecological Niches.pdf)
 - [ ] [Gadgil on Caste and Environment (full)](./Readings/Gadgil and Malhotra on caste and ecological niches.pdf)
-- [ ] [Kavus in Kerala](./Readings/Freeman - Gods, Groves and the Culture of Nature in Kerala.pdf) [Things I noted][./Readings/summary/kavus]
+- [X] [Kavus in Kerala](./Readings/Freeman - Gods, Groves and the Culture of Nature in Kerala.pdf) [Things I noted][./Readings/summary/kavus]
 - [ ] [Heywood on Political Theories](./Readings/Andrew Heywood-Political Theory_ _ An Introduction-Palgrave Macmillan (2005).pdf) [Things I noted][./Readings/summary/andrewheywood] 
 - [ ] [Why Dalits dislike Environmentalists](./Readings/Why Dalits dislike environmentalists.pdf)
 
@@ -63,5 +63,6 @@ layout: page
 - [Assignment 1](./Assignments/1/index)
 - [Assignment 2](./Assignments/2/index)
 - [Assignment 3](./Assignments/3/index)
-- Assignment 4
+- [Assignment 4](./Assignments/4/index)
 - [Assignment 5](./Assignments/5/index)
+- [Project](./Assignments/Project/index)

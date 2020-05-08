@@ -18,23 +18,23 @@ Most of the work seems to be done in
 
 ### Progress tracker
 
-- [ ] Tags:
-    - [ ] UD Tags
-    - [ ] AnnCorra tags
-- [ ] Linguistic Challenges:
-    - [ ] DOM
+- [X] Tags:
+    - [X] UD Tags
+    - [X] AnnCorra tags
+- [o] Linguistic Challenges:
+    - [X] DOM
     - [ ] Non-Nominative
-    - [ ] Complex Predicates
-    - [ ] Non-finite Clauses
-    - [ ] Ambiguity
+    - [X] Complex Predicates
+    - [X] Non-finite Clauses
+    - [X] Ambiguity
     - [ ] Ellipsis
-    - [ ] Non-Projectivity
+    - [X] Non-Projectivity
     - [ ] Particles
 - [X] Tag Statistics:
     - [X] Tag-Marker
     - [X] Marker-Tag
     - [X] Tag N-Gram
-- [ ] Error analysis for automatic tagging
+- [X] Error analysis for automatic tagging
 - [ ] Discussion:
     - [ ] UD-AnnCorra comparison
     - [ ] Need for new tags:

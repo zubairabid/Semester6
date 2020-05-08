@@ -15,7 +15,7 @@ layout: page
 |-----------------------|-----------|
 | Quiz 1                | 15%       |
 | Midsem                | 40%       |
-| Evaluation sheets (6) | 45%       |
+| Evaluation sheets (5) | 45%       |
 
 ## Book
 
@@ -43,4 +43,8 @@ layout: page
 
 [Evaluation 2](./PQR2.pdf): [Solutions](./eval2/eval2.pdf)
 
-[Evaluation 3](./PQR3.pdf): Solutions
+[Evaluation 3](./PQR3.pdf): [Solutions](./eval3/eval3.pdf)
+
+[Evaluation 4](./eval4/PQR4-1.pdf): [Solutions](./eval4/20171076_ev4.pdf)
+
+[Evaluation 5](./eval5/PQR5.pdf): [Solutions](./eval5/eval5.pdf)
