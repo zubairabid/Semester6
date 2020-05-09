@@ -11,11 +11,13 @@ layout: page
 
 ### Grading Scheme
 
-| Component | Weightage |
-|-----------|-----------|
-|           | %         |
-|           | %         |
-|           | %         |
+| Component          | Weightage |
+|--------------------|-----------|
+| Midsem             | 15%       |
+| Endsem viva        | 23%       |
+| 2 Assignments      | 10%       |
+| Reading Assignment | 2%        |
+| Project            | 50%       |
 
 ## Revision
 

@@ -35,8 +35,6 @@ layout: page
 
 [Downloadable PDF](./notes-pois.pdf) [Downloadable PDF post-mid](./notes-poispostmid.pdf)
 
-[Athreya Notes](./Principles of Information Security full.pdf)
-
 # "PQR"
 
 [Evaluation 1](./PQR1.pdf): [Solutions](./eval1/eval1.pdf)

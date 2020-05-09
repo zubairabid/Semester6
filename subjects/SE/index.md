@@ -7,13 +7,16 @@ layout: page
 
 ## Logistics
 
-**Professor**: Prakash Yalla, Vasudeva Varma, (Venkat, ?)
+**Professor**: Prakash Yalla, Vasudeva Varma, Venkataramanan Subramanian, Amrut Joshi
 
 ### Grading Scheme
 
-| Component | Weightage |
-|-----------|-----------|
-|           |           |
+| Component  | Weightage |
+|------------|-----------|
+| Assignment | 15%       |
+| Quiz       | 15%       |
+| Midsem     | 30%       |
+| Project    | 40%       |
 
 
 ## Lecture Notes 

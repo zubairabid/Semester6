@@ -7,7 +7,7 @@ layout: page
 
 ## Logistics
 
-**Professor**: ?
+**Professor**: Krishnamurthy Parameshwari
 
 ### Grading Scheme
 
